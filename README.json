@@ -1,0 +1,2599 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vitor's Workflows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-06-17T16:34:33Z",
+            "owner": "vitorgalvao",
+            "repo": "alfred-workflows",
+            "stars": 2402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collection of Alfred workflows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-05-06T12:52:52Z",
+            "owner": "msoedov",
+            "repo": "Alfred-collection",
+            "stars": 944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Small Workflows by Nikita",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-21T23:21:57Z",
+            "owner": "nikivdev",
+            "repo": "alfred-past",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robb Knight's workflows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-29T13:41:21Z",
+            "owner": "rknightuk",
+            "repo": "alfred-workflows",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alfred Workflows (Rust)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-07T03:38:57Z",
+            "owner": "rust-playground",
+            "repo": "alfred-workflows-rs",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Collections"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Material Design Icons",
+          "description": "Find Material Design Icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-05T14:12:45Z",
+            "owner": "importre",
+            "repo": "alfred-mdi",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flat UI Colors",
+          "description": "Get flat color hexa codes from flatuicolors.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-07-09T12:49:52Z",
+            "owner": "mi-ca",
+            "repo": "alfredapp_flatuicolors_workflow",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Integration",
+          "description": "Fully featured workflow to inteact with GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-10T20:19:11Z",
+            "owner": "gharlan",
+            "repo": "alfred-github-workflow",
+            "stars": 2920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package managers",
+          "description": "Quick package/plugin/component (repo) lookup for your favourite package managers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-09T17:23:11Z",
+            "owner": "willfarrell",
+            "repo": "alfred-pkgman-workflow",
+            "stars": 701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devdocs",
+          "description": "Search through devdocs.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-12-06T09:32:44Z",
+            "owner": "yannickglt",
+            "repo": "alfred-devdocs",
+            "stars": 651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open in Jetbrains",
+          "description": "Open project with one of JetBrains' product.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-16T19:15:27Z",
+            "owner": "bchatard",
+            "repo": "alfred-jetbrains",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alfred-fkill",
+          "description": "Fabulously search and kill processes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-17T17:46:38Z",
+            "owner": "SamVerschueren",
+            "repo": "alfred-fkill",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stack Overflow",
+          "description": "Search StackOverflow.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-17T12:16:35Z",
+            "owner": "deanishe",
+            "repo": "alfred-stackexchange",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Can I use?",
+          "description": "Search can I use website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-11-07T21:44:21Z",
+            "owner": "willfarrell",
+            "repo": "alfred-caniuse-workflow",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Npms",
+          "description": "Search for npm packages with npms.io.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-09T07:41:00Z",
+            "owner": "sindresorhus",
+            "repo": "alfred-npms",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secure SHell",
+          "description": "Open SSH/SFTP/mosh connections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-07-13T04:27:04Z",
+            "owner": "deanishe",
+            "repo": "alfred-ssh",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash",
+          "description": "Search though any Dash docset that you have downloaded.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-07-01T21:51:37Z",
+            "owner": "Kapeli",
+            "repo": "Dash-Alfred-Workflow",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TLDR",
+          "description": "Search TLDR pages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-29T03:22:58Z",
+            "owner": "cs1707",
+            "repo": "tldr-alfred",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Console Services",
+          "description": "Search AWS console Services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-09T04:34:24Z",
+            "owner": "rkoval",
+            "repo": "alfred-aws-console-services-workflow",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repos",
+          "description": "Browse, search and open Git repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-08T16:20:53Z",
+            "owner": "deanishe",
+            "repo": "alfred-repos",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Jump",
+          "description": "Search your and your GitHub starred repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-23T23:37:42Z",
+            "owner": "lox",
+            "repo": "alfred-github-jump",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Gists",
+          "description": "Search through GitHub gists",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-25T00:51:26Z",
+            "owner": "danielecook",
+            "repo": "gist-alfred",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iTerm TTY switch",
+          "description": "Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-26T19:04:05Z",
+            "owner": "isometry",
+            "repo": "alfred-tty",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tower",
+          "description": "Search/Open Tower git repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-06-11T19:19:40Z",
+            "owner": "cjlucas",
+            "repo": "tower-alfred-workflow",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DNS Lookups",
+          "description": "Perform DNS lookups using dig and optionally copy a specific result to the clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-05-10T17:20:25Z",
+            "owner": "phallstrom",
+            "repo": "AlfredDig",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Cloud Platform",
+          "description": "Search Google Cloud Platform services and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-20T17:25:01Z",
+            "owner": "dineshgowda24",
+            "repo": "alfred-gcp-workflow",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Evolution",
+          "description": "Look up Swift evolution proposals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-07-22T18:11:12Z",
+            "owner": "attaswift",
+            "repo": "alfred-swift-evolution",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTTP Status Codes",
+          "description": "Check out HTTP status code quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T04:17:17Z",
+            "owner": "ilstar",
+            "repo": "http_status_code",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GCP shortcuts",
+          "description": "Shortcuts for opening Google Cloud Platform products in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-04-16T21:52:26Z",
+            "owner": "jarlefosen",
+            "repo": "alfred-gcloud-shortcuts",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker",
+          "description": "Search/Stop/Remove docker containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-08-24T19:10:12Z",
+            "owner": "anmolnagpal",
+            "repo": "alfred-docker-workflows",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transmit",
+          "description": "Open Transmit Bookmarks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2013-01-16T18:53:38Z",
+            "owner": "bigluck",
+            "repo": "alfred2-transmit",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VM Control",
+          "description": "Control your Parallels and Virtual Box virtual machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-22T14:26:37Z",
+            "owner": "fniephaus",
+            "repo": "alfred-vmcontrol",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Tools",
+          "description": "Collection of some useful network commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2019-09-14T15:16:17Z",
+            "owner": "fniephaus",
+            "repo": "alfred-network",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipe",
+          "description": "Easy transformation of the current contents of the clipboard by piping through arbitrary shell one-liners.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-29T18:24:34Z",
+            "owner": "isometry",
+            "repo": "alfred-pipe",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shell Variables",
+          "description": "Search your shell's variables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-11T23:09:32Z",
+            "owner": "hug33k",
+            "repo": "Alfred-ShellVariables",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rustdoc",
+          "description": "Uses rustdoc's search index to provide local search result.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-28T13:13:01Z",
+            "owner": "fanzeyi",
+            "repo": "alfred-rustdoc",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alfred-crates",
+          "description": "Workflow for searching Rust crates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-07-09T09:57:23Z",
+            "owner": "FGRibreau",
+            "repo": "alfred-crates",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hoogle",
+          "description": "Search Hoogle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2019-11-20T10:49:10Z",
+            "owner": "meck",
+            "repo": "alfred-hoogle",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CircleCI",
+          "description": "Show CircleCI Build Statuses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-09-02T02:54:34Z",
+            "owner": "lorentzca",
+            "repo": "alfred-circleci-workflow",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Httpstat",
+          "description": "Httpstat visualizes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T16:56:17Z",
+            "owner": "leozhang2018",
+            "repo": "alfred-httpstat",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Repo Search",
+          "description": "Find projects on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-26T16:37:35Z",
+            "owner": "anoff",
+            "repo": "alfred-github",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Travis",
+          "description": "Quickly check build statuses on Travis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-08-09T18:14:20Z",
+            "owner": "fniephaus",
+            "repo": "alfred-travis-ci",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Errnum",
+          "description": "Search macOS errors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-28T19:36:48Z",
+            "owner": "deanishe",
+            "repo": "alfred-errnum",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Ignore Templates",
+          "description": "Find .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-16T23:54:08Z",
+            "owner": "importre",
+            "repo": "alfred-gi",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Launcher",
+          "description": "Access the React & React Native Documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-20T21:52:50Z",
+            "owner": "winkerVSbecks",
+            "repo": "alfred-react-launcher",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pod Search",
+          "description": "Search through Cocoapods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-10-26T13:16:18Z",
+            "owner": "BenchR267",
+            "repo": "Pod-Search-Alfred",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Treehopper",
+          "description": "Navigate and create git worktrees.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-23T20:12:12Z",
+            "owner": "insanoid",
+            "repo": "treehopper",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SemaphoreCI",
+          "description": "Show SemaphoreCI build statuses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-08T12:36:18Z",
+            "owner": "renuo",
+            "repo": "semaphoreci-workflow",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "String Operations",
+          "description": "Perform string manipulation to the clipboard content.",
+          "children": []
+        }
+      ],
+      "title": "Developer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MDN search",
+          "description": "Search MDN documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-03T07:42:14Z",
+            "owner": "klaascuvelier",
+            "repo": "alfred-mdn",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elasticsearch Documentation",
+          "description": "Search Elasticsearch documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-10-12T09:18:36Z",
+            "owner": "spinscale",
+            "repo": "alfred-workflow-elastic-docs",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D2",
+          "description": "Quick access to popular libraries, framewoks & tools online developer documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-20T00:32:01Z",
+            "owner": "nire0510",
+            "repo": "d2",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Launcher",
+          "description": "Access the React & React Native documentation and community links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-20T21:52:50Z",
+            "owner": "winkerVSbecks",
+            "repo": "alfred-react-launcher",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Documentation",
+          "description": "Search Flutter documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-08T06:35:45Z",
+            "owner": "Sh1d0w",
+            "repo": "alfred-flutter-docs",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wolfram Alpha Suggest",
+          "description": "Supports direct term suggestions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-02-13T12:37:43Z",
+            "owner": "zqzten",
+            "repo": "alfred-web-search-suggest",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goodreads",
+          "description": "Search Goodreads for books.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-09-01T19:25:49Z",
+            "owner": "deanishe",
+            "repo": "alfred-booksearch",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Papers 3",
+          "description": "Search Papers3 items.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-08-08T14:57:32Z",
+            "owner": "wookayin",
+            "repo": "alfred-papers3-workflow",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeetCode Search",
+          "description": "Search algorithm problems in LeetCode with custom options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-04T16:57:57Z",
+            "owner": "TooSchoolForCool",
+            "repo": "LeetCode-Search",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Learn"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Birthday",
+          "description": "Showcase how much time passed since your birthday.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-21T23:21:57Z",
+            "owner": "nikivdev",
+            "repo": "alfred-past",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Figlet",
+          "description": "Asciify plain text using figlet.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-22T16:08:30Z",
+            "owner": "importre",
+            "repo": "alfred-figlet",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dongers",
+          "description": "List unicode emoticons easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-03-22T22:06:07Z",
+            "owner": "frdmn",
+            "repo": "alfred-dongers",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Fun"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alfred Workflow",
+          "description": "Write workflows in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-10T14:43:04Z",
+            "owner": "deanishe",
+            "repo": "alfred-workflow",
+            "stars": 2967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alfy",
+          "description": "Write workflows in Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-02T06:00:15Z",
+            "owner": "sindresorhus",
+            "repo": "alfy",
+            "stars": 2652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AwGo",
+          "description": "Write workflows in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-03T07:40:57Z",
+            "owner": "deanishe",
+            "repo": "awgo",
+            "stars": 877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alfred Rust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2019-08-27T18:59:20Z",
+            "owner": "lilyball",
+            "repo": "alfred-rs",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alfred Rust 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-09-22T06:03:44Z",
+            "owner": "spamwax",
+            "repo": "alfred-workflow",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alfred Footman",
+          "description": "Write workflows in Haskell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2019-06-23T19:19:06Z",
+            "owner": "meck",
+            "repo": "alfred-footman",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NightShift",
+          "description": "Quickly turn on/off Night Shift or set the warm strength to a custom value.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-13T05:21:03Z",
+            "owner": "shmulvad",
+            "repo": "alfred-nightshift",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DarkOrLight",
+          "description": "Change macOS theme to Dark/Light with one click.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-13T16:50:51Z",
+            "owner": "BaksiLi",
+            "repo": "AlfredWorkflows",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macOS App Search",
+          "description": "Search macOS app store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-10-04T14:11:14Z",
+            "owner": "nkcmr",
+            "repo": "alfred-apple-app-search",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "macOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spotify Mini Player",
+          "description": "Fully control Spotify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T08:24:48Z",
+            "owner": "vdesabou",
+            "repo": "alfred-spotify-mini-player",
+            "stars": 1112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Play Song",
+          "description": "Quickly and easily play music in iTunes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AppleScript",
+            "last_commit": "2025-09-20T22:39:39Z",
+            "owner": "caleb531",
+            "repo": "play-song",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discogs Explorer",
+          "description": "Explore the Discogs.com database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2022-08-31T01:06:17Z",
+            "owner": "dotson",
+            "repo": "Discogs-Explorer",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPD",
+          "description": "Control MPD music player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-05T19:16:32Z",
+            "owner": "deanishe",
+            "repo": "alfred-mpd",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "My Mind",
+          "description": "Search through bookmarks, notes and various websites quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MoonBit",
+            "last_commit": "2026-06-17T17:33:04Z",
+            "owner": "nikivdev",
+            "repo": "mbt",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keyboard Maestro",
+          "description": "Search through Keyboard Maestro macros.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-24T05:55:53Z",
+            "owner": "iansinnott",
+            "repo": "alfred-maestro",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toggl",
+          "description": "Operate Toggl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-02T19:54:30Z",
+            "owner": "jason0x43",
+            "repo": "alfred-toggl",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pocket",
+          "description": "Manage your Pocket list.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-25T09:15:41Z",
+            "owner": "fniephaus",
+            "repo": "alfred-pocket",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firefox Assistant",
+          "description": "Search and control Firefox from Alfred.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-23T06:42:29Z",
+            "owner": "deanishe",
+            "repo": "alfred-firefox",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Things",
+          "description": "Interact with Things 3 using Alfred.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-02T18:08:35Z",
+            "owner": "xilopaint",
+            "repo": "alfred-things",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Todoist",
+          "description": "Manage Todoist tasks with Alfred.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-31T18:07:31Z",
+            "owner": "moranje",
+            "repo": "alfred-workflow-todoist",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Searchio",
+          "description": "Auto-suggest search results from multiple search engines and languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-01-05T19:33:52Z",
+            "owner": "deanishe",
+            "repo": "alfred-searchio",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Searches",
+          "description": "Search through any website on the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-21T23:18:14Z",
+            "owner": "nikivdev",
+            "repo": "alfred-web-searches",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drive",
+          "description": "Search Google Drive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-07-24T07:29:09Z",
+            "owner": "azai91",
+            "repo": "alfred-drive-workflow",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safari Assistant",
+          "description": "Search through your Safari history, bookmarks, reading list.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2019-10-19T21:00:42Z",
+            "owner": "deanishe",
+            "repo": "alfred-safari-assistant",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Lists",
+          "description": "Browse all awesome lists in seconds inside Alfred.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-21T23:24:15Z",
+            "owner": "nikivdev",
+            "repo": "alfred-awesome-lists",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn Anything",
+          "description": "Search Learn Anything Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-22T12:17:53Z",
+            "owner": "nikivdev",
+            "repo": "alfred-learn-anything",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weather",
+          "description": "Get latest weather for the day, week.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-04T18:56:32Z",
+            "owner": "jason0x43",
+            "repo": "alfred-weather",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chromium Assistant",
+          "description": "Search and control Chromium based browsers from Alfred.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-06T11:16:14Z",
+            "owner": "jopemachine",
+            "repo": "alfred-chromium-workflow",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iMessage 2FA",
+          "description": "Find two-factor authentication codes in your recent iMessage messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-01-06T03:22:06Z",
+            "owner": "squatto",
+            "repo": "alfred-imessage-2fa",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recent Downloads",
+          "description": "Browse through your Downloads directory or any other directory you specify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-03-22T02:14:09Z",
+            "owner": "ddjfreedom",
+            "repo": "recent-downloads-alfred-v2",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MailTo",
+          "description": "Search through your contact list to send emails to one or multiple people.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-24T08:56:47Z",
+            "owner": "deanishe",
+            "repo": "alfred-mailto",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Say-workflow",
+          "description": "Read out something swiftly, a good reference for pronunciation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-13T16:50:51Z",
+            "owner": "BaksiLi",
+            "repo": "AlfredWorkflows",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apple Notes",
+          "description": "Make new notes or search notes from macOS Notes app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AppleScript",
+            "last_commit": "2018-06-11T15:42:14Z",
+            "owner": "surrealroad",
+            "repo": "alfred-notes",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taskpaper",
+          "description": "Search and create tasks in TaskPaper 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AppleScript",
+            "last_commit": "2023-01-05T20:04:25Z",
+            "owner": "robwalton",
+            "repo": "alfred-taskpaper-workflow",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Join Zoom Meeting",
+          "description": "Join Zoom meetings easily without a new tab opening in your browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-26T18:15:57Z",
+            "owner": "aurooba",
+            "repo": "alfred-workflow-zoom-meetings",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mailsy",
+          "description": "Quickly generate a disposable email.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-31T04:58:22Z",
+            "owner": "BalliAsghar",
+            "repo": "mailsy-alfred",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyPNG",
+          "description": "Compress PNG and JPG images using TinyPNG in Alfred.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-01T16:53:38Z",
+            "owner": "shmulvad",
+            "repo": "alfred-tinypng",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast Menu Bar Search",
+          "description": "Search through currently active app's menu bar actions quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-05-15T07:26:11Z",
+            "owner": "ascandroli",
+            "repo": "menudump",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timezone",
+          "description": "Quickly search through cities and timezones to find out what time it is in different places.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2019-05-25T23:30:46Z",
+            "owner": "lox",
+            "repo": "alfred-timezone",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text to Calendar",
+          "description": "Create calendar events from unstructured text using an LLM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-14T09:11:04Z",
+            "owner": "vhpoet",
+            "repo": "alfred-text-to-calendar",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hastebin",
+          "description": "Create Hastebin snippet from selected text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-01-06T15:37:46Z",
+            "owner": "jvandyke",
+            "repo": "alfred-hastebin",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hue Timer",
+          "description": "Start a timer, which blinks the lights when the time is up.",
+          "children": []
+        }
+      ],
+      "title": "Productivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unlock Your Mac",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-02-09T16:23:58Z",
+            "owner": "gabamnml",
+            "repo": "unlock-your-mac",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keynote Remote",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-02-12T14:17:49Z",
+            "owner": "gabamnml",
+            "repo": "Keynote-remote",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Remote"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Translate ru-en en-ru",
+          "description": "Quickly translate from Russion > English and vice versa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-17T10:40:48Z",
+            "owner": "podgorniy",
+            "repo": "alfred-translate",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Translate ger-en en-ger + 8 others",
+          "description": "Quickly translate from German > English and vice versa + 8 other languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-06T18:18:07Z",
+            "owner": "dennis-tra",
+            "repo": "alfred-dict.cc-workflow",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linguee",
+          "description": "Translate German-English and vice versa with linguee.de",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-01-01T17:54:03Z",
+            "owner": "alexander-heimbuch",
+            "repo": "linguee-alfred-workflow",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convert en-ko",
+          "description": "Convert misspelled English characters into Korean letters (& vice versa)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-11T12:27:49Z",
+            "owner": "738",
+            "repo": "alfred-inko",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polyglot",
+          "description": "Translate text using Google Translate.",
+          "children": []
+        }
+      ],
+      "title": "Translation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Process Control",
+          "description": "Search through currently active processes and kill ones that are misbehaving quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-06-17T16:34:33Z",
+            "owner": "vitorgalvao",
+            "repo": "alfred-workflows",
+            "stars": 2402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RunCommand",
+          "description": "Run shell commands on selected files/directories.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-06-17T16:34:33Z",
+            "owner": "vitorgalvao",
+            "repo": "alfred-workflows",
+            "stars": 2402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WatchList",
+          "description": "Play and manage local audiovisual content and streams.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-06-17T16:34:33Z",
+            "owner": "vitorgalvao",
+            "repo": "alfred-workflows",
+            "stars": 2402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebScreenshot",
+          "description": "Take screenshots with a keyboard shortcut and upload them directly to Imgur.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-06-17T16:34:33Z",
+            "owner": "vitorgalvao",
+            "repo": "alfred-workflows",
+            "stars": 2402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notion Search",
+          "description": "Alfred workflow to search Notion with instant results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T13:50:57Z",
+            "owner": "wrjlewis",
+            "repo": "notion-search-alfred-workflow",
+            "stars": 846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Font Awesome",
+          "description": "Search for Font Awesome icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T01:12:08Z",
+            "owner": "ruedap",
+            "repo": "alfred-font-awesome-workflow",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emoji Search",
+          "description": "Search and copy emojis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T11:07:20Z",
+            "owner": "jsumners",
+            "repo": "alfred-emoji",
+            "stars": 782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convert",
+          "description": "Convert between different units.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-08T11:05:30Z",
+            "owner": "deanishe",
+            "repo": "alfred-convert",
+            "stars": 712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search Notes App",
+          "description": "Use Alfred to quickly open notes in iCloud/Apple Notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-15T10:55:42Z",
+            "owner": "sballin",
+            "repo": "alfred-search-notes-app",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Encode/Decode",
+          "description": "Encoding and decoding a sting into multiple variations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-10-17T23:55:39Z",
+            "owner": "willfarrell",
+            "repo": "alfred-encode-decode-workflow",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Top Process",
+          "description": "Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-07-03T20:21:07Z",
+            "owner": "zhaocai",
+            "repo": "alfred2-top-workflow",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Windows Switcher",
+          "description": "Enumerate and switch between windows on macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-07-21T07:53:26Z",
+            "owner": "mandrigin",
+            "repo": "AlfredSwitchWindows",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pwgen",
+          "description": "Generate secure passwords.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-02T07:58:53Z",
+            "owner": "deanishe",
+            "repo": "alfred-pwgen",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Currency Convert",
+          "description": "Convert currency conveniently.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-04-28T07:44:07Z",
+            "owner": "jin5354",
+            "repo": "alfred3-workflow-CurrencyConvert",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fakeum",
+          "description": "Generate fake test data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-27T04:22:33Z",
+            "owner": "deanishe",
+            "repo": "alfred-fakeum",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pinboard search",
+          "description": "Manage, post and preview your bookmarks on Pinboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-18T01:48:46Z",
+            "owner": "spamwax",
+            "repo": "alfred-pinboard-rs",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Calendar",
+          "description": "View Google Calendar events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-07-30T04:28:44Z",
+            "owner": "deanishe",
+            "repo": "alfred-gcal",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Layout",
+          "description": "Powerful window manager with many options (Looking for new owner/maintainer)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2019-03-16T14:48:23Z",
+            "owner": "untoldwind",
+            "repo": "alfred2-layout",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unicode Symbols Search",
+          "description": "Quickly search through all Unicode symbols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-02T10:27:06Z",
+            "owner": "bevesce",
+            "repo": "unicode-symbols-search",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Currency Conversion",
+          "description": "See foreign exchange rates and currency conversion.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-05-13T09:51:44Z",
+            "owner": "jeppestaerk",
+            "repo": "alfred-currency-conversion",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Viscosity",
+          "description": "Manage Viscosity VPN connections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-01T15:41:30Z",
+            "owner": "deanishe",
+            "repo": "alfred-vpn-manager",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDF Tools",
+          "description": "Optimize, encrypt and manipulate PDF files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-14T11:14:29Z",
+            "owner": "xilopaint",
+            "repo": "alfred-pdf-tools",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cheatsheet",
+          "description": "Gets keyboard shortcuts for applications, websites, and tools...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-25T15:30:03Z",
+            "owner": "mutdmour",
+            "repo": "alfred-workflow-cheatsheet",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Show network info",
+          "description": "Get your network information.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-20T16:29:28Z",
+            "owner": "jeppestaerk",
+            "repo": "alfred-show-network-info",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bluetooth Controller",
+          "description": "Manage bluetooth settings and connections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-12T15:25:52Z",
+            "owner": "vegardinho",
+            "repo": "alfred_bluetooth_controller",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Number System Converter",
+          "description": "Convert numbers into other number systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-30T09:44:29Z",
+            "owner": "obstschale",
+            "repo": "NSC",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syntax highlight code",
+          "description": "Highlight code in the clipboard using highlight.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-11T10:39:34Z",
+            "owner": "importre",
+            "repo": "alfred-hl",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Date calculator",
+          "description": "Display or calculate with current date and time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-04-30T11:48:43Z",
+            "owner": "LeEnno",
+            "repo": "alfred-date-calculator",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lorem Ipsum",
+          "description": "Create ultra-fast Lorem Ipsum text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-01-24T16:56:34Z",
+            "owner": "tillkruss",
+            "repo": "alfred-lorem-ipsum",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Windows",
+          "description": "Switch between open windows of the currently focused application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-01-30T23:00:39Z",
+            "owner": "jnewland",
+            "repo": "alfred-open-windows",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Display calendar",
+          "description": "Displays a monthly calendar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-15T15:57:19Z",
+            "owner": "owenwater",
+            "repo": "alfred-cal",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brightness",
+          "description": "Adjust your display's brightness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-30T17:43:26Z",
+            "owner": "fniephaus",
+            "repo": "alfred-brightness",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QR code creator",
+          "description": "Create QR code from tex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-12-29T07:58:58Z",
+            "owner": "wensonsmith",
+            "repo": "QRcodeCreator",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KPass",
+          "description": "KeePassXC Integration to retrieve passwords.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-11-12T17:41:45Z",
+            "owner": "Angoll",
+            "repo": "KPass",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bluetooth Switch",
+          "description": "Quickly connect / disconnect Bluetooth devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-05-12T15:24:56Z",
+            "owner": "uchida",
+            "repo": "alfred-switch-bluetooth",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Screensharing",
+          "description": "Hosts with Screen Sharing enabled will be automatically discovered.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2013-11-19T12:38:45Z",
+            "owner": "pstadler",
+            "repo": "alfred-screensharing",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Battery",
+          "description": "Display battery levels of your Apple devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-05-07T05:28:11Z",
+            "owner": "BenziAhamed",
+            "repo": "alfred-battery",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Similar Images",
+          "description": "Make Google image searches on localfiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-31T17:18:06Z",
+            "owner": "deanishe",
+            "repo": "alfred-similar-image-search",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crypto Tracker",
+          "description": "Quickly check cryptocurrency prices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-29T12:05:19Z",
+            "owner": "rhlsthrm",
+            "repo": "alfred-crypto-tracker",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tidy",
+          "description": "Beautify JSON/XML in clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-13T04:23:00Z",
+            "owner": "importre",
+            "repo": "alfred-tidy",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Various Screenshots",
+          "description": "Taking various screenshots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-06-18T19:53:24Z",
+            "owner": "vookimedlo",
+            "repo": "alfred-various-screenshots",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Speak",
+          "description": "Use OS X's TTS (text-to-speech) feature to speak text aloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-04-10T18:55:58Z",
+            "owner": "mklement0",
+            "repo": "speak.awf",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Karabiner Elements Profile Switcher",
+          "description": "Handy profile switcher for Karabiner Elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-30T13:00:32Z",
+            "owner": "awinecki",
+            "repo": "karabiner-elements-profile-switcher",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Locations",
+          "description": "List, filter and activate network locations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-15T12:18:39Z",
+            "owner": "deanishe",
+            "repo": "alfred-network-location",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rsync Folders",
+          "description": "Keep a set of folders in sync with their target folders via rsync.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-26T10:00:08Z",
+            "owner": "Acidham",
+            "repo": "rsync-folders",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shhhhh!",
+          "description": "Close all open system alerts (iCal, etc) without touching the mouse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-24T19:55:56Z",
+            "owner": "skotzko",
+            "repo": "shhhhh",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File Creator",
+          "description": "Create files of certain types quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-09-07T08:01:37Z",
+            "owner": "SteliosHa",
+            "repo": "Alfred_File_Creator",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IMDB",
+          "description": "Search IMDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T12:12:02Z",
+            "owner": "KevinRamsunder",
+            "repo": "alfred3-imdb-workflow",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Workflow Directory Search",
+          "description": "Quckly open any Alfred Workflow directory in your Terminal, Finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-04T17:18:52Z",
+            "owner": "jeeftor",
+            "repo": "AlfredWorkflowDirectory",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airport Searching",
+          "description": "Search for Airports from the Our Airports data set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-18T16:41:36Z",
+            "owner": "jeeftor",
+            "repo": "alfredAirports",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time Calculator",
+          "description": "Evaluate natural time expressions like “3 days ago” or “next Monday”. Supports math, working days, and date ranges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-21T02:01:44Z",
+            "owner": "shura-v",
+            "repo": "alfred-time-calculator",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monitor Resolutions",
+          "description": "Change resolutions on primary monitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-07-25T04:06:14Z",
+            "owner": "taylorludwig",
+            "repo": "Resolutions-Alfred",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Beautifier In FeHelper",
+          "description": "View clipboard/input JSON in FeHelper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-11T12:44:37Z",
+            "owner": "hanjm",
+            "repo": "alfred-json-beautifier-in-fehelper-workflow",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mac Window Layout Tiles",
+          "description": "Keyboard shortcuts to position and size windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-13T21:40:04Z",
+            "owner": "jknight",
+            "repo": "MacWindowLayoutTiles",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Folder2ISO",
+          "description": "Makes an image file for each selected folder in OS X Finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2013-12-21T11:35:48Z",
+            "owner": "josefglatz",
+            "repo": "folder2iso-alfredworkflow",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AbuseIPDB",
+          "description": "Query IP address against AbuseIPDB database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-06-12T06:55:56Z",
+            "owner": "slunak",
+            "repo": "abuseipdb-alfred-workflow",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio Device",
+          "description": "Audio Device Input / Output Switching",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Flush",
+          "description": "Flush DNS/Memcached.",
+          "children": []
+        }
+      ],
+      "title": "Utility"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HackerBoard",
+          "description": "Front page news from Hacker News and Pinboard.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-06-17T16:34:33Z",
+            "owner": "vitorgalvao",
+            "repo": "alfred-workflows",
+            "stars": 2402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reddit search",
+          "description": "Find subreddits and browse hot posts from Reddit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-26T20:13:38Z",
+            "owner": "deanishe",
+            "repo": "alfred-reddit",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Product Hunt",
+          "description": "Get today's hunts from Product Hunt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-01-31T20:54:29Z",
+            "owner": "loris",
+            "repo": "alfred-producthunt-workflow",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SynArt",
+          "description": "Search for synonyms and antonms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-06-17T16:34:33Z",
+            "owner": "vitorgalvao",
+            "repo": "alfred-workflows",
+            "stars": 2402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bear",
+          "description": "Streamlined note searching and creation for Bear using Alfred.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-02-26T13:03:29Z",
+            "owner": "drgrib",
+            "repo": "alfred-bear",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ulysses",
+          "description": "Search for sheets or groups from Ulysses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-14T14:04:48Z",
+            "owner": "robwalton",
+            "repo": "alfred-ulysses-workflow",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaTeX Symbols",
+          "description": "Find LaTeX commands for symbols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-05-02T20:01:21Z",
+            "owner": "wookayin",
+            "repo": "alfred-latex-symbols-workflow",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Writing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alfred Keywords",
+          "description": "Search through Alfred workflow keywords.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-16T09:21:19Z",
+            "owner": "pochemuto",
+            "repo": "alfred-help-workflow",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search Alfred Workflows",
+          "description": "Alfred Workflows help to search in Title, Keyword, Description of a workflow and open it in various actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-20T08:26:15Z",
+            "owner": "Acidham",
+            "repo": "search-alfred-workflows",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Meta"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alfred Workflows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-27T01:37:28Z",
+            "owner": "zenorocha",
+            "repo": "alfred-workflows",
+            "stars": 12255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Alfred Workflows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-08-08T12:01:17Z",
+            "owner": "alfred-workflows",
+            "repo": "awesome-alfred-workflows",
+            "stars": 3180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Alfred Workflows 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-08-08T12:01:17Z",
+            "owner": "alfred-workflows",
+            "repo": "awesome-alfred-workflows",
+            "stars": 3180
+          }
+        }
+      ],
+      "title": "Related"
+    },
+    {
+      "description": "If you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.\n\n\n",
+      "items": [],
+      "title": "GitHub badge"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:21:36.683Z",
+    "original_repository": "linsa-io/alfred-workflows",
+    "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
+    "enhanced_repository": "enhansome/enhansome-alfred-workflows",
+    "enhanced_repository_description": null,
+    "title": "Awesome Alfred Workflows with stars"
+  }
+}
