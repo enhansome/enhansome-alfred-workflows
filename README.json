@@ -152,7 +152,7 @@
             "last_commit": "2021-12-06T09:32:44Z",
             "owner": "yannickglt",
             "repo": "alfred-devdocs",
-            "stars": 651
+            "stars": 652
           }
         },
         {
@@ -1034,7 +1034,7 @@
             "last_commit": "2026-08-12T08:24:48Z",
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
-            "stars": 1112
+            "stars": 1111
           }
         },
         {
@@ -1669,7 +1669,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T01:12:08Z",
+            "last_commit": "2026-08-14T20:15:59Z",
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
             "stars": 805
@@ -2589,7 +2589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:21:36.683Z",
+    "last_updated": "2026-08-14T21:53:17.287Z",
     "original_repository": "linsa-io/alfred-workflows",
     "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
     "enhanced_repository": "enhansome/enhansome-alfred-workflows",
