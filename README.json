@@ -320,7 +320,7 @@
             "last_commit": "2022-05-25T00:51:26Z",
             "owner": "danielecook",
             "repo": "gist-alfred",
-            "stars": 121
+            "stars": 122
           }
         },
         {
@@ -1576,7 +1576,7 @@
             "last_commit": "2019-04-11T12:27:49Z",
             "owner": "738",
             "repo": "alfred-inko",
-            "stars": 5
+            "stars": 4
           }
         },
         {
@@ -2562,7 +2562,7 @@
             "last_commit": "2024-08-08T12:01:17Z",
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3180
+            "stars": 3179
           }
         },
         {
@@ -2576,7 +2576,7 @@
             "last_commit": "2024-08-08T12:01:17Z",
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3180
+            "stars": 3179
           }
         }
       ],
@@ -2589,7 +2589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:53:17.287Z",
+    "last_updated": "2026-08-15T21:50:52.906Z",
     "original_repository": "linsa-io/alfred-workflows",
     "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
     "enhanced_repository": "enhansome/enhansome-alfred-workflows",

@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,766 | 🐛 417 | 📅 2026-08-14.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,768 | 🐛 417 | 📅 2026-08-14.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,11 +47,11 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 367 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,399 | 🐛 305 | 🌐 Markdown | 📅 2026-08-14 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,407 | 🐛 304 | 🌐 Markdown | 📅 2026-08-15 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
-* [GitHub Gists](https://github.com/danielecook/gist-alfred) ⭐ 121 | 🐛 3 | 🌐 Python | 📅 2022-05-25 - Search through GitHub gists
+* [GitHub Gists](https://github.com/danielecook/gist-alfred) ⭐ 122 | 🐛 3 | 🌐 Python | 📅 2022-05-25 - Search through GitHub gists
 * [iTerm TTY switch](https://github.com/isometry/alfred-tty) ⭐ 105 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-26 - Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
 * [Tower](https://github.com/cjlucas/tower-alfred-workflow) ⭐ 81 | 🐛 2 | 🌐 Ruby | 📅 2024-06-11 - Search/Open Tower git repositories.
 * [DNS Lookups](https://github.com/phallstrom/AlfredDig) ⭐ 73 | 🐛 0 | 🌐 Shell | 📅 2018-05-10 - Perform DNS lookups using dig and optionally copy a specific result to the clipboard.
@@ -173,7 +173,7 @@
 * [Translate ru-en en-ru](https://github.com/podgorniy/alfred-translate) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2022-06-17 - Quickly translate from Russion > English and vice versa.
 * [Translate ger-en en-ger + 8 others](https://github.com/dennis-tra/alfred-dict.cc-workflow) ⭐ 139 | 🐛 8 | 🌐 Go | 📅 2024-06-06 - Quickly translate from German > English and vice versa + 8 other languages.
 * [Linguee](https://github.com/alexander-heimbuch/linguee-alfred-workflow) ⚠️ Archived - Translate German-English and vice versa with [linguee.de](https://www.linguee.de)
-* [Convert en-ko](https://github.com/738/alfred-inko) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-11 - Convert misspelled English characters into Korean letters (& vice versa)
+* [Convert en-ko](https://github.com/738/alfred-inko) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-11 - Convert misspelled English characters into Korean letters (& vice versa)
 * [Google Translate](http://www.packal.org/workflow/translate) - Utilize any of Google Translate's languages and see results for multiple languages.
 * [Polyglot](https://github.com/nikersify/alfred-polyglot) - Translate text using Google Translate.
 
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
