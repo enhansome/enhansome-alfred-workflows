@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,768 | 🐛 417 | 📅 2026-08-14.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,772 | 🐛 421 | 📅 2026-08-14.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 367 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,407 | 🐛 304 | 🌐 Markdown | 📅 2026-08-15 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,417 | 🐛 301 | 🌐 Markdown | 📅 2026-08-16 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -104,7 +104,7 @@
 
 ## Libraries
 
-* [Alfred Workflow](https://github.com/deanishe/alfred-workflow) ⭐ 2,967 | 🐛 21 | 🌐 Python | 📅 2023-01-10 - Write workflows in Python.
+* [Alfred Workflow](https://github.com/deanishe/alfred-workflow) ⭐ 2,966 | 🐛 21 | 🌐 Python | 📅 2023-01-10 - Write workflows in Python.
 * [Alfy](https://github.com/sindresorhus/alfy) ⭐ 2,652 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Write workflows in Node.js.
 * [AwGo](https://github.com/deanishe/awgo) ⭐ 877 | 🐛 17 | 🌐 Go | 📅 2024-04-03 - Write workflows in Go.
 * [Alfred Rust](https://github.com/lilyball/alfred-rs) ⭐ 48 | 🐛 2 | 🌐 Rust | 📅 2019-08-27
@@ -119,7 +119,7 @@
 
 ## Music
 
-* [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) ⭐ 1,111 | 🐛 1 | 🌐 PHP | 📅 2026-08-12 - Fully control Spotify.
+* [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) ⭐ 1,111 | 🐛 2 | 🌐 PHP | 📅 2026-08-12 - Fully control Spotify.
 * [Play Song](https://github.com/caleb531/play-song) ⭐ 115 | 🐛 1 | 🌐 AppleScript | 📅 2025-09-20 - Quickly and easily play music in iTunes.
 * [Discogs Explorer](https://github.com/dotson/Discogs-Explorer) ⭐ 16 | 🐛 4 | 🌐 Objective-C | 📅 2022-08-31 - Explore the [Discogs.com](https://www.discogs.com) database.
 * [MPD](https://github.com/deanishe/alfred-mpd) ⭐ 9 | 🐛 4 | 🌐 Python | 📅 2020-06-05 - Control MPD music player.
@@ -192,13 +192,13 @@
 * [Emoji Search](https://github.com/jsumners/alfred-emoji) ⭐ 782 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-27 - Search and copy emojis.
 * [Convert](https://github.com/deanishe/alfred-convert) ⭐ 712 | 🐛 19 | 🌐 Python | 📅 2022-07-08 - Convert between different units.
 * [Search Notes App](https://github.com/sballin/alfred-search-notes-app) ⭐ 588 | 🐛 13 | 🌐 Go | 📅 2025-01-15 - Use Alfred to quickly open notes in iCloud/Apple Notes.
-* [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) ⭐ 527 | 🐛 10 | 🌐 PHP | 📅 2022-10-17 - Encoding and decoding a sting into multiple variations.
-* [Top Process](https://github.com/zhaocai/alfred2-top-workflow) ⭐ 514 | 🐛 11 | 🌐 Ruby | 📅 2016-07-03 - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
+* [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) ⭐ 526 | 🐛 10 | 🌐 PHP | 📅 2022-10-17 - Encoding and decoding a sting into multiple variations.
+* [Top Process](https://github.com/zhaocai/alfred2-top-workflow) ⭐ 511 | 🐛 11 | 🌐 Ruby | 📅 2016-07-03 - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
 * [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) ⭐ 334 | 🐛 21 | 🌐 Swift | 📅 2022-07-21 - Enumerate and switch between windows on macOS.
 * [Pwgen](https://github.com/deanishe/alfred-pwgen) ⭐ 294 | 🐛 7 | 🌐 Python | 📅 2022-08-02 - Generate secure passwords.
-* [Currency Convert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) ⭐ 287 | 🐛 10 | 🌐 Ruby | 📅 2021-04-28 - Convert currency conveniently.
+* [Currency Convert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) ⭐ 286 | 🐛 10 | 🌐 Ruby | 📅 2021-04-28 - Convert currency conveniently.
 * [Fakeum](https://github.com/deanishe/alfred-fakeum) ⭐ 281 | 🐛 8 | 🌐 Python | 📅 2021-07-27 - Generate fake test data.
-* [Pinboard search](https://github.com/spamwax/alfred-pinboard-rs) ⭐ 280 | 🐛 4 | 🌐 Rust | 📅 2026-01-18 - Manage, post and preview your bookmarks on [Pinboard](https://pinboard.in/).
+* [Pinboard search](https://github.com/spamwax/alfred-pinboard-rs) ⭐ 280 | 🐛 2 | 🌐 Rust | 📅 2026-01-18 - Manage, post and preview your bookmarks on [Pinboard](https://pinboard.in/).
 * [Google Calendar](https://github.com/deanishe/alfred-gcal) ⭐ 230 | 🐛 21 | 🌐 Go | 📅 2021-07-30 - View Google Calendar events.
 * [Layout](https://github.com/untoldwind/alfred2-layout) ⭐ 196 | 🐛 3 | 🌐 Perl | 📅 2019-03-16 - Powerful window manager with many options (Looking for new owner/maintainer)
 * [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search) ⭐ 193 | 🐛 1 | 🌐 Python | 📅 2023-06-02 - Quickly search through all Unicode symbols.
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

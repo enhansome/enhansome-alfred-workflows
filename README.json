@@ -896,7 +896,7 @@
             "last_commit": "2023-01-10T14:43:04Z",
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2967
+            "stars": 2966
           }
         },
         {
@@ -1728,7 +1728,7 @@
             "last_commit": "2022-10-17T23:55:39Z",
             "owner": "willfarrell",
             "repo": "alfred-encode-decode-workflow",
-            "stars": 527
+            "stars": 526
           }
         },
         {
@@ -1742,7 +1742,7 @@
             "last_commit": "2016-07-03T20:21:07Z",
             "owner": "zhaocai",
             "repo": "alfred2-top-workflow",
-            "stars": 514
+            "stars": 511
           }
         },
         {
@@ -1784,7 +1784,7 @@
             "last_commit": "2021-04-28T07:44:07Z",
             "owner": "jin5354",
             "repo": "alfred3-workflow-CurrencyConvert",
-            "stars": 287
+            "stars": 286
           }
         },
         {
@@ -2589,7 +2589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:50:52.906Z",
+    "last_updated": "2026-08-16T21:50:04.419Z",
     "original_repository": "linsa-io/alfred-workflows",
     "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
     "enhanced_repository": "enhansome/enhansome-alfred-workflows",
