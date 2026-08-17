@@ -1376,7 +1376,7 @@
             "last_commit": "2023-01-05T20:04:25Z",
             "owner": "robwalton",
             "repo": "alfred-taskpaper-workflow",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -2589,7 +2589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:50:04.419Z",
+    "last_updated": "2026-08-17T21:53:39.430Z",
     "original_repository": "linsa-io/alfred-workflows",
     "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
     "enhanced_repository": "enhansome/enhansome-alfred-workflows",
