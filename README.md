@@ -32,12 +32,12 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,778 | 🐛 421 | 📅 2026-08-14.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,777 | 🐛 422 | 📅 2026-08-14.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
 
-* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,920 | 🐛 10 | 🌐 PHP | 📅 2026-05-10 - Fully featured workflow to inteact with GitHub.
+* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,919 | 🐛 10 | 🌐 PHP | 📅 2026-05-10 - Fully featured workflow to inteact with GitHub.
 * [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) ⭐ 701 | 🐛 0 | 🌐 PHP | 📅 2025-12-09 - Quick package/plugin/component (repo) lookup for your favourite package managers.
 * [Devdocs](https://github.com/yannickglt/alfred-devdocs) ⭐ 652 | 🐛 8 | 🌐 PHP | 📅 2021-12-06 - Search through [devdocs.io](http://devdocs.io/)
 * [Open in Jetbrains](https://github.com/bchatard/alfred-jetbrains) ⭐ 620 | 🐛 8 | 📅 2025-12-16 - Open project with one of JetBrains' product.
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 367 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,416 | 🐛 303 | 🌐 Markdown | 📅 2026-08-17 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,422 | 🐛 306 | 🌐 Markdown | 📅 2026-08-18 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -55,7 +55,7 @@
 * [iTerm TTY switch](https://github.com/isometry/alfred-tty) ⭐ 105 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-26 - Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
 * [Tower](https://github.com/cjlucas/tower-alfred-workflow) ⭐ 81 | 🐛 2 | 🌐 Ruby | 📅 2024-06-11 - Search/Open Tower git repositories.
 * [DNS Lookups](https://github.com/phallstrom/AlfredDig) ⭐ 73 | 🐛 0 | 🌐 Shell | 📅 2018-05-10 - Perform DNS lookups using dig and optionally copy a specific result to the clipboard.
-* [Google Cloud Platform](https://github.com/dineshgowda24/alfred-gcp-workflow) ⭐ 72 | 🐛 1 | 🌐 Go | 📅 2025-08-20 - Search Google Cloud Platform services and resources.
+* [Google Cloud Platform](https://github.com/dineshgowda24/alfred-gcp-workflow) ⭐ 73 | 🐛 1 | 🌐 Go | 📅 2025-08-20 - Search Google Cloud Platform services and resources.
 * [Swift Evolution](https://github.com/attaswift/alfred-swift-evolution) ⭐ 66 | 🐛 2 | 🌐 Swift | 📅 2024-07-22 - Look up Swift evolution proposals.
 * [HTTP Status Codes](https://github.com/ilstar/http_status_code) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2026-07-28 - Check out HTTP status code quickly.
 * [GCP shortcuts](https://github.com/jarlefosen/alfred-gcloud-shortcuts) ⭐ 55 | 🐛 4 | 🌐 Go | 📅 2025-04-16 - Shortcuts for opening Google Cloud Platform products in the browser.
@@ -91,7 +91,7 @@
 
 ## Learn
 
-* [Wolfram Alpha Suggest](https://github.com/AkikoZ/alfred-web-search-suggest#wolframalpha) ⭐ 358 | 🐛 6 | 🌐 PHP | 📅 2024-02-13 - Supports direct term suggestions.
+* [Wolfram Alpha Suggest](https://github.com/AkikoZ/alfred-web-search-suggest#wolframalpha) ⭐ 359 | 🐛 6 | 🌐 PHP | 📅 2024-02-13 - Supports direct term suggestions.
 * [Goodreads](https://github.com/deanishe/alfred-goodreads) ⭐ 59 | 🐛 3 | 🌐 Go | 📅 2020-09-01 - Search [Goodreads](https://www.goodreads.com) for books.
 * [Papers 3](https://github.com/wookayin/alfred-papers3-workflow) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2017-08-08 - Search Papers3 items.
 * [LeetCode Search](https://github.com/TooSchoolForCool/LeetCode-Search) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2019-10-04 - Search algorithm problems in [LeetCode](https://leetcode.com/) with custom options.
@@ -99,7 +99,7 @@
 ## Fun
 
 * [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday) ⭐ 307 | 🐛 11 | 🌐 Go | 📅 2024-01-21 - Showcase how much time passed since your birthday.
-* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,007 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-10
+* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,008 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-10
 * [Dongers](https://github.com/frdmn/alfred-dongers) ⭐ 15 | 🐛 2 | 🌐 PHP | 📅 2016-03-22 - List unicode emoticons easily.
 
 ## Libraries
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

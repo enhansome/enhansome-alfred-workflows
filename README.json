@@ -124,7 +124,7 @@
             "last_commit": "2026-05-10T20:19:11Z",
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
-            "stars": 2920
+            "stars": 2919
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2025-08-20T17:25:01Z",
             "owner": "dineshgowda24",
             "repo": "alfred-gcp-workflow",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2024-02-13T12:37:43Z",
             "owner": "zqzten",
             "repo": "alfred-web-search-suggest",
-            "stars": 358
+            "stars": 359
           }
         },
         {
@@ -2589,7 +2589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:53:39.430Z",
+    "last_updated": "2026-08-18T21:51:57.455Z",
     "original_repository": "linsa-io/alfred-workflows",
     "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
     "enhanced_repository": "enhansome/enhansome-alfred-workflows",
