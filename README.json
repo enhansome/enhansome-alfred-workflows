@@ -1098,7 +1098,7 @@
             "last_commit": "2026-08-12T08:24:48Z",
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
-            "stars": 1111
+            "stars": 1112
           }
         },
         {
@@ -2729,7 +2729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:56:27.292Z",
+    "last_updated": "2026-08-21T21:53:50.681Z",
     "original_repository": "linsa-io/alfred-workflows",
     "original_repository_id": 93960104,
     "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
