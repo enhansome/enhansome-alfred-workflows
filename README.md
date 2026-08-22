@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,798 | 🐛 423 | 📅 2026-08-14.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,804 | 🐛 423 | 📅 2026-08-14.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 367 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,449 | 🐛 302 | 🌐 Markdown | 📅 2026-08-21 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,455 | 🐛 298 | 🌐 Markdown | 📅 2026-08-22 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -99,7 +99,7 @@
 ## Fun
 
 * [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday) ⭐ 307 | 🐛 11 | 🌐 Go | 📅 2024-01-21 - Showcase how much time passed since your birthday.
-* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,009 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-10
+* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,011 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-10
 * [Dongers](https://github.com/frdmn/alfred-dongers) ⭐ 15 | 🐛 2 | 🌐 PHP | 📅 2016-03-22 - List unicode emoticons easily.
 
 ## Libraries
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
