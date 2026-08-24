@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 367 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,462 | 🐛 288 | 🌐 Markdown | 📅 2026-08-23 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,468 | 🐛 288 | 🌐 Markdown | 📅 2026-08-24 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -99,7 +99,7 @@
 ## Fun
 
 * [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday) ⭐ 307 | 🐛 11 | 🌐 Go | 📅 2024-01-21 - Showcase how much time passed since your birthday.
-* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,012 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-10
+* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,013 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-10
 * [Dongers](https://github.com/frdmn/alfred-dongers) ⭐ 15 | 🐛 2 | 🌐 PHP | 📅 2016-03-22 - List unicode emoticons easily.
 
 ## Libraries
@@ -149,7 +149,7 @@
 * [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow) ⭐ 54 | 🐛 8 | 🌐 AppleScript | 📅 2023-01-05 - Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
 * [Join Zoom Meeting](https://github.com/aurooba/alfred-workflow-zoom-meetings) ⭐ 45 | 🐛 9 | 📅 2020-06-26 - Join Zoom meetings easily without a new tab opening in your browser.
 * [Mailsy](https://github.com/BalliAsghar/mailsy-alfred) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-31 - Quickly generate a disposable email.
-* [TinyPNG](https://github.com/shmulvad/alfred-tinypng) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2021-05-01 - Compress PNG and JPG images using TinyPNG in Alfred.
+* [TinyPNG](https://github.com/shmulvad/alfred-tinypng) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2021-05-01 - Compress PNG and JPG images using TinyPNG in Alfred.
 * [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow) ⭐ 12 | 🐛 1 | 🌐 Swift | 📅 2025-05-15 - Search through currently active app's menu bar actions quickly.
 * [Timezone](https://github.com/lox/alfred-timezone) ⚠️ Archived - Quickly search through cities and timezones to find out what time it is in different places.
 * [Text to Calendar](https://github.com/vhpoet/alfred-text-to-calendar) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-14 - Create calendar events from unstructured text using an LLM.
@@ -225,8 +225,8 @@
 * [Tidy](https://github.com/importre/alfred-tidy) ⭐ 40 | 🐛 5 | 🌐 JavaScript | 📅 2022-02-13 - Beautify JSON/XML in clipboard.
 * [Various Screenshots](https://github.com/vookimedlo/alfred-various-screenshots) ⭐ 39 | 🐛 2 | 📅 2019-06-18 - Taking various screenshots.
 * [Speak](https://github.com/mklement0/speak.awf) ⭐ 37 | 🐛 1 | 🌐 Shell | 📅 2020-04-10 - Use OS X's TTS (text-to-speech) feature to speak text aloud.
-* [Karabiner Elements Profile Switcher](https://github.com/awinecki/karabiner-elements-profile-switcher) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2020-10-30 - Handy profile switcher for Karabiner Elements.
-* [Network Locations](https://github.com/deanishe/alfred-network-location) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2022-03-15 - List, filter and activate network locations.
+* [Karabiner Elements Profile Switcher](https://github.com/awinecki/karabiner-elements-profile-switcher) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2020-10-30 - Handy profile switcher for Karabiner Elements.
+* [Network Locations](https://github.com/deanishe/alfred-network-location) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2022-03-15 - List, filter and activate network locations.
 * [Rsync Folders](https://github.com/Acidham/rsync-folders) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2023-01-26 - Keep a set of folders in sync with their target folders via rsync.
 * [Shhhhh!](https://github.com/skotzko/shhhhh) ⭐ 24 | 🐛 2 | 📅 2017-10-24 - Close all open system alerts (iCal, etc) without touching the mouse.
 * [File Creator](https://github.com/SteliosHa/Alfred_File_Creator) ⭐ 19 | 🐛 1 | 📅 2016-09-07 - Create files of certain types quickly.
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

@@ -1509,7 +1509,7 @@
             "last_commit": "2021-05-01T16:53:38Z",
             "owner": "shmulvad",
             "repo": "alfred-tinypng",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -2322,7 +2322,7 @@
             "last_commit": "2020-10-30T13:00:32Z",
             "owner": "awinecki",
             "repo": "karabiner-elements-profile-switcher",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -2337,7 +2337,7 @@
             "last_commit": "2022-03-15T12:18:39Z",
             "owner": "deanishe",
             "repo": "alfred-network-location",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -2729,7 +2729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:51:20.817Z",
+    "last_updated": "2026-08-24T14:01:57.678Z",
     "original_repository": "linsa-io/alfred-workflows",
     "original_repository_id": 93960104,
     "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
