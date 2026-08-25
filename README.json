@@ -1554,7 +1554,7 @@
             "last_commit": "2025-10-14T09:11:04Z",
             "owner": "vhpoet",
             "repo": "alfred-text-to-calendar",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -1764,7 +1764,7 @@
             "archived": false,
             "id": 11881031,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:15:59Z",
+            "last_commit": "2026-08-25T15:03:38Z",
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
             "stars": 805
@@ -2729,7 +2729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:36.022Z",
+    "last_updated": "2026-08-25T21:55:45.183Z",
     "original_repository": "linsa-io/alfred-workflows",
     "original_repository_id": 93960104,
     "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
