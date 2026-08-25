@@ -32,12 +32,12 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,810 | 🐛 424 | 📅 2026-08-14.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,812 | 🐛 424 | 📅 2026-08-14.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
 
-* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,918 | 🐛 10 | 🌐 PHP | 📅 2026-05-10 - Fully featured workflow to inteact with GitHub.
+* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,917 | 🐛 10 | 🌐 PHP | 📅 2026-05-10 - Fully featured workflow to inteact with GitHub.
 * [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) ⭐ 701 | 🐛 0 | 🌐 PHP | 📅 2025-12-09 - Quick package/plugin/component (repo) lookup for your favourite package managers.
 * [Devdocs](https://github.com/yannickglt/alfred-devdocs) ⭐ 652 | 🐛 8 | 🌐 PHP | 📅 2021-12-06 - Search through [devdocs.io](http://devdocs.io/)
 * [Open in Jetbrains](https://github.com/bchatard/alfred-jetbrains) ⭐ 620 | 🐛 8 | 📅 2025-12-16 - Open project with one of JetBrains' product.
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 367 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,470 | 🐛 289 | 🌐 Markdown | 📅 2026-08-24 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,474 | 🐛 287 | 🌐 Markdown | 📅 2026-08-25 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -119,7 +119,7 @@
 
 ## Music
 
-* [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) ⭐ 1,112 | 🐛 2 | 🌐 PHP | 📅 2026-08-12 - Fully control Spotify.
+* [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) ⭐ 1,111 | 🐛 2 | 🌐 PHP | 📅 2026-08-12 - Fully control Spotify.
 * [Play Song](https://github.com/caleb531/play-song) ⭐ 115 | 🐛 1 | 🌐 AppleScript | 📅 2025-09-20 - Quickly and easily play music in iTunes.
 * [Discogs Explorer](https://github.com/dotson/Discogs-Explorer) ⭐ 16 | 🐛 4 | 🌐 Objective-C | 📅 2022-08-31 - Explore the [Discogs.com](https://www.discogs.com) database.
 * [MPD](https://github.com/deanishe/alfred-mpd) ⭐ 9 | 🐛 4 | 🌐 Python | 📅 2020-06-05 - Control MPD music player.
@@ -277,7 +277,7 @@
 
 ## Related
 
-* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows) ⭐ 12,254 | 🐛 14 | 📅 2021-02-27
+* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows) ⭐ 12,253 | 🐛 14 | 📅 2021-02-27
 * [Awesome Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) ⚠️ Archived
 * [Awesome Alfred Workflows 2](https://github.com/alfred-workflows/awesome-alfred-workflows) ⚠️ Archived
 * [Pacmax](https://pacmax.org/) - Explore & Share Great Alfred Packages.
@@ -287,7 +287,7 @@
 
 If you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
 
-[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows) ⭐ 2,772 | 🐛 4 | 📅 2026-05-01
+[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows) ⭐ 2,771 | 🐛 4 | 📅 2026-05-01
 
 `[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows)`
 
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
