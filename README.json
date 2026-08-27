@@ -132,7 +132,7 @@
             "last_commit": "2026-05-10T20:19:11Z",
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
-            "stars": 2917
+            "stars": 2918
           }
         },
         {
@@ -2729,9 +2729,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T01:01:10.935Z",
-    "original_repository": "linsa-io/alfred-workflows",
-    "original_repository_id": 93960104,
+    "last_updated": "2026-08-27T11:21:29.748Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 93960104,
+      "language": null,
+      "last_commit": "2026-05-01T19:22:22Z",
+      "owner": "linsa-io",
+      "repo": "alfred-workflows",
+      "stars": 2772
+    },
     "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
     "enhanced_repository": "enhansome/enhansome-alfred-workflows",
     "enhanced_repository_description": null,
