@@ -162,7 +162,7 @@
             "last_commit": "2021-12-06T09:32:44Z",
             "owner": "yannickglt",
             "repo": "alfred-devdocs",
-            "stars": 652
+            "stars": 653
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2019-12-26T19:04:05Z",
             "owner": "isometry",
             "repo": "alfred-tty",
-            "stars": 105
+            "stars": 106
           }
         },
         {
@@ -834,7 +834,7 @@
             "last_commit": "2024-02-13T12:37:43Z",
             "owner": "zqzten",
             "repo": "alfred-web-search-suggest",
-            "stars": 359
+            "stars": 360
           }
         },
         {
@@ -1314,7 +1314,7 @@
             "last_commit": "2019-10-19T21:00:42Z",
             "owner": "deanishe",
             "repo": "alfred-safari-assistant",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -1374,7 +1374,7 @@
             "last_commit": "2024-02-06T11:16:14Z",
             "owner": "jopemachine",
             "repo": "alfred-chromium-workflow",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -1764,10 +1764,10 @@
             "archived": false,
             "id": 11881031,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T15:03:38Z",
+            "last_commit": "2026-08-26T19:56:32Z",
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
-            "stars": 805
+            "stars": 806
           }
         },
         {
@@ -1782,7 +1782,7 @@
             "last_commit": "2026-05-27T11:07:20Z",
             "owner": "jsumners",
             "repo": "alfred-emoji",
-            "stars": 782
+            "stars": 783
           }
         },
         {
@@ -1797,7 +1797,7 @@
             "last_commit": "2022-07-08T11:05:30Z",
             "owner": "deanishe",
             "repo": "alfred-convert",
-            "stars": 712
+            "stars": 713
           }
         },
         {
@@ -1812,7 +1812,7 @@
             "last_commit": "2025-01-15T10:55:42Z",
             "owner": "sballin",
             "repo": "alfred-search-notes-app",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -1872,7 +1872,7 @@
             "last_commit": "2022-08-02T07:58:53Z",
             "owner": "deanishe",
             "repo": "alfred-pwgen",
-            "stars": 294
+            "stars": 295
           }
         },
         {
@@ -1932,7 +1932,7 @@
             "last_commit": "2021-07-30T04:28:44Z",
             "owner": "deanishe",
             "repo": "alfred-gcal",
-            "stars": 230
+            "stars": 231
           }
         },
         {
@@ -2670,7 +2670,7 @@
             "last_commit": "2024-06-20T08:26:15Z",
             "owner": "Acidham",
             "repo": "search-alfred-workflows",
-            "stars": 67
+            "stars": 68
           }
         }
       ],
@@ -2706,7 +2706,7 @@
             "last_commit": "2024-08-08T12:01:17Z",
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3179
+            "stars": 3178
           }
         },
         {
@@ -2721,7 +2721,7 @@
             "last_commit": "2024-08-08T12:01:17Z",
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3179
+            "stars": 3178
           }
         }
       ],
@@ -2729,7 +2729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:55:45.183Z",
+    "last_updated": "2026-08-27T01:01:10.935Z",
     "original_repository": "linsa-io/alfred-workflows",
     "original_repository_id": 93960104,
     "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
