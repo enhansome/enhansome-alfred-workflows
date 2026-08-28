@@ -26,19 +26,19 @@
 
 * [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows) ⚠️ Archived
 * [Collection of Alfred workflows](https://github.com/msoedov/Alfred-collection) ⭐ 944 | 🐛 3 | 🌐 Go | 📅 2020-05-06
-* [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows) ⭐ 307 | 🐛 11 | 🌐 Go | 📅 2024-01-21
+* [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows) ⭐ 306 | 🐛 11 | 🌐 Go | 📅 2024-01-21
 * [Robb Knight's workflows](https://github.com/rknightuk/alfred-workflows) ⭐ 224 | 🐛 6 | 🌐 JavaScript | 📅 2024-02-29
 * [Alfred Workflows (Rust)](https://github.com/rust-playground/alfred-workflows-rs) ⭐ 25 | 🐛 0 | 🌐 Rust | 📅 2025-04-07
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,824 | 🐛 426 | 📅 2026-08-14.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,830 | 🐛 426 | 📅 2026-08-28.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
 
-* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,918 | 🐛 10 | 🌐 PHP | 📅 2026-05-10 - Fully featured workflow to inteact with GitHub.
-* [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) ⭐ 701 | 🐛 0 | 🌐 PHP | 📅 2025-12-09 - Quick package/plugin/component (repo) lookup for your favourite package managers.
+* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,917 | 🐛 10 | 🌐 PHP | 📅 2026-05-10 - Fully featured workflow to inteact with GitHub.
+* [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) ⭐ 700 | 🐛 0 | 🌐 PHP | 📅 2025-12-09 - Quick package/plugin/component (repo) lookup for your favourite package managers.
 * [Devdocs](https://github.com/yannickglt/alfred-devdocs) ⭐ 653 | 🐛 8 | 🌐 PHP | 📅 2021-12-06 - Search through [devdocs.io](http://devdocs.io/)
 * [Open in Jetbrains](https://github.com/bchatard/alfred-jetbrains) ⭐ 620 | 🐛 8 | 📅 2025-12-16 - Open project with one of JetBrains' product.
 * [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) ⭐ 474 | 🐛 3 | 🌐 JavaScript | 📅 2021-02-17 - Fabulously search and kill processes.
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 367 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,497 | 🐛 289 | 🌐 Markdown | 📅 2026-08-27 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,503 | 🐛 293 | 🌐 Markdown | 📅 2026-08-28 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -98,14 +98,14 @@
 
 ## Fun
 
-* [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday) ⭐ 307 | 🐛 11 | 🌐 Go | 📅 2024-01-21 - Showcase how much time passed since your birthday.
+* [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday) ⭐ 306 | 🐛 11 | 🌐 Go | 📅 2024-01-21 - Showcase how much time passed since your birthday.
 * [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,017 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-10
 * [Dongers](https://github.com/frdmn/alfred-dongers) ⭐ 15 | 🐛 2 | 🌐 PHP | 📅 2016-03-22 - List unicode emoticons easily.
 
 ## Libraries
 
-* [Alfred Workflow](https://github.com/deanishe/alfred-workflow) ⭐ 2,966 | 🐛 21 | 🌐 Python | 📅 2023-01-10 - Write workflows in Python.
-* [Alfy](https://github.com/sindresorhus/alfy) ⭐ 2,652 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Write workflows in Node.js.
+* [Alfred Workflow](https://github.com/deanishe/alfred-workflow) ⭐ 2,965 | 🐛 21 | 🌐 Python | 📅 2023-01-10 - Write workflows in Python.
+* [Alfy](https://github.com/sindresorhus/alfy) ⭐ 2,653 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Write workflows in Node.js.
 * [AwGo](https://github.com/deanishe/awgo) ⭐ 877 | 🐛 17 | 🌐 Go | 📅 2024-04-03 - Write workflows in Go.
 * [Alfred Rust](https://github.com/lilyball/alfred-rs) ⭐ 48 | 🐛 2 | 🌐 Rust | 📅 2019-08-27
 * [Alfred Rust 2](https://github.com/spamwax/alfred-workflow) ⭐ 28 | 🐛 0 | 🌐 Rust | 📅 2023-09-22
@@ -127,7 +127,7 @@
 ## Productivity
 
 * [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) ⭐ 487 | 🐛 5 | 🌐 MoonBit | 📅 2026-06-17 - Search through bookmarks, notes and various websites quickly.
-* [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) ⭐ 423 | 🐛 17 | 🌐 Go | 📅 2025-12-24 - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
+* [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) ⭐ 422 | 🐛 17 | 🌐 Go | 📅 2025-12-24 - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 * [Toggl](https://github.com/jason0x43/alfred-toggl) ⭐ 375 | 🐛 8 | 🌐 Go | 📅 2024-06-02 - Operate [Toggl](https://toggl.com).
 * [Pocket](https://github.com/fniephaus/alfred-pocket) ⚠️ Archived - Manage your Pocket list.
 * [Firefox Assistant](https://github.com/deanishe/alfred-firefox) ⭐ 361 | 🐛 28 | 🌐 Go | 📅 2023-02-23 - Search and control Firefox from Alfred.
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
