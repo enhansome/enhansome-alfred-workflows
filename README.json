@@ -1269,7 +1269,7 @@
             "last_commit": "2024-06-02T19:54:30Z",
             "owner": "jason0x43",
             "repo": "alfred-toggl",
-            "stars": 375
+            "stars": 376
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1876,7 +1876,7 @@
             "archived": false,
             "id": 11881031,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T19:56:32Z",
+            "last_commit": "2026-08-28T10:51:41Z",
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
             "stars": 806
@@ -2863,7 +2863,7 @@
             "last_commit": "2021-02-27T01:37:28Z",
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12253
+            "stars": 12252
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:35:47.165Z",
+    "last_updated": "2026-08-29T03:19:34.587Z",
     "original_repository_info": {
       "archived": false,
       "id": 93960104,
