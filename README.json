@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of Alfred workflows",
+            "homepage": null,
             "id": 8729561,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-17T16:34:33Z",
+            "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2401
+            "stars": 2401,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of all known Alfred3 workflows",
+            "homepage": null,
             "id": 85446308,
             "language": "Go",
+            "license": null,
             "last_commit": "2020-05-06T12:52:52Z",
+            "open_issues": 3,
             "owner": "msoedov",
             "repo": "Alfred-collection",
-            "stars": 944
+            "stars": 944,
+            "topics": [
+              "alfred",
+              "alfred-extension",
+              "alfred-workflow",
+              "alfred3-workflow",
+              "collective-knowledge"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -42,12 +58,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflows I use",
+            "homepage": null,
             "id": 104197503,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-01-21T23:21:57Z",
+            "open_issues": 11,
             "owner": "nikivdev",
             "repo": "alfred-past",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "alfred",
+              "alfred-workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -58,12 +82,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Alfred Workflows",
+            "homepage": "https://rknight.me/alfred-workflows/",
             "id": 386622314,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-02-29T13:41:21Z",
+            "open_issues": 6,
             "owner": "rknightuk",
             "repo": "alfred-workflows",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred-workflows",
+              "now"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -74,12 +108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Alfred workflows to help save your day-to-day",
+            "homepage": null,
             "id": 163641205,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-04-07T03:38:57Z",
+            "open_issues": 0,
             "owner": "rust-playground",
             "repo": "alfred-workflows-rs",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -96,12 +135,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred 3 workflow to find Material Design Icons",
+            "homepage": null,
             "id": 64825637,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-10-05T14:12:45Z",
+            "open_issues": 2,
             "owner": "importre",
             "repo": "alfred-mdi",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "icon",
+              "material",
+              "material-design"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -112,12 +162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred App workflow that help you to get flatuicolors.com hexa code by just typing : flat",
+            "homepage": null,
             "id": 31809605,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-07-09T12:49:52Z",
+            "open_issues": 1,
             "owner": "mi-ca",
             "repo": "alfredapp_flatuicolors_workflow",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -134,12 +189,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Workflow for Alfred",
+            "homepage": null,
             "id": 7644118,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-05-10T20:19:11Z",
+            "open_issues": 10,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
-            "stars": 2917
+            "stars": 2917,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "github",
+              "hacktoberfest",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -150,12 +216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package Manager Search",
+            "homepage": null,
             "id": 13095919,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-12-09T17:23:11Z",
+            "open_issues": 0,
             "owner": "willfarrell",
             "repo": "alfred-pkgman-workflow",
-            "stars": 700
+            "stars": 700,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -166,12 +237,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow for devdocs.io",
+            "homepage": null,
             "id": 22135988,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2021-12-06T09:32:44Z",
+            "open_issues": 8,
             "owner": "yannickglt",
             "repo": "alfred-devdocs",
-            "stars": 653
+            "stars": 653,
+            "topics": [
+              "alfred-workflow",
+              "alfred3-workflow",
+              "api-documentation",
+              "dash",
+              "devdocs",
+              "zeal"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -182,12 +265,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred5 workflow to easily open your projects with your favorite JetBrains product.",
+            "homepage": null,
             "id": 179626681,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-12-16T19:15:27Z",
+            "open_issues": 8,
             "owner": "bchatard",
             "repo": "alfred-jetbrains",
-            "stars": 620
+            "stars": 620,
+            "topics": [
+              "alfred",
+              "alfred5-workflow",
+              "jetbrains"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -198,12 +290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred 3 workflow to fabulously search and kill processes",
+            "homepage": null,
             "id": 84243353,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-02-17T17:46:38Z",
+            "open_issues": 3,
             "owner": "SamVerschueren",
             "repo": "alfred-fkill",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -214,12 +311,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search StackOverflow.com from Alfred",
+            "homepage": null,
             "id": 28588977,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-17T12:16:35Z",
+            "open_issues": 2,
             "owner": "deanishe",
             "repo": "alfred-stackexchange",
-            "stars": 428
+            "stars": 428,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred4",
+              "alfred4-workflow",
+              "stack-overflow",
+              "stackoverflow-search",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -230,12 +340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred App Workflow for caniuse.com",
+            "homepage": null,
             "id": 13095289,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-11-07T21:44:21Z",
+            "open_issues": 3,
             "owner": "willfarrell",
             "repo": "alfred-caniuse-workflow",
-            "stars": 402
+            "stars": 402,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -246,12 +361,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred 3 workflow to search for npm packages with npms.io",
+            "homepage": null,
             "id": 61994707,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-09T07:41:00Z",
+            "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "alfred-npms",
-            "stars": 367
+            "stars": 367,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred3-workflow",
+              "alfy",
+              "javascript",
+              "macos",
+              "nodejs",
+              "npm",
+              "npm-package",
+              "npms",
+              "package-search",
+              "search",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -262,12 +396,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open SSH/SFTP/mosh connections from Alfred 3+",
+            "homepage": null,
             "id": 59518993,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2021-07-13T04:27:04Z",
+            "open_issues": 13,
             "owner": "deanishe",
             "repo": "alfred-ssh",
-            "stars": 358
+            "stars": 358,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred4",
+              "awgo",
+              "mosh",
+              "sftp",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -278,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dash Alfred Workflow",
+            "homepage": null,
             "id": 17648573,
             "language": null,
+            "license": null,
             "last_commit": "2017-07-01T21:51:37Z",
+            "open_issues": 8,
             "owner": "Kapeli",
             "repo": "Dash-Alfred-Workflow",
-            "stars": 349
+            "stars": 349,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -294,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tldr alfred workflow",
+            "homepage": null,
             "id": 56599153,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-29T03:22:58Z",
+            "open_issues": 8,
             "owner": "cs1707",
             "repo": "tldr-alfred",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -310,12 +467,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful workflow for quickly opening up AWS Console Services in your browser or searching for entities within them.",
+            "homepage": null,
             "id": 73309555,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-09T04:34:24Z",
+            "open_issues": 13,
             "owner": "rkoval",
             "repo": "alfred-aws-console-services-workflow",
-            "stars": 327
+            "stars": 327,
+            "topics": [
+              "alfred",
+              "alfred-workflows",
+              "aws",
+              "go",
+              "golang",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -326,12 +495,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browse, search and open Git repositories in Alfred",
+            "homepage": null,
             "id": 21518597,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-08T16:20:53Z",
+            "open_issues": 10,
             "owner": "deanishe",
             "repo": "alfred-repos",
-            "stars": 313
+            "stars": 313,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred3",
+              "browse",
+              "git",
+              "repos"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -342,12 +523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An alfred plugin to quickly jump to a github repository page",
+            "homepage": null,
             "id": 45665728,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-02-23T23:37:42Z",
+            "open_issues": 7,
             "owner": "lox",
             "repo": "alfred-github-jump",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -358,12 +544,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An alfred workflow for accessing gists",
+            "homepage": null,
             "id": 37758383,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-25T00:51:26Z",
+            "open_issues": 3,
             "owner": "danielecook",
             "repo": "gist-alfred",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "alfred-workflow",
+              "gist",
+              "gist-alfred"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -374,12 +569,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred Workflow to quickly switch between or close iTerm windows, tabs and panes based on title and tty",
+            "homepage": null,
             "id": 102910309,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-12-26T19:04:05Z",
+            "open_issues": 0,
             "owner": "isometry",
             "repo": "alfred-tty",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "alfred-workflow",
+              "alfred3-workflow",
+              "iterm2",
+              "jxa",
+              "macos",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -390,12 +597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred workflow for searching/opening Tower git repositories",
+            "homepage": null,
             "id": 9042374,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-11T19:19:40Z",
+            "open_issues": 2,
             "owner": "cjlucas",
             "repo": "tower-alfred-workflow",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -406,12 +618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A workflow for Alfred to perform DNS lookups using dig and optionally copy a specific result to the clipboard.",
+            "homepage": null,
             "id": 8826267,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-05-10T17:20:25Z",
+            "open_issues": 0,
             "owner": "phallstrom",
             "repo": "AlfredDig",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -422,12 +639,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred workflow to open GCP services and browse resources within",
+            "homepage": "https://dineshgowda.com/posts/supercharging-gcp-navigation-with-alfred",
             "id": 840818759,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-08-20T17:25:01Z",
+            "open_issues": 1,
             "owner": "dineshgowda24",
             "repo": "alfred-gcp-workflow",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred3-workflow",
+              "alfred4-workflow",
+              "gcloud",
+              "gcloud-cli",
+              "gcp",
+              "golang",
+              "google",
+              "google-cloud-platform"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -438,12 +671,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred workflow for looking up Swift evolution proposals",
+            "homepage": null,
             "id": 82510913,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-07-22T18:11:12Z",
+            "open_issues": 2,
             "owner": "attaswift",
             "repo": "alfred-swift-evolution",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "alfred",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -454,12 +695,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred workflow for checking out http status code very quickly.",
+            "homepage": null,
             "id": 12072337,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-28T04:17:17Z",
+            "open_issues": 0,
             "owner": "ilstar",
             "repo": "http_status_code",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -470,12 +716,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shortcuts for opening Google Cloud Platform products in the browser",
+            "homepage": null,
             "id": 138740690,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-04-16T21:52:26Z",
+            "open_issues": 4,
             "owner": "jarlefosen",
             "repo": "alfred-gcloud-shortcuts",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "alfred-workflow",
+              "gcp"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -486,12 +740,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow for DevOps",
+            "homepage": null,
             "id": 135435686,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-08-24T19:10:12Z",
+            "open_issues": 0,
             "owner": "anmolnagpal",
             "repo": "alfred-docker-workflows",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred3-workflow",
+              "anmolnagpal",
+              "devops",
+              "docker",
+              "mac"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -502,12 +769,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Transmit Bookmarks using Alfred 2",
+            "homepage": null,
             "id": 7610418,
             "language": "PHP",
+            "license": null,
             "last_commit": "2013-01-16T18:53:38Z",
+            "open_issues": 5,
             "owner": "bigluck",
             "repo": "alfred2-transmit",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -518,12 +790,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Control your Parallels and Virtual Box virtual machines with Alfred v2",
+            "homepage": null,
             "id": 8785994,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-11-22T14:26:37Z",
+            "open_issues": 3,
             "owner": "fniephaus",
             "repo": "alfred-vmcontrol",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -534,12 +811,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of some useful network commands",
+            "homepage": null,
             "id": 18008059,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2019-09-14T15:16:17Z",
+            "open_issues": 0,
             "owner": "fniephaus",
             "repo": "alfred-network",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -550,12 +832,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow to pass selected text or clipboard through arbitrary shell one-liners",
+            "homepage": null,
             "id": 70235018,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-29T18:24:34Z",
+            "open_issues": 0,
             "owner": "isometry",
             "repo": "alfred-pipe",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "clipboard",
+              "oneliners",
+              "pipe",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -566,12 +860,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💻 Get your shell's variables into Alfred",
+            "homepage": "http://www.packal.org/workflow/shell-variables",
             "id": 59639905,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-11T23:09:32Z",
+            "open_issues": 0,
             "owner": "hug33k",
             "repo": "Alfred-ShellVariables",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "alferd",
+              "alfred-3",
+              "alfred-workflow",
+              "alfred3-workflow",
+              "macos",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -582,12 +888,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred workflow uses rustdoc's search index to provide local search result",
+            "homepage": "https://vimeo.com/381465041",
             "id": 230173925,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-09-28T13:13:01Z",
+            "open_issues": 3,
             "owner": "fanzeyi",
             "repo": "alfred-rustdoc",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "alfred-workflow",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -598,12 +912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow for searching Rust crates from Alfred",
+            "homepage": "https://fgribreau.com",
             "id": 80354980,
             "language": "Rust",
+            "license": null,
             "last_commit": "2020-07-09T09:57:23Z",
+            "open_issues": 5,
             "owner": "FGRibreau",
             "repo": "alfred-crates",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -614,12 +933,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search Hoogle with Alfred",
+            "homepage": null,
             "id": 155111699,
             "language": "Haskell",
+            "license": "MIT",
             "last_commit": "2019-11-20T10:49:10Z",
+            "open_issues": 0,
             "owner": "meck",
             "repo": "alfred-hoogle",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -630,12 +954,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search and show CircleCI build status.",
+            "homepage": null,
             "id": 111692184,
             "language": "Go",
+            "license": null,
             "last_commit": "2020-09-02T02:54:34Z",
+            "open_issues": 0,
             "owner": "lorentzca",
             "repo": "alfred-circleci-workflow",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "alfred3-workflow",
+              "circleci"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -646,12 +978,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "httpstat in alfred workflow",
+            "homepage": null,
             "id": 130034833,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T16:56:17Z",
+            "open_issues": 7,
             "owner": "leozhang2018",
             "repo": "alfred-httpstat",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -662,12 +999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred 3 workflow to find to projects in github",
+            "homepage": null,
             "id": 72046552,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-26T16:37:35Z",
+            "open_issues": 2,
             "owner": "anoff",
             "repo": "alfred-github",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -678,12 +1020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly check build statuses on travis-ci.org",
+            "homepage": null,
             "id": 18007947,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-08-09T18:14:20Z",
+            "open_issues": 1,
             "owner": "fniephaus",
             "repo": "alfred-travis-ci",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -694,12 +1041,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search macOS errors in Alfred 3",
+            "homepage": null,
             "id": 97486553,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2017-07-28T19:36:48Z",
+            "open_issues": 1,
             "owner": "deanishe",
             "repo": "alfred-errnum",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "errors",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -710,12 +1067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred 3 workflow to find *.gitignore files",
+            "homepage": "http://www.packal.org/workflow/gi",
             "id": 63235179,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-07-16T23:54:08Z",
+            "open_issues": 0,
             "owner": "importre",
             "repo": "alfred-gi",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -726,12 +1088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":paperclip: Alfred 3 workflow to access the React & React Native Documentation",
+            "homepage": null,
             "id": 66165799,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-08-20T21:52:50Z",
+            "open_issues": 0,
             "owner": "winkerVSbecks",
             "repo": "alfred-react-launcher",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -742,12 +1109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use this workflow to find pods in Alfred and open their Github page.",
+            "homepage": null,
             "id": 64937439,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2016-10-26T13:16:18Z",
+            "open_issues": 1,
             "owner": "BenchR267",
             "repo": "Pod-Search-Alfred",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -758,12 +1130,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools to use Git Worktree productively with Raycast or Alfred 🪾",
+            "homepage": null,
             "id": 1102307064,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-23T20:12:12Z",
+            "open_issues": 1,
             "owner": "insanoid",
             "repo": "treehopper",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "git",
+              "macos",
+              "productivity",
+              "raycast-extension",
+              "worktree"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -774,12 +1159,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred3 Workflow for SemaphoreCI",
+            "homepage": null,
             "id": 141673735,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-08T12:36:18Z",
+            "open_issues": 0,
             "owner": "renuo",
             "repo": "semaphoreci-workflow",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred3-workflow",
+              "productivity",
+              "semaphore-ci"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -796,12 +1192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow for MDN search",
+            "homepage": null,
             "id": 81589711,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-03T07:42:14Z",
+            "open_issues": 9,
             "owner": "klaascuvelier",
             "repo": "alfred-mdn",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -812,12 +1213,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An alfred workflow to easily search the elastic documentation",
+            "homepage": null,
             "id": 63486531,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-12T09:18:36Z",
+            "open_issues": 0,
             "owner": "spinscale",
             "repo": "alfred-workflow-elastic-docs",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -828,12 +1234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Links to developer documentation of popular frameworks, libraries and tools",
+            "homepage": null,
             "id": 89089862,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-20T00:32:01Z",
+            "open_issues": 0,
             "owner": "nire0510",
             "repo": "d2",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -844,12 +1255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":paperclip: Alfred 3 workflow to access the React & React Native Documentation",
+            "homepage": null,
             "id": 66165799,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-08-20T21:52:50Z",
+            "open_issues": 0,
             "owner": "winkerVSbecks",
             "repo": "alfred-react-launcher",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -860,12 +1276,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search Flutter Docs from Alfred",
+            "homepage": null,
             "id": 164377968,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-08-08T06:35:45Z",
+            "open_issues": 1,
             "owner": "Sh1d0w",
             "repo": "alfred-flutter-docs",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "alfred3-workflow",
+              "flutter"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -882,12 +1306,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred search suggest workflow for various popular websites.",
+            "homepage": null,
             "id": 92148240,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-02-13T12:37:43Z",
+            "open_issues": 6,
             "owner": "zqzten",
             "repo": "alfred-web-search-suggest",
-            "stars": 360
+            "stars": 360,
+            "topics": [
+              "alfred-workflow",
+              "amazon",
+              "baidu",
+              "bangumi",
+              "bilibili",
+              "brave-search",
+              "duckduckgo",
+              "google",
+              "imdb",
+              "jingdong",
+              "moegirlpedia",
+              "pixiv",
+              "search-api",
+              "sina-weibo",
+              "taobao",
+              "wikipedia",
+              "wolfram-alpha",
+              "zhihu"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -898,12 +1346,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search Goodreads.com from Alfred",
+            "homepage": null,
             "id": 233069474,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-09-01T19:25:49Z",
+            "open_issues": 3,
             "owner": "deanishe",
             "repo": "alfred-booksearch",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred4-workflow",
+              "books",
+              "goodreads",
+              "goodreads-api",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -914,12 +1375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔎 An Alfred 2/3 workflow to search Papers3 items",
+            "homepage": null,
             "id": 70799979,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-08-08T14:57:32Z",
+            "open_issues": 4,
             "owner": "wookayin",
             "repo": "alfred-papers3-workflow",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -930,12 +1396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred Workflow for searching algorithm problems in LeetCode with advanced options",
+            "homepage": null,
             "id": 133903725,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-10-04T16:57:57Z",
+            "open_issues": 1,
             "owner": "TooSchoolForCool",
             "repo": "LeetCode-Search",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -952,12 +1423,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflows I use",
+            "homepage": null,
             "id": 104197503,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-01-21T23:21:57Z",
+            "open_issues": 11,
             "owner": "nikivdev",
             "repo": "alfred-past",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "alfred",
+              "alfred-workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -968,12 +1447,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":capital_abcd: Alfred 3 workflow to asciify plain text using figlet.js",
+            "homepage": null,
             "id": 76972122,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-22T16:08:30Z",
+            "open_issues": 6,
             "owner": "importre",
             "repo": "alfred-figlet",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "ascii",
+              "ascii-art",
+              "figlet"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -984,12 +1474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow to list unicode emoticons easily",
+            "homepage": null,
             "id": 26601247,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2016-03-22T22:06:07Z",
+            "open_issues": 2,
             "owner": "frdmn",
             "repo": "alfred-dongers",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -1006,12 +1501,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full-featured library for writing Alfred 3 & 4 workflows",
+            "homepage": "https://www.deanishe.net/alfred-workflow/",
             "id": 17055028,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-10T14:43:04Z",
+            "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2965
+            "stars": 2965,
+            "topics": [
+              "alfred",
+              "alfred-3",
+              "alfred-workflow",
+              "alfred3",
+              "alfred4",
+              "alfred4-workflow",
+              "caching",
+              "fuzzy-search",
+              "http",
+              "keychain",
+              "python",
+              "workflow",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1022,12 +1536,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Alfred workflows with ease",
+            "homepage": null,
             "id": 62888800,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-02T06:00:15Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2653
+            "stars": 2653,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred3-workflow",
+              "alfy",
+              "framework",
+              "javascript",
+              "macos",
+              "nodejs",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1038,12 +1567,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go library for Alfred 3 + 4 workflows",
+            "homepage": "https://godoc.org/github.com/deanishe/awgo",
             "id": 102889405,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-04-03T07:40:57Z",
+            "open_issues": 17,
             "owner": "deanishe",
             "repo": "awgo",
-            "stars": 877
+            "stars": 877,
+            "topics": [
+              "alfred",
+              "alfred-3",
+              "alfred-4",
+              "alfred-workflow",
+              "alfred3",
+              "alfred3-workflow",
+              "alfred4",
+              "alfred4-workflow",
+              "alfredworkflow",
+              "awgo",
+              "fuzzy",
+              "fuzzy-search",
+              "gitea",
+              "github",
+              "go",
+              "golang",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1054,12 +1606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helper library for writing Alfred workflows in Rust",
+            "homepage": null,
             "id": 25192227,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2019-08-27T18:59:20Z",
+            "open_issues": 2,
             "owner": "lilyball",
             "repo": "alfred-rs",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1070,12 +1627,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust library to write enhanced workflows for Alfred",
+            "homepage": null,
             "id": 133409938,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-09-22T06:03:44Z",
+            "open_issues": 0,
             "owner": "spamwax",
             "repo": "alfred-workflow",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "rust",
+              "rust-library",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1086,12 +1654,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for writing script filters for Alfred in Haskell",
+            "homepage": null,
             "id": 155093267,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-06-23T19:19:06Z",
+            "open_issues": 0,
             "owner": "meck",
             "repo": "alfred-footman",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -1108,12 +1681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Alfred workflow for quickly turning on/off Night Shift or setting it to a custom value.",
+            "homepage": null,
             "id": 270481131,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-02-13T05:21:03Z",
+            "open_issues": 1,
             "owner": "shmulvad",
             "repo": "alfred-nightshift",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1124,12 +1702,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My workflow creations for Alfred on macOS.",
+            "homepage": null,
             "id": 153845147,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-13T16:50:51Z",
+            "open_issues": 1,
             "owner": "BaksiLi",
             "repo": "AlfredWorkflows",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "macos",
+              "productivity",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1140,12 +1729,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "search the mac app store right in alfred",
+            "homepage": null,
             "id": 157217233,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-10-04T14:11:14Z",
+            "open_issues": 2,
             "owner": "nkcmr",
             "repo": "alfred-apple-app-search",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "app-store",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -1162,12 +1761,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎵🎩 Alfred workflow to control your Spotify library at your fingertips",
+            "homepage": "https://alfred-spotify-mini-player.com",
             "id": 9597401,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-12T08:24:48Z",
+            "open_issues": 2,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
-            "stars": 1111
+            "stars": 1111,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "spotify",
+              "spotify-api",
+              "spotify-connect"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1178,12 +1788,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred workflow for quickly and easily playing music in the Apple Music app",
+            "homepage": null,
             "id": 13575245,
             "language": "AppleScript",
+            "license": "MIT",
             "last_commit": "2025-09-20T22:39:39Z",
+            "open_issues": 1,
             "owner": "caleb531",
             "repo": "play-song",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "applescript",
+              "itunes"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1194,12 +1814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred Workflow for viewing Artist and Release info",
+            "homepage": null,
             "id": 13531050,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2022-08-31T01:06:17Z",
+            "open_issues": 4,
             "owner": "dotson",
             "repo": "Discogs-Explorer",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1210,12 +1835,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Control mpd music player from Alfred 3",
+            "homepage": null,
             "id": 93232935,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-05T19:16:32Z",
+            "open_issues": 4,
             "owner": "deanishe",
             "repo": "alfred-mpd",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred3",
+              "mpd",
+              "mpd-client",
+              "music",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -1232,12 +1870,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MoonBit tools, libraries",
+            "homepage": null,
             "id": 93851254,
             "language": "MoonBit",
+            "license": "MIT",
             "last_commit": "2026-06-17T17:33:04Z",
+            "open_issues": 5,
             "owner": "nikivdev",
             "repo": "mbt",
-            "stars": 487
+            "stars": 487,
+            "topics": [
+              "moonbit"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1248,12 +1893,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred workflow to execute Keyboard Maestro macros.",
+            "homepage": null,
             "id": 14205131,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-24T05:55:53Z",
+            "open_issues": 17,
             "owner": "iansinnott",
             "repo": "alfred-maestro",
-            "stars": 422
+            "stars": 422,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1264,12 +1914,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred Workflow for interacting with the Toggl time tracking service",
+            "homepage": null,
             "id": 26792496,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-06-02T19:54:30Z",
+            "open_issues": 8,
             "owner": "jason0x43",
             "repo": "alfred-toggl",
-            "stars": 376
+            "stars": 376,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1280,12 +1935,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Manage your Pocket list with Alfred",
+            "homepage": null,
             "id": 18020692,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-25T09:15:41Z",
+            "open_issues": 5,
             "owner": "fniephaus",
             "repo": "alfred-pocket",
-            "stars": 367
+            "stars": 367,
+            "topics": [
+              "alfred",
+              "mozilla",
+              "pocket",
+              "python",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1296,12 +1962,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search and control Firefox from Alfred",
+            "homepage": null,
             "id": 232520270,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-23T06:42:29Z",
+            "open_issues": 28,
             "owner": "deanishe",
             "repo": "alfred-firefox",
-            "stars": 361
+            "stars": 361,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred4-workflow",
+              "bookmarks",
+              "firefox",
+              "firefox-addon",
+              "firefox-extension"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1312,12 +1991,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interact with Things using Alfred.",
+            "homepage": null,
             "id": 105078765,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-02T18:08:35Z",
+            "open_issues": 1,
             "owner": "xilopaint",
             "repo": "alfred-things",
-            "stars": 359
+            "stars": 359,
+            "topics": [
+              "alfred",
+              "alfred-3",
+              "alfred-workflow",
+              "alfred-workflows",
+              "things",
+              "things-3",
+              "things3"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1328,12 +2020,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An Alfred workflow for managing tasks in Todoist",
+            "homepage": null,
             "id": 51163926,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-31T18:07:31Z",
+            "open_issues": 55,
             "owner": "moranje",
             "repo": "alfred-workflow-todoist",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "alfred-app",
+              "todoist"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1344,12 +2044,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow to auto-suggest search results from multiple search engines and languages.",
+            "homepage": null,
             "id": 22550008,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-01-05T19:33:52Z",
+            "open_issues": 11,
             "owner": "deanishe",
             "repo": "alfred-searchio",
-            "stars": 309
+            "stars": 309,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "amazon",
+              "autosuggest",
+              "google",
+              "multilingual",
+              "python",
+              "search",
+              "wikipedia",
+              "wiktionary"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1360,12 +2076,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow to search through any website (easily extendable list) ",
+            "homepage": null,
             "id": 85435656,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-01-21T23:18:14Z",
+            "open_issues": 9,
             "owner": "nikivdev",
             "repo": "alfred-web-searches",
-            "stars": 283
+            "stars": 283,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "awgo",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1376,12 +2102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow to search google drive",
+            "homepage": null,
             "id": 39351915,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2020-07-24T07:29:09Z",
+            "open_issues": 18,
             "owner": "azai91",
             "repo": "alfred-drive-workflow",
-            "stars": 220
+            "stars": 220,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1392,12 +2123,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Alfred 3+ workflow to search and use Safari bookmarks, history, reading list and tabs.",
+            "homepage": null,
             "id": 109020221,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-10-19T21:00:42Z",
+            "open_issues": 0,
             "owner": "deanishe",
             "repo": "alfred-safari-assistant",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "alfred-4",
+              "alfred-workflow",
+              "alfred3",
+              "alfred4",
+              "awgo",
+              "bookmarklet",
+              "bookmarks",
+              "history",
+              "safari",
+              "tabs"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1408,12 +2155,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow to search awesome lists",
+            "homepage": null,
             "id": 108727650,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-01-21T23:24:15Z",
+            "open_issues": 5,
             "owner": "nikivdev",
             "repo": "alfred-awesome-lists",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "awesome",
+              "awesome-lists",
+              "awgo",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1424,12 +2183,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow to search Learn Anything",
+            "homepage": "https://learn-anything.xyz",
             "id": 83148015,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-01-22T12:17:53Z",
+            "open_issues": 5,
             "owner": "nikivdev",
             "repo": "alfred-learn-anything",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "awgo",
+              "go",
+              "knowledge",
+              "resources",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1440,12 +2212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get weather forecast using Alfred",
+            "homepage": null,
             "id": 67974331,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-05-04T18:56:32Z",
+            "open_issues": 6,
             "owner": "jason0x43",
             "repo": "alfred-weather",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1456,12 +2233,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chromium based browser workflow for Alfred 5",
+            "homepage": null,
             "id": 495039404,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-02-06T11:16:14Z",
+            "open_issues": 13,
             "owner": "jopemachine",
             "repo": "alfred-chromium-workflow",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "arc-browser",
+              "awgo",
+              "brave-browser",
+              "chrome",
+              "chrome-bookmarks",
+              "chrome-canary",
+              "chrome-history",
+              "chrome-tabs",
+              "chromium",
+              "edge",
+              "opera",
+              "vivaldi",
+              "whale",
+              "whale-browser"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1472,12 +2271,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iMessage 2FA Workflow for Alfred",
+            "homepage": null,
             "id": 176013503,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-01-06T03:22:06Z",
+            "open_issues": 7,
             "owner": "squatto",
             "repo": "alfred-imessage-2fa",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "2fa",
+              "alfred",
+              "alfred-workflow",
+              "alfred-workflows",
+              "imessage"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1488,12 +2298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recent Downloads Workflow for Alfred v2",
+            "homepage": null,
             "id": 7767203,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-03-22T02:14:09Z",
+            "open_issues": 9,
             "owner": "ddjfreedom",
             "repo": "recent-downloads-alfred-v2",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1504,12 +2319,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Send emails to recipients and groups from Alfred",
+            "homepage": "http://www.deanishe.net/alfred-mailto/",
             "id": 13965568,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-01-24T08:56:47Z",
+            "open_issues": 5,
             "owner": "deanishe",
             "repo": "alfred-mailto",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred3",
+              "email",
+              "mailto",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1520,12 +2347,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My workflow creations for Alfred on macOS.",
+            "homepage": null,
             "id": 153845147,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-13T16:50:51Z",
+            "open_issues": 1,
             "owner": "BaksiLi",
             "repo": "AlfredWorkflows",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "macos",
+              "productivity",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1536,12 +2374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds notes to Notes.app",
+            "homepage": null,
             "id": 12893127,
             "language": "AppleScript",
+            "license": "MIT",
             "last_commit": "2018-06-11T15:42:14Z",
+            "open_issues": 4,
             "owner": "surrealroad",
             "repo": "alfred-notes",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1552,12 +2395,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred 3 workflow for TaskPaper",
+            "homepage": "http://www.packal.org/workflow/taskpaper",
             "id": 70430547,
             "language": "AppleScript",
+            "license": null,
             "last_commit": "2023-01-05T20:04:25Z",
+            "open_issues": 8,
             "owner": "robwalton",
             "repo": "alfred-taskpaper-workflow",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "alfred-workflow",
+              "alfred3-workflow",
+              "taskpaper",
+              "taskpaper-document"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1568,12 +2421,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Join a Zoom meeting without the link opening in your browser.",
+            "homepage": null,
             "id": 256862810,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-06-26T18:15:57Z",
+            "open_issues": 9,
             "owner": "aurooba",
             "repo": "alfred-workflow-zoom-meetings",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "alfred",
+              "alfred-preferences",
+              "alfred-workflow",
+              "alfred4",
+              "alfred4-workflow",
+              "workflows",
+              "zoomus"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1584,12 +2450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️ Quickly generate a disposable email",
+            "homepage": null,
             "id": 473651582,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-31T04:58:22Z",
+            "open_issues": 0,
             "owner": "BalliAsghar",
             "repo": "mailsy-alfred",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1600,12 +2471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compress png and jpg images using TinyPNG in Alfred",
+            "homepage": null,
             "id": 286788673,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-01T16:53:38Z",
+            "open_issues": 1,
             "owner": "shmulvad",
             "repo": "alfred-tinypng",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1616,12 +2492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dumps the menu entries for an OS/X application.",
+            "homepage": null,
             "id": 102152903,
             "language": "Swift",
+            "license": null,
             "last_commit": "2025-05-15T07:26:11Z",
+            "open_issues": 1,
             "owner": "ascandroli",
             "repo": "menudump",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1632,12 +2513,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An alfred workflow for searching timezones",
+            "homepage": null,
             "id": 60905059,
             "language": "Go",
+            "license": null,
             "last_commit": "2019-05-25T23:30:46Z",
+            "open_issues": 0,
             "owner": "lox",
             "repo": "alfred-timezone",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1648,12 +2534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 931400923,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-14T09:11:04Z",
+            "open_issues": 0,
             "owner": "vhpoet",
             "repo": "alfred-text-to-calendar",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1664,12 +2555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow to convert clipboard contents to a Hastebin URL.",
+            "homepage": null,
             "id": 23316240,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-01-06T15:37:46Z",
+            "open_issues": 3,
             "owner": "jvandyke",
             "repo": "alfred-hastebin",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -1686,12 +2582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unlock your Mac with Alfred Remote iOS App",
+            "homepage": null,
             "id": 30004464,
             "language": null,
+            "license": null,
             "last_commit": "2015-02-09T16:23:58Z",
+            "open_issues": 1,
             "owner": "gabamnml",
             "repo": "unlock-your-mac",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1702,12 +2603,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage your Keynote presentation with Alfred Remote iOS App",
+            "homepage": "http://bit.ly/keynote-alfred-remote",
             "id": 30661971,
             "language": null,
+            "license": null,
             "last_commit": "2015-02-12T14:17:49Z",
+            "open_issues": 0,
             "owner": "gabamnml",
             "repo": "Keynote-remote",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "ios-remote",
+              "keynote",
+              "remote-control"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -1724,12 +2636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smooth ru-en en-ru translation workflow",
+            "homepage": null,
             "id": 15757388,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-17T10:40:48Z",
+            "open_issues": 0,
             "owner": "podgorniy",
             "repo": "alfred-translate",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1740,12 +2657,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌍 Alfred 4/5 workflow to get translations from dict.cc",
+            "homepage": null,
             "id": 66460263,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-06-06T18:18:07Z",
+            "open_issues": 8,
             "owner": "dennis-tra",
             "repo": "alfred-dict.cc-workflow",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "alfred",
+              "dict",
+              "german",
+              "hacktoberfest",
+              "translation",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1756,12 +2685,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dictionary workflow for Alfred based on linguee.de",
+            "homepage": null,
             "id": 38167039,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-01-01T17:54:03Z",
+            "open_issues": 5,
             "owner": "alexander-heimbuch",
             "repo": "linguee-alfred-workflow",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "linguee"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1772,12 +2710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎩 Alfred 3 Workflow to convert misspelled english characters into korean letters (& vice versa)",
+            "homepage": "https://inko.js.org",
             "id": 178378578,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-04-11T12:27:49Z",
+            "open_issues": 0,
             "owner": "738",
             "repo": "alfred-inko",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -1794,12 +2737,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of Alfred workflows",
+            "homepage": null,
             "id": 8729561,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-17T16:34:33Z",
+            "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2401
+            "stars": 2401,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1810,12 +2758,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of Alfred workflows",
+            "homepage": null,
             "id": 8729561,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-17T16:34:33Z",
+            "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2401
+            "stars": 2401,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1826,12 +2779,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of Alfred workflows",
+            "homepage": null,
             "id": 8729561,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-17T16:34:33Z",
+            "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2401
+            "stars": 2401,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1842,12 +2800,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of Alfred workflows",
+            "homepage": null,
             "id": 8729561,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-17T16:34:33Z",
+            "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2401
+            "stars": 2401,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1858,12 +2821,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred workflow to search Notion with instant results",
+            "homepage": null,
             "id": 241108747,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-08T13:50:57Z",
+            "open_issues": 8,
             "owner": "wrjlewis",
             "repo": "notion-search-alfred-workflow",
-            "stars": 846
+            "stars": 846,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "notion",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1874,12 +2847,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎩 Font Awesome workflow for Alfred",
+            "homepage": null,
             "id": 11881031,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:51:41Z",
+            "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
-            "stars": 806
+            "stars": 806,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred4-workflow",
+              "css",
+              "font",
+              "font-awesome",
+              "fontawesome",
+              "icons",
+              "photoshop",
+              "sketch",
+              "svg-icons",
+              "webfont"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1890,12 +2881,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow for searching and copying emoji",
+            "homepage": null,
             "id": 101334848,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-05-27T11:07:20Z",
+            "open_issues": 19,
             "owner": "jsumners",
             "repo": "alfred-emoji",
-            "stars": 783
+            "stars": 783,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1906,12 +2902,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert between different units in Alfred",
+            "homepage": null,
             "id": 17146352,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-08T11:05:30Z",
+            "open_issues": 19,
             "owner": "deanishe",
             "repo": "alfred-convert",
-            "stars": 713
+            "stars": 713,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred3",
+              "alfred4",
+              "alfred4-workflow",
+              "conversion",
+              "cryptocurrencies",
+              "currencies",
+              "exchange-rates",
+              "offline",
+              "pint",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1922,12 +2936,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Alfred to quickly open notes in iCloud/Apple Notes. Written in Go and designed for speed.",
+            "homepage": "https://www.alfredforum.com/topic/11716-search-appleicloud-notes/",
             "id": 142307853,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-01-15T10:55:42Z",
+            "open_issues": 13,
             "owner": "sballin",
             "repo": "alfred-search-notes-app",
-            "stars": 589
+            "stars": 589,
+            "topics": [
+              "alfred",
+              "apple-notes",
+              "icloud-notes",
+              "notational-velocity",
+              "notes-app"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1938,12 +2963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encoding and decoding a string into multiple variations.",
+            "homepage": null,
             "id": 13132518,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-10-17T23:55:39Z",
+            "open_issues": 10,
             "owner": "willfarrell",
             "repo": "alfred-encode-decode-workflow",
-            "stars": 526
+            "stars": 526,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1954,12 +2984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred 2 Workflow: 1) Top Processes Based Memory, CPU, and IO Usage; 2) Get a Glance of System Status",
+            "homepage": "http://zhaocai.github.com/alfred2-top-workflow/",
             "id": 8840281,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2016-07-03T20:21:07Z",
+            "open_issues": 11,
             "owner": "zhaocai",
             "repo": "alfred2-top-workflow",
-            "stars": 511
+            "stars": 511,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1970,12 +3005,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An application for using in Alfred workflow to enumerate and switch between windows on OSX.",
+            "homepage": null,
             "id": 81984058,
             "language": "Swift",
+            "license": null,
             "last_commit": "2022-07-21T07:53:26Z",
+            "open_issues": 21,
             "owner": "mandrigin",
             "repo": "AlfredSwitchWindows",
-            "stars": 334
+            "stars": 334,
+            "topics": [
+              "alfred3-workflow",
+              "macos",
+              "scriptingbridge",
+              "swift",
+              "swift3"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1986,12 +3032,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate passwords with Alfred",
+            "homepage": null,
             "id": 39805584,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-02T07:58:53Z",
+            "open_issues": 7,
             "owner": "deanishe",
             "repo": "alfred-pwgen",
-            "stars": 295
+            "stars": 295,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "extensible",
+              "markov-chain",
+              "password-generator",
+              "plugins"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2002,12 +3060,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This alfred3 workflow can convert currency conveniently.",
+            "homepage": null,
             "id": 60963191,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2021-04-28T07:44:07Z",
+            "open_issues": 10,
             "owner": "jin5354",
             "repo": "alfred3-workflow-CurrencyConvert",
-            "stars": 286
+            "stars": 286,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2018,12 +3081,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate fake test data in Alfred",
+            "homepage": null,
             "id": 28594779,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-27T04:22:33Z",
+            "open_issues": 8,
             "owner": "deanishe",
             "repo": "alfred-fakeum",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred4",
+              "alfred4-workflow",
+              "fake",
+              "python",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2034,12 +3110,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred Workflow for Pinboard (Rust)",
+            "homepage": null,
             "id": 125336380,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-18T01:48:46Z",
+            "open_issues": 2,
             "owner": "spamwax",
             "repo": "alfred-pinboard-rs",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "bookmark",
+              "pinboard",
+              "productivity",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2050,12 +3138,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View Google Calendar events in Alfred",
+            "homepage": null,
             "id": 112101524,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-07-30T04:28:44Z",
+            "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-gcal",
-            "stars": 231
+            "stars": 231,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred3",
+              "apple-maps",
+              "awgo",
+              "calendar",
+              "google-calendar",
+              "google-maps"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2066,12 +3168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred 2 Layout workflow",
+            "homepage": "http://untoldwind.github.io/projects/alfred2-layout.html",
             "id": 13061886,
             "language": "Perl",
+            "license": null,
             "last_commit": "2019-03-16T14:48:23Z",
+            "open_issues": 3,
             "owner": "untoldwind",
             "repo": "alfred2-layout",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2082,12 +3189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "find unicode symbols using alfred workflow",
+            "homepage": null,
             "id": 8973078,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-02T10:27:06Z",
+            "open_issues": 1,
             "owner": "bevesce",
             "repo": "unicode-symbols-search",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2098,12 +3210,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Alfred 4 Workflow - See foreign exchange rates and currency conversion",
+            "homepage": null,
             "id": 122666489,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-13T09:51:44Z",
+            "open_issues": 17,
             "owner": "jeppestaerk",
             "repo": "alfred-currency-conversion",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred4",
+              "alfred4-workflow",
+              "alfredworkflow",
+              "alfy",
+              "currency-conversion",
+              "currency-converter",
+              "currency-exchange-rates",
+              "currency-rates"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2114,12 +3242,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage Tunnelblick & Viscosity VPN connections from Alfred",
+            "homepage": null,
             "id": 41766978,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-01T15:41:30Z",
+            "open_issues": 7,
             "owner": "deanishe",
             "repo": "alfred-vpn-manager",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "alfred",
+              "alfred-3",
+              "alfred-viscosity",
+              "alfred-workflow",
+              "macos",
+              "openvpn",
+              "openvpn-client",
+              "tunnelblick",
+              "viscosity",
+              "vpn-connections",
+              "vpn-manager"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2130,12 +3275,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimize, encrypt and manipulate PDF files.",
+            "homepage": null,
             "id": 64030501,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-14T11:14:29Z",
+            "open_issues": 2,
             "owner": "xilopaint",
             "repo": "alfred-pdf-tools",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred-workflows",
+              "pdf"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2146,12 +3301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cheatsheet to get shortcuts for apps",
+            "homepage": null,
             "id": 105364341,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-25T15:30:03Z",
+            "open_issues": 10,
             "owner": "mutdmour",
             "repo": "alfred-workflow-cheatsheet",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2162,12 +3322,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Alfred 4 Workflow - See network info and discover local devices",
+            "homepage": null,
             "id": 122265962,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-20T16:29:28Z",
+            "open_issues": 7,
             "owner": "jeppestaerk",
             "repo": "alfred-show-network-info",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred4",
+              "alfred4-workflow",
+              "alfy"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2178,12 +3349,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow for managing bluetooth settings and -connections",
+            "homepage": null,
             "id": 249162849,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-12T15:25:52Z",
+            "open_issues": 3,
             "owner": "vegardinho",
             "repo": "alfred_bluetooth_controller",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "bluetooth",
+              "blueutil",
+              "macos"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2194,12 +3376,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NSC is a little Alfred extension to convert numbers into other number systems.",
+            "homepage": null,
             "id": 7058207,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-30T09:44:29Z",
+            "open_issues": 5,
             "owner": "obstschale",
             "repo": "NSC",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "alfred-workflow",
+              "convert-numbers",
+              "nsc"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2210,12 +3401,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":high_brightness: Syntax highlight code in the clipboard",
+            "homepage": null,
             "id": 63502001,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-11T10:39:34Z",
+            "open_issues": 6,
             "owner": "importre",
             "repo": "alfred-hl",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "highlight",
+              "syntax-highlighting"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2226,12 +3427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow to display or calculate with current date and time.",
+            "homepage": null,
             "id": 9115756,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2021-04-30T11:48:43Z",
+            "open_issues": 0,
             "owner": "LeEnno",
             "repo": "alfred-date-calculator",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2242,12 +3448,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ultra-fast Lorem Ipsum workflow for Alfred 4",
+            "homepage": "http://www.packal.org/workflow/lorem-ipsum-0",
             "id": 74093014,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-01-24T16:56:34Z",
+            "open_issues": 2,
             "owner": "tillkruss",
             "repo": "alfred-lorem-ipsum",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "lorem-ipsum"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2258,12 +3473,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred extension to switch between open windows of the currently focused application",
+            "homepage": null,
             "id": 19348669,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-01-30T23:00:39Z",
+            "open_issues": 2,
             "owner": "jnewland",
             "repo": "alfred-open-windows",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "alfred"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2274,12 +3496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Displays a calendar with Alfred Workflow",
+            "homepage": null,
             "id": 28646985,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-15T15:57:19Z",
+            "open_issues": 8,
             "owner": "owenwater",
             "repo": "alfred-cal",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2290,12 +3517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adjust your display's brightness with Alfred",
+            "homepage": null,
             "id": 19375097,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-08-30T17:43:26Z",
+            "open_issues": 3,
             "owner": "fniephaus",
             "repo": "alfred-brightness",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2306,12 +3538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow to create QR code ",
+            "homepage": null,
             "id": 77574762,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2016-12-29T07:58:58Z",
+            "open_issues": 1,
             "owner": "wensonsmith",
             "repo": "QRcodeCreator",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2322,12 +3559,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KeepassXC integration with Alfred",
+            "homepage": null,
             "id": 253089096,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-12T17:41:45Z",
+            "open_issues": 3,
             "owner": "Angoll",
             "repo": "KPass",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "alfred",
+              "alfred-4",
+              "alfred-workflows",
+              "alfred4",
+              "keepassxc"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2338,12 +3586,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "alfred workflow to switch bluetooth",
+            "homepage": null,
             "id": 26860509,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2016-05-12T15:24:56Z",
+            "open_issues": 1,
             "owner": "uchida",
             "repo": "alfred-switch-bluetooth",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2354,12 +3607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect to a host in Alfred with automatic network discovery.",
+            "homepage": "http://www.alfredforum.com/topic/942-screen-sharing-with-automatic-network-discovery/",
             "id": 8804492,
             "language": null,
+            "license": "MIT",
             "last_commit": "2013-11-19T12:38:45Z",
+            "open_issues": 2,
             "owner": "pstadler",
             "repo": "alfred-screensharing",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2370,12 +3628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred app workflow to display battery levels of your Apple devices",
+            "homepage": null,
             "id": 14235704,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-05-07T05:28:11Z",
+            "open_issues": 2,
             "owner": "BenziAhamed",
             "repo": "alfred-battery",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2386,12 +3649,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Image searches based on local files via Alfred",
+            "homepage": null,
             "id": 34845150,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-31T17:18:06Z",
+            "open_issues": 4,
             "owner": "deanishe",
             "repo": "alfred-similar-image-search",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "google",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2402,12 +3675,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly check cryptocurrency prices with Alfred",
+            "homepage": null,
             "id": 94396743,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-29T12:05:19Z",
+            "open_issues": 3,
             "owner": "rhlsthrm",
             "repo": "alfred-crypto-tracker",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2418,12 +3696,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred 3 workflow to beautify JSON/XML in clipboard",
+            "homepage": null,
             "id": 63670056,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-13T04:23:00Z",
+            "open_issues": 5,
             "owner": "importre",
             "repo": "alfred-tidy",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2434,12 +3717,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred 3 & 4 workflow for taking various screenshots.",
+            "homepage": null,
             "id": 110717038,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2019-06-18T19:53:24Z",
+            "open_issues": 2,
             "owner": "vookimedlo",
             "repo": "alfred-various-screenshots",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "alfred",
+              "alfred-3",
+              "alfred-4",
+              "alfred-workflow",
+              "alfred3-workflow",
+              "alfred4",
+              "alfred4-workflow",
+              "capture-screen",
+              "dropbox",
+              "screenshots",
+              "transfersh"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2450,12 +3750,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Alfred 3 workflow that uses macOS's TTS (text-to-speech) feature to speak text aloud.",
+            "homepage": null,
             "id": 45145217,
             "language": "Shell",
+            "license": null,
             "last_commit": "2020-04-10T18:55:58Z",
+            "open_issues": 1,
             "owner": "mklement0",
             "repo": "speak.awf",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "alfred-workflow",
+              "text-to-speech",
+              "tts",
+              "voices"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2466,12 +3776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Handy profile switcher for Karabiner Elements using Alfred Workflows",
+            "homepage": null,
             "id": 78805826,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-30T13:00:32Z",
+            "open_issues": 2,
             "owner": "awinecki",
             "repo": "karabiner-elements-profile-switcher",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2482,12 +3797,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List, filter and activate network locations from within Alfred",
+            "homepage": null,
             "id": 20973598,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-15T12:18:39Z",
+            "open_issues": 2,
             "owner": "deanishe",
             "repo": "alfred-network-location",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "network",
+              "python",
+              "wifi",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2498,12 +3825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred WF to shadow a folder to another folder via rsync",
+            "homepage": null,
             "id": 127788020,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-26T10:00:08Z",
+            "open_issues": 3,
             "owner": "Acidham",
             "repo": "rsync-folders",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2514,12 +3846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred Workflow & AppleScript to close all open system alerts (iCal, etc) without touching the mouse.",
+            "homepage": null,
             "id": 30202365,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2017-10-24T19:55:56Z",
+            "open_issues": 2,
             "owner": "skotzko",
             "repo": "shhhhh",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2530,12 +3867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow for Alfred 3 that helps you create files easily.",
+            "homepage": null,
             "id": 66321733,
             "language": null,
+            "license": null,
             "last_commit": "2016-09-07T08:01:37Z",
+            "open_issues": 1,
             "owner": "SteliosHa",
             "repo": "Alfred_File_Creator",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2546,12 +3888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "because the ones i found don't work",
+            "homepage": null,
             "id": 114477246,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-01T12:12:02Z",
+            "open_issues": 4,
             "owner": "KevinRamsunder",
             "repo": "alfred3-imdb-workflow",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2562,12 +3909,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred Workflow for opening Workflow Directories",
+            "homepage": null,
             "id": 68537286,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-12-04T17:18:52Z",
+            "open_issues": 2,
             "owner": "jeeftor",
             "repo": "AlfredWorkflowDirectory",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "alfred",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2578,12 +3933,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrates http://ourairports.com data into Alfred plugin",
+            "homepage": null,
             "id": 76372475,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-01-18T16:41:36Z",
+            "open_issues": 3,
             "owner": "jeeftor",
             "repo": "alfredAirports",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "airport",
+              "airports",
+              "alfred",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2594,12 +3959,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Time Calculator Workflow for Alfred",
+            "homepage": null,
             "id": 949498129,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-21T02:01:44Z",
+            "open_issues": 1,
             "owner": "shura-v",
             "repo": "alfred-time-calculator",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "alfred-workflow",
+              "calculator",
+              "time"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2610,12 +3984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred workflow for changing resolutions on primary monitor",
+            "homepage": null,
             "id": 11647968,
             "language": "Python",
+            "license": null,
             "last_commit": "2013-07-25T04:06:14Z",
+            "open_issues": 0,
             "owner": "taylorludwig",
             "repo": "Resolutions-Alfred",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2626,12 +4005,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View JSON in FeHelper",
+            "homepage": null,
             "id": 326407971,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-01-11T12:44:37Z",
+            "open_issues": 0,
             "owner": "hanjm",
             "repo": "alfred-json-beautifier-in-fehelper-workflow",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred4-workflow",
+              "json",
+              "json-beautifier",
+              "json-viewer"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2642,12 +4033,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an applescript and alfred extension to manage window layouts",
+            "homepage": "https://github.com/jknight/MacWindowLayoutTiles",
             "id": 271786976,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-13T21:40:04Z",
+            "open_issues": 0,
             "owner": "jknight",
             "repo": "MacWindowLayoutTiles",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2658,12 +4054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 15355463,
             "language": null,
+            "license": null,
             "last_commit": "2013-12-21T11:35:48Z",
+            "open_issues": 0,
             "owner": "josefglatz",
             "repo": "folder2iso-alfredworkflow",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2674,12 +4075,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AbuseIPDB Workflow for Alfred",
+            "homepage": null,
             "id": 376221756,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-06-12T06:55:56Z",
+            "open_issues": 0,
             "owner": "slunak",
             "repo": "abuseipdb-alfred-workflow",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -2696,12 +4102,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of Alfred workflows",
+            "homepage": null,
             "id": 8729561,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-17T16:34:33Z",
+            "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2401
+            "stars": 2401,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2712,12 +4123,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browse Reddit from Alfred",
+            "homepage": null,
             "id": 28581252,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-26T20:13:38Z",
+            "open_issues": 3,
             "owner": "deanishe",
             "repo": "alfred-reddit",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "python",
+              "reddit",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2728,12 +4150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Product Hunt Workflow for Alfred 2.0",
+            "homepage": null,
             "id": 20812616,
             "language": "Python",
+            "license": null,
             "last_commit": "2015-01-31T20:54:29Z",
+            "open_issues": 0,
             "owner": "loris",
             "repo": "alfred-producthunt-workflow",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -2750,12 +4177,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of Alfred workflows",
+            "homepage": null,
             "id": 8729561,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-17T16:34:33Z",
+            "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2401
+            "stars": 2401,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2766,12 +4198,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Streamlined note searching and creation for Bear using Alfred",
+            "homepage": null,
             "id": 130618635,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-02-26T13:03:29Z",
+            "open_issues": 14,
             "owner": "drgrib",
             "repo": "alfred-bear",
-            "stars": 443
+            "stars": 443,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred-workflows",
+              "alfred3",
+              "alfred3-workflow",
+              "bear",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2782,12 +4228,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred 3 workflow for Ulysses",
+            "homepage": "http://www.alfredforum.com/topic/9662-ulysses-workflow/",
             "id": 72154970,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-14T14:04:48Z",
+            "open_issues": 7,
             "owner": "robwalton",
             "repo": "alfred-ulysses-workflow",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "alfred",
+              "alfred-3",
+              "alfred-workflow",
+              "ulysses"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2798,12 +4254,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mag_right: Alfred 3-4 workflow to search for latex symbol commands",
+            "homepage": null,
             "id": 32402414,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-05-02T20:01:21Z",
+            "open_issues": 0,
             "owner": "wookayin",
             "repo": "alfred-latex-symbols-workflow",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "latex",
+              "latex-symbols",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -2820,12 +4287,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helps to remember workflow keywords",
+            "homepage": null,
             "id": 41247827,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-12-16T09:21:19Z",
+            "open_issues": 4,
             "owner": "pochemuto",
             "repo": "alfred-help-workflow",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred3-workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2836,12 +4312,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search Alfred Workflows",
+            "homepage": null,
             "id": 189604047,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-20T08:26:15Z",
+            "open_issues": 0,
             "owner": "Acidham",
             "repo": "search-alfred-workflows",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "alfred-workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -2858,12 +4341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":metal: A collection of Alfred 3 and 4 workflows that will rock your world",
+            "homepage": null,
             "id": 13048104,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-27T01:37:28Z",
+            "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12252
+            "stars": 12252,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2874,12 +4362,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of awesome alfred workflows",
+            "homepage": null,
             "id": 51775649,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-08T12:01:17Z",
+            "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3178
+            "stars": 3178,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "awesome",
+              "awesome-list",
+              "text-manipulation"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -2890,12 +4389,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of awesome alfred workflows",
+            "homepage": null,
             "id": 51775649,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-08T12:01:17Z",
+            "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3178
+            "stars": 3178,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "awesome",
+              "awesome-list",
+              "text-manipulation"
+            ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         }
@@ -2904,15 +4414,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:19:34.587Z",
+    "last_updated": "2026-08-29T04:22:51.294Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Amazing Alfred Workflows",
+      "homepage": null,
       "id": 93960104,
       "language": null,
+      "license": null,
       "last_commit": "2026-05-01T19:22:22Z",
+      "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2772
+      "stars": 2772,
+      "topics": [
+        "alfred",
+        "alfred-workflow",
+        "alfred-workflows",
+        "automation",
+        "awesome",
+        "awesome-list",
+        "community",
+        "curated-list",
+        "macos"
+      ]
     },
     "original_repository_sha": "ec7a848e4df04d2cc3952e2240a99710291d7f52",
     "enhanced_repository": "enhansome/enhansome-alfred-workflows",
