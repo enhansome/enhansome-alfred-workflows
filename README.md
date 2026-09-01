@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,849 | 🐛 426 | 📅 2026-08-28.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,852 | 🐛 426 | 📅 2026-08-28.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 367 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,533 | 🐛 302 | 🌐 Markdown | 📅 2026-08-30 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,549 | 🐛 314 | 🌐 Markdown | 📅 2026-09-01 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -187,8 +187,8 @@
 * [RunCommand](https://github.com/vitorgalvao/alfred-workflows/tree/master/RunCommand) ⚠️ Archived - Run shell commands on selected files/directories.
 * [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) ⚠️ Archived - Play and manage local audiovisual content and streams.
 * [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) ⚠️ Archived - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
-* [Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow) ⭐ 846 | 🐛 8 | 🌐 Python | 📅 2026-04-08 - Alfred workflow to search Notion with instant results.
-* [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) ⭐ 806 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-28 - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
+* [Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow) ⭐ 845 | 🐛 8 | 🌐 Python | 📅 2026-04-08 - Alfred workflow to search Notion with instant results.
+* [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) ⭐ 806 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-31 - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
 * [Emoji Search](https://github.com/jsumners/alfred-emoji) ⭐ 783 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-27 - Search and copy emojis.
 * [Convert](https://github.com/deanishe/alfred-convert) ⭐ 713 | 🐛 19 | 🌐 Python | 📅 2022-07-08 - Convert between different units.
 * [Search Notes App](https://github.com/sballin/alfred-search-notes-app) ⭐ 589 | 🐛 13 | 🌐 Go | 📅 2025-01-15 - Use Alfred to quickly open notes in iCloud/Apple Notes.
@@ -224,7 +224,7 @@
 * [Crypto Tracker](https://github.com/rhlsthrm/alfred-crypto-tracker) ⭐ 48 | 🐛 3 | 🌐 Python | 📅 2022-11-29 - Quickly check cryptocurrency prices.
 * [Tidy](https://github.com/importre/alfred-tidy) ⭐ 40 | 🐛 5 | 🌐 JavaScript | 📅 2022-02-13 - Beautify JSON/XML in clipboard.
 * [Various Screenshots](https://github.com/vookimedlo/alfred-various-screenshots) ⭐ 39 | 🐛 2 | 📅 2019-06-18 - Taking various screenshots.
-* [Speak](https://github.com/mklement0/speak.awf) ⭐ 37 | 🐛 1 | 🌐 Shell | 📅 2020-04-10 - Use OS X's TTS (text-to-speech) feature to speak text aloud.
+* [Speak](https://github.com/mklement0/speak.awf) ⭐ 36 | 🐛 1 | 🌐 Shell | 📅 2020-04-10 - Use OS X's TTS (text-to-speech) feature to speak text aloud.
 * [Karabiner Elements Profile Switcher](https://github.com/awinecki/karabiner-elements-profile-switcher) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2020-10-30 - Handy profile switcher for Karabiner Elements.
 * [Network Locations](https://github.com/deanishe/alfred-network-location) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2022-03-15 - List, filter and activate network locations.
 * [Rsync Folders](https://github.com/Acidham/rsync-folders) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2023-01-26 - Keep a set of folders in sync with their target folders via rsync.
@@ -266,7 +266,7 @@
 ## Writing
 
 * [SynArt](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) ⚠️ Archived - Search for synonyms and antonms.
-* [Bear](https://github.com/drgrib/alfred-bear) ⭐ 443 | 🐛 14 | 🌐 Go | 📅 2025-02-26 - Streamlined note searching and creation for Bear using Alfred.
+* [Bear](https://github.com/drgrib/alfred-bear) ⭐ 444 | 🐛 14 | 🌐 Go | 📅 2025-02-26 - Streamlined note searching and creation for Bear using Alfred.
 * [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) ⭐ 80 | 🐛 7 | 🌐 Python | 📅 2019-10-14 - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
 * [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow) ⭐ 47 | 🐛 0 | 🌐 Ruby | 📅 2022-05-02 - Find LaTeX commands for symbols.
 
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

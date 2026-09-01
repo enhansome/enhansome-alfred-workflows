@@ -2830,7 +2830,7 @@
             "open_issues": 8,
             "owner": "wrjlewis",
             "repo": "notion-search-alfred-workflow",
-            "stars": 846,
+            "stars": 845,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T10:51:41Z",
+            "last_commit": "2026-08-31T18:03:16Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -3759,7 +3759,7 @@
             "open_issues": 1,
             "owner": "mklement0",
             "repo": "speak.awf",
-            "stars": 37,
+            "stars": 36,
             "topics": [
               "alfred-workflow",
               "text-to-speech",
@@ -4207,7 +4207,7 @@
             "open_issues": 14,
             "owner": "drgrib",
             "repo": "alfred-bear",
-            "stars": 443,
+            "stars": 444,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T23:47:27.420Z",
+    "last_updated": "2026-09-01T00:45:40.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
