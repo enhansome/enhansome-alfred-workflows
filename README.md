@@ -32,14 +32,14 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,852 | 🐛 426 | 📅 2026-08-28.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,857 | 🐛 426 | 📅 2026-08-28.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
 
-* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,917 | 🐛 10 | 🌐 PHP | 📅 2026-05-10 - Fully featured workflow to inteact with GitHub.
-* [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) ⭐ 700 | 🐛 0 | 🌐 PHP | 📅 2025-12-09 - Quick package/plugin/component (repo) lookup for your favourite package managers.
-* [Devdocs](https://github.com/yannickglt/alfred-devdocs) ⭐ 653 | 🐛 8 | 🌐 PHP | 📅 2021-12-06 - Search through [devdocs.io](http://devdocs.io/)
+* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,916 | 🐛 10 | 🌐 PHP | 📅 2026-05-10 - Fully featured workflow to inteact with GitHub.
+* [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) ⭐ 699 | 🐛 0 | 🌐 PHP | 📅 2025-12-09 - Quick package/plugin/component (repo) lookup for your favourite package managers.
+* [Devdocs](https://github.com/yannickglt/alfred-devdocs) ⭐ 652 | 🐛 8 | 🌐 PHP | 📅 2021-12-06 - Search through [devdocs.io](http://devdocs.io/)
 * [Open in Jetbrains](https://github.com/bchatard/alfred-jetbrains) ⭐ 620 | 🐛 8 | 📅 2025-12-16 - Open project with one of JetBrains' product.
 * [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) ⭐ 474 | 🐛 3 | 🌐 JavaScript | 📅 2021-02-17 - Fabulously search and kill processes.
 * [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow) ⭐ 428 | 🐛 2 | 🌐 Python | 📅 2022-09-17 - Search [StackOverflow.com](https://stackoveflow.com).
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 367 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,549 | 🐛 314 | 🌐 Markdown | 📅 2026-09-01 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,556 | 🐛 311 | 🌐 Markdown | 📅 2026-09-01 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -104,7 +104,7 @@
 
 ## Libraries
 
-* [Alfred Workflow](https://github.com/deanishe/alfred-workflow) ⭐ 2,965 | 🐛 21 | 🌐 Python | 📅 2023-01-10 - Write workflows in Python.
+* [Alfred Workflow](https://github.com/deanishe/alfred-workflow) ⭐ 2,964 | 🐛 21 | 🌐 Python | 📅 2023-01-10 - Write workflows in Python.
 * [Alfy](https://github.com/sindresorhus/alfy) ⭐ 2,653 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Write workflows in Node.js.
 * [AwGo](https://github.com/deanishe/awgo) ⭐ 877 | 🐛 17 | 🌐 Go | 📅 2024-04-03 - Write workflows in Go.
 * [Alfred Rust](https://github.com/lilyball/alfred-rs) ⭐ 48 | 🐛 2 | 🌐 Rust | 📅 2019-08-27
@@ -188,19 +188,19 @@
 * [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) ⚠️ Archived - Play and manage local audiovisual content and streams.
 * [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) ⚠️ Archived - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
 * [Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow) ⭐ 845 | 🐛 8 | 🌐 Python | 📅 2026-04-08 - Alfred workflow to search Notion with instant results.
-* [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) ⭐ 806 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-31 - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
+* [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) ⭐ 805 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-01 - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
 * [Emoji Search](https://github.com/jsumners/alfred-emoji) ⭐ 783 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-27 - Search and copy emojis.
 * [Convert](https://github.com/deanishe/alfred-convert) ⭐ 713 | 🐛 19 | 🌐 Python | 📅 2022-07-08 - Convert between different units.
 * [Search Notes App](https://github.com/sballin/alfred-search-notes-app) ⭐ 589 | 🐛 13 | 🌐 Go | 📅 2025-01-15 - Use Alfred to quickly open notes in iCloud/Apple Notes.
 * [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) ⭐ 526 | 🐛 10 | 🌐 PHP | 📅 2022-10-17 - Encoding and decoding a sting into multiple variations.
-* [Top Process](https://github.com/zhaocai/alfred2-top-workflow) ⭐ 511 | 🐛 11 | 🌐 Ruby | 📅 2016-07-03 - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
+* [Top Process](https://github.com/zhaocai/alfred2-top-workflow) ⭐ 510 | 🐛 11 | 🌐 Ruby | 📅 2016-07-03 - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
 * [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) ⭐ 334 | 🐛 21 | 🌐 Swift | 📅 2022-07-21 - Enumerate and switch between windows on macOS.
 * [Pwgen](https://github.com/deanishe/alfred-pwgen) ⭐ 295 | 🐛 7 | 🌐 Python | 📅 2022-08-02 - Generate secure passwords.
 * [Currency Convert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) ⭐ 286 | 🐛 10 | 🌐 Ruby | 📅 2021-04-28 - Convert currency conveniently.
 * [Fakeum](https://github.com/deanishe/alfred-fakeum) ⭐ 281 | 🐛 8 | 🌐 Python | 📅 2021-07-27 - Generate fake test data.
 * [Pinboard search](https://github.com/spamwax/alfred-pinboard-rs) ⭐ 280 | 🐛 2 | 🌐 Rust | 📅 2026-01-18 - Manage, post and preview your bookmarks on [Pinboard](https://pinboard.in/).
 * [Google Calendar](https://github.com/deanishe/alfred-gcal) ⭐ 231 | 🐛 21 | 🌐 Go | 📅 2021-07-30 - View Google Calendar events.
-* [Layout](https://github.com/untoldwind/alfred2-layout) ⭐ 196 | 🐛 3 | 🌐 Perl | 📅 2019-03-16 - Powerful window manager with many options (Looking for new owner/maintainer)
+* [Layout](https://github.com/untoldwind/alfred2-layout) ⭐ 195 | 🐛 3 | 🌐 Perl | 📅 2019-03-16 - Powerful window manager with many options (Looking for new owner/maintainer)
 * [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search) ⭐ 193 | 🐛 1 | 🌐 Python | 📅 2023-06-02 - Quickly search through all Unicode symbols.
 * [Currency Conversion](https://github.com/jeppestaerk/alfred-currency-conversion) ⚠️ Archived - See foreign exchange rates and currency conversion.
 * [Viscosity](https://github.com/deanishe/alfred-viscosity) ⭐ 158 | 🐛 7 | 🌐 Python | 📅 2022-06-01 - Manage Viscosity VPN connections.
@@ -277,7 +277,7 @@
 
 ## Related
 
-* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows) ⭐ 12,251 | 🐛 14 | 📅 2021-02-27
+* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows) ⭐ 12,250 | 🐛 14 | 📅 2021-02-27
 * [Awesome Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) ⚠️ Archived
 * [Awesome Alfred Workflows 2](https://github.com/alfred-workflows/awesome-alfred-workflows) ⚠️ Archived
 * [Pacmax](https://pacmax.org/) - Explore & Share Great Alfred Packages.
@@ -287,7 +287,7 @@
 
 If you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
 
-[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows) ⭐ 2,772 | 🐛 4 | 📅 2026-05-01
+[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows) ⭐ 2,773 | 🐛 4 | 📅 2026-05-01
 
 `[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows)`
 
