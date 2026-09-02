@@ -1766,7 +1766,7 @@
             "id": 9597401,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-12T08:24:48Z",
+            "last_commit": "2026-09-02T13:34:37Z",
             "open_issues": 2,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
@@ -4371,7 +4371,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3178,
+            "stars": 3177,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4398,7 +4398,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3178,
+            "stars": 3177,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:31:55.382Z",
+    "last_updated": "2026-09-02T23:31:41.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
