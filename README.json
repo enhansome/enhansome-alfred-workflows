@@ -198,7 +198,7 @@
             "open_issues": 10,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
-            "stars": 2916,
+            "stars": 2915,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -246,7 +246,7 @@
             "open_issues": 8,
             "owner": "yannickglt",
             "repo": "alfred-devdocs",
-            "stars": 652,
+            "stars": 653,
             "topics": [
               "alfred-workflow",
               "alfred3-workflow",
@@ -1770,7 +1770,7 @@
             "open_issues": 2,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
-            "stars": 1111,
+            "stars": 1110,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1879,7 +1879,7 @@
             "open_issues": 5,
             "owner": "nikivdev",
             "repo": "mbt",
-            "stars": 487,
+            "stars": 488,
             "topics": [
               "moonbit"
             ]
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T12:54:57Z",
+            "last_commit": "2026-09-03T22:21:50Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -3251,7 +3251,7 @@
             "open_issues": 7,
             "owner": "deanishe",
             "repo": "alfred-vpn-manager",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "alfred",
               "alfred-3",
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12250,
+            "stars": 12249,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:31:41.654Z",
+    "last_updated": "2026-09-03T23:29:51.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
