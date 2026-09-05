@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12248,
+            "stars": 12247,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3177,
+            "stars": 3176,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4398,7 +4398,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3177,
+            "stars": 3176,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:14:04.766Z",
+    "last_updated": "2026-09-05T23:13:23.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
