@@ -1545,7 +1545,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2653,
+            "stars": 2654,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2908,7 +2908,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2022-07-08T11:05:30Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "deanishe",
             "repo": "alfred-convert",
             "stars": 713,
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:13:23.923Z",
+    "last_updated": "2026-09-06T23:04:42.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
