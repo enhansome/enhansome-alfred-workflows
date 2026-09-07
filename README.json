@@ -1545,7 +1545,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2654,
+            "stars": 2655,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2280,7 +2280,7 @@
             "open_issues": 7,
             "owner": "squatto",
             "repo": "alfred-imessage-2fa",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "2fa",
               "alfred",
@@ -3547,7 +3547,7 @@
             "open_issues": 1,
             "owner": "wensonsmith",
             "repo": "QRcodeCreator",
-            "stars": 62,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12247,
+            "stars": 12248,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T23:04:42.204Z",
+    "last_updated": "2026-09-07T23:43:12.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
