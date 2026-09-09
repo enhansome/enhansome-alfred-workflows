@@ -198,7 +198,7 @@
             "open_issues": 10,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
-            "stars": 2915,
+            "stars": 2914,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -299,7 +299,7 @@
             "open_issues": 3,
             "owner": "SamVerschueren",
             "repo": "alfred-fkill",
-            "stars": 474,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -370,7 +370,7 @@
             "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "alfred-npms",
-            "stars": 367,
+            "stars": 365,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1545,7 +1545,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2655,
+            "stars": 2654,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T00:29:07Z",
+            "last_commit": "2026-09-09T20:33:40Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4207,7 +4207,7 @@
             "open_issues": 14,
             "owner": "drgrib",
             "repo": "alfred-bear",
-            "stars": 444,
+            "stars": 443,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:37:04.922Z",
+    "last_updated": "2026-09-09T23:28:50.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
