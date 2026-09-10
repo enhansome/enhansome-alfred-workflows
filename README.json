@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "msoedov",
             "repo": "Alfred-collection",
-            "stars": 944,
+            "stars": 943,
             "topics": [
               "alfred",
               "alfred-extension",
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T20:33:40Z",
+            "last_commit": "2026-09-10T22:10:56Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4371,7 +4371,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3176,
+            "stars": 3177,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4398,7 +4398,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3176,
+            "stars": 3177,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:28:50.876Z",
+    "last_updated": "2026-09-10T23:21:46.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",

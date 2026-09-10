@@ -25,14 +25,14 @@
 ## Collections
 
 * [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows) ⚠️ Archived
-* [Collection of Alfred workflows](https://github.com/msoedov/Alfred-collection) ⭐ 944 | 🐛 3 | 🌐 Go | 📅 2020-05-06
+* [Collection of Alfred workflows](https://github.com/msoedov/Alfred-collection) ⭐ 943 | 🐛 3 | 🌐 Go | 📅 2020-05-06
 * [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows) ⭐ 306 | 🐛 11 | 🌐 Go | 📅 2024-01-21
 * [Robb Knight's workflows](https://github.com/rknightuk/alfred-workflows) ⭐ 224 | 🐛 6 | 🌐 JavaScript | 📅 2024-02-29
 * [Alfred Workflows (Rust)](https://github.com/rust-playground/alfred-workflows-rs) ⭐ 25 | 🐛 0 | 🌐 Rust | 📅 2025-04-07
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,909 | 🐛 427 | 📅 2026-09-04.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,914 | 🐛 427 | 📅 2026-09-04.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 365 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,644 | 🐛 284 | 🌐 Markdown | 📅 2026-09-09 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,655 | 🐛 280 | 🌐 Markdown | 📅 2026-09-10 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -99,7 +99,7 @@
 ## Fun
 
 * [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday) ⭐ 306 | 🐛 11 | 🌐 Go | 📅 2024-01-21 - Showcase how much time passed since your birthday.
-* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,022 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-02
+* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,022 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-10
 * [Dongers](https://github.com/frdmn/alfred-dongers) ⭐ 15 | 🐛 2 | 🌐 PHP | 📅 2016-03-22 - List unicode emoticons easily.
 
 ## Libraries
@@ -188,7 +188,7 @@
 * [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) ⚠️ Archived - Play and manage local audiovisual content and streams.
 * [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) ⚠️ Archived - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
 * [Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow) ⭐ 845 | 🐛 8 | 🌐 Python | 📅 2026-04-08 - Alfred workflow to search Notion with instant results.
-* [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) ⭐ 805 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-09 - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
+* [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) ⭐ 805 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-10 - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
 * [Emoji Search](https://github.com/jsumners/alfred-emoji) ⭐ 783 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-27 - Search and copy emojis.
 * [Convert](https://github.com/deanishe/alfred-convert) ⭐ 713 | 🐛 18 | 🌐 Python | 📅 2022-07-08 - Convert between different units.
 * [Search Notes App](https://github.com/sballin/alfred-search-notes-app) ⭐ 589 | 🐛 13 | 🌐 Go | 📅 2025-01-15 - Use Alfred to quickly open notes in iCloud/Apple Notes.
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
