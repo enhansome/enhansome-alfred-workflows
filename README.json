@@ -645,7 +645,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2025-08-20T17:25:01Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "dineshgowda24",
             "repo": "alfred-gcp-workflow",
             "stars": 73,
@@ -1766,8 +1766,8 @@
             "id": 9597401,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T13:34:37Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-11T09:53:06Z",
+            "open_issues": 1,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
             "stars": 1110,
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:21:46.204Z",
+    "last_updated": "2026-09-11T23:30:19.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
