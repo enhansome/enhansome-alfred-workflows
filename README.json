@@ -2830,7 +2830,7 @@
             "open_issues": 8,
             "owner": "wrjlewis",
             "repo": "notion-search-alfred-workflow",
-            "stars": 845,
+            "stars": 846,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:14:41.425Z",
+    "last_updated": "2026-09-13T23:26:06.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
