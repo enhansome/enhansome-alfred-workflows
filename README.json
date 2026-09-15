@@ -1766,7 +1766,7 @@
             "id": 9597401,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T09:53:06Z",
+            "last_commit": "2026-09-15T12:30:34Z",
             "open_issues": 1,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T22:10:56Z",
+            "last_commit": "2026-09-15T20:15:40Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:58:03.544Z",
+    "last_updated": "2026-09-15T23:38:55.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
