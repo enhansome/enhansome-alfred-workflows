@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,990 | 🐛 428 | 📅 2026-09-18.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 53,998 | 🐛 427 | 📅 2026-09-18.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 365 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,770 | 🐛 274 | 🌐 Markdown | 📅 2026-09-19 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,820 | 🐛 276 | 🌐 Markdown | 📅 2026-09-20 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -130,7 +130,7 @@
 * [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) ⭐ 422 | 🐛 17 | 🌐 Go | 📅 2025-12-24 - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 * [Toggl](https://github.com/jason0x43/alfred-toggl) ⭐ 376 | 🐛 8 | 🌐 Go | 📅 2024-06-02 - Operate [Toggl](https://toggl.com).
 * [Pocket](https://github.com/fniephaus/alfred-pocket) ⚠️ Archived - Manage your Pocket list.
-* [Firefox Assistant](https://github.com/deanishe/alfred-firefox) ⭐ 361 | 🐛 28 | 🌐 Go | 📅 2023-02-23 - Search and control Firefox from Alfred.
+* [Firefox Assistant](https://github.com/deanishe/alfred-firefox) ⭐ 360 | 🐛 28 | 🌐 Go | 📅 2023-02-23 - Search and control Firefox from Alfred.
 * [Things](https://github.com/xilopaint/alfred-things) ⭐ 359 | 🐛 1 | 🌐 JavaScript | 📅 2024-02-02 - Interact with Things 3 using Alfred.
 * [Todoist](https://github.com/moranje/alfred-workflow-todoist) ⚠️ Archived - Manage Todoist tasks with Alfred.
 * [Searchio](https://github.com/deanishe/alfred-searchio) ⭐ 309 | 🐛 11 | 🌐 HTML | 📅 2022-01-05 - Auto-suggest search results from multiple search engines and languages.
@@ -223,7 +223,7 @@
 * [Google Similar Images](https://github.com/deanishe/alfred-similar-image-search) ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2021-12-31 - Make Google image searches on localfiles.
 * [Crypto Tracker](https://github.com/rhlsthrm/alfred-crypto-tracker) ⭐ 48 | 🐛 3 | 🌐 Python | 📅 2022-11-29 - Quickly check cryptocurrency prices.
 * [Tidy](https://github.com/importre/alfred-tidy) ⭐ 40 | 🐛 5 | 🌐 JavaScript | 📅 2022-02-13 - Beautify JSON/XML in clipboard.
-* [Various Screenshots](https://github.com/vookimedlo/alfred-various-screenshots) ⭐ 39 | 🐛 2 | 📅 2019-06-18 - Taking various screenshots.
+* [Various Screenshots](https://github.com/vookimedlo/alfred-various-screenshots) ⭐ 39 | 🐛 4 | 📅 2019-06-18 - Taking various screenshots.
 * [Speak](https://github.com/mklement0/speak.awf) ⭐ 36 | 🐛 1 | 🌐 Shell | 📅 2020-04-10 - Use OS X's TTS (text-to-speech) feature to speak text aloud.
 * [Karabiner Elements Profile Switcher](https://github.com/awinecki/karabiner-elements-profile-switcher) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2020-10-30 - Handy profile switcher for Karabiner Elements.
 * [Network Locations](https://github.com/deanishe/alfred-network-location) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2022-03-15 - List, filter and activate network locations.
@@ -277,7 +277,7 @@
 
 ## Related
 
-* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows) ⭐ 12,246 | 🐛 14 | 📅 2021-02-27
+* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows) ⭐ 12,245 | 🐛 14 | 📅 2021-02-27
 * [Awesome Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) ⚠️ Archived
 * [Awesome Alfred Workflows 2](https://github.com/alfred-workflows/awesome-alfred-workflows) ⚠️ Archived
 * [Pacmax](https://pacmax.org/) - Explore & Share Great Alfred Packages.
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

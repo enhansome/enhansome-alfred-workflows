@@ -1971,7 +1971,7 @@
             "open_issues": 28,
             "owner": "deanishe",
             "repo": "alfred-firefox",
-            "stars": 361,
+            "stars": 360,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -3723,7 +3723,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2019-06-18T19:53:24Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "vookimedlo",
             "repo": "alfred-various-screenshots",
             "stars": 39,
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12246,
+            "stars": 12245,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T23:27:37.133Z",
+    "last_updated": "2026-09-20T23:27:31.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
