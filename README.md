@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,004 | 🐛 427 | 📅 2026-09-18.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,013 | 🐛 428 | 📅 2026-09-18.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -40,14 +40,14 @@
 * [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,916 | 🐛 11 | 🌐 PHP | 📅 2026-05-10 - Fully featured workflow to inteact with GitHub.
 * [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) ⭐ 699 | 🐛 0 | 🌐 PHP | 📅 2025-12-09 - Quick package/plugin/component (repo) lookup for your favourite package managers.
 * [Devdocs](https://github.com/yannickglt/alfred-devdocs) ⭐ 653 | 🐛 8 | 🌐 PHP | 📅 2021-12-06 - Search through [devdocs.io](http://devdocs.io/)
-* [Open in Jetbrains](https://github.com/bchatard/alfred-jetbrains) ⭐ 620 | 🐛 8 | 📅 2025-12-16 - Open project with one of JetBrains' product.
+* [Open in Jetbrains](https://github.com/bchatard/alfred-jetbrains) ⭐ 619 | 🐛 8 | 📅 2025-12-16 - Open project with one of JetBrains' product.
 * [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) ⭐ 473 | 🐛 3 | 🌐 JavaScript | 📅 2021-02-17 - Fabulously search and kill processes.
 * [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow) ⭐ 428 | 🐛 2 | 🌐 Python | 📅 2022-09-17 - Search [StackOverflow.com](https://stackoveflow.com).
 * [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow) ⭐ 402 | 🐛 3 | 🌐 PHP | 📅 2023-11-07 - Search [can I use](https://caniuse.com) website.
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 365 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,706 | 🐛 262 | 🌐 Markdown | 📅 2026-09-21 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,718 | 🐛 299 | 🌐 Markdown | 📅 2026-09-22 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 13 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -226,7 +226,7 @@
 * [Various Screenshots](https://github.com/vookimedlo/alfred-various-screenshots) ⭐ 39 | 🐛 4 | 📅 2019-06-18 - Taking various screenshots.
 * [Speak](https://github.com/mklement0/speak.awf) ⭐ 36 | 🐛 1 | 🌐 Shell | 📅 2020-04-10 - Use OS X's TTS (text-to-speech) feature to speak text aloud.
 * [Karabiner Elements Profile Switcher](https://github.com/awinecki/karabiner-elements-profile-switcher) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2020-10-30 - Handy profile switcher for Karabiner Elements.
-* [Network Locations](https://github.com/deanishe/alfred-network-location) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2022-03-15 - List, filter and activate network locations.
+* [Network Locations](https://github.com/deanishe/alfred-network-location) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2022-03-15 - List, filter and activate network locations.
 * [Rsync Folders](https://github.com/Acidham/rsync-folders) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2023-01-26 - Keep a set of folders in sync with their target folders via rsync.
 * [Shhhhh!](https://github.com/skotzko/shhhhh) ⭐ 24 | 🐛 2 | 📅 2017-10-24 - Close all open system alerts (iCal, etc) without touching the mouse.
 * [File Creator](https://github.com/SteliosHa/Alfred_File_Creator) ⭐ 19 | 🐛 1 | 📅 2016-09-07 - Create files of certain types quickly.

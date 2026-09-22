@@ -274,7 +274,7 @@
             "open_issues": 8,
             "owner": "bchatard",
             "repo": "alfred-jetbrains",
-            "stars": 620,
+            "stars": 619,
             "topics": [
               "alfred",
               "alfred5-workflow",
@@ -3806,7 +3806,7 @@
             "open_issues": 2,
             "owner": "deanishe",
             "repo": "alfred-network-location",
-            "stars": 33,
+            "stars": 32,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:15:15.881Z",
+    "last_updated": "2026-09-22T23:46:07.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
