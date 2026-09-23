@@ -2085,7 +2085,7 @@
             "open_issues": 9,
             "owner": "nikivdev",
             "repo": "alfred-web-searches",
-            "stars": 283,
+            "stars": 282,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2242,7 +2242,7 @@
             "open_issues": 13,
             "owner": "jopemachine",
             "repo": "alfred-chromium-workflow",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T21:34:34Z",
+            "last_commit": "2026-09-23T19:53:39Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -2911,7 +2911,7 @@
             "open_issues": 18,
             "owner": "deanishe",
             "repo": "alfred-convert",
-            "stars": 712,
+            "stars": 711,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12245,
+            "stars": 12244,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:46:07.131Z",
+    "last_updated": "2026-09-23T23:54:56.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
