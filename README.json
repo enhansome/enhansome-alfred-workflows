@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2397,
+            "stars": 2396,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -198,7 +198,7 @@
             "open_issues": 11,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
-            "stars": 2916,
+            "stars": 2915,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1820,7 +1820,7 @@
             "language": "Objective-C",
             "license": null,
             "last_commit": "2022-08-31T01:06:17Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "dotson",
             "repo": "Discogs-Explorer",
             "stars": 16,
@@ -2746,7 +2746,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2397,
+            "stars": 2396,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -2767,7 +2767,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2397,
+            "stars": 2396,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -2788,7 +2788,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2397,
+            "stars": 2396,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -2809,7 +2809,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2397,
+            "stars": 2396,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4111,7 +4111,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2397,
+            "stars": 2396,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4186,7 +4186,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2397,
+            "stars": 2396,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:54:56.908Z",
+    "last_updated": "2026-09-24T23:58:42.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
