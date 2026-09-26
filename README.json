@@ -405,7 +405,7 @@
             "open_issues": 13,
             "owner": "deanishe",
             "repo": "alfred-ssh",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2830,7 +2830,7 @@
             "open_issues": 8,
             "owner": "wrjlewis",
             "repo": "notion-search-alfred-workflow",
-            "stars": 845,
+            "stars": 844,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4132,7 +4132,7 @@
             "open_issues": 3,
             "owner": "deanishe",
             "repo": "alfred-reddit",
-            "stars": 211,
+            "stars": 210,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:06:52.514Z",
+    "last_updated": "2026-09-26T23:49:27.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
