@@ -473,7 +473,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-07-09T04:34:24Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "rkoval",
             "repo": "alfred-aws-console-services-workflow",
             "stars": 327,
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T19:53:39Z",
+            "last_commit": "2026-09-25T13:54:10Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:58:42.998Z",
+    "last_updated": "2026-09-26T00:06:52.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
