@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,040 | 🐛 426 | 📅 2026-09-25.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,046 | 🐛 426 | 📅 2026-09-25.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 365 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 359 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,777 | 🐛 260 | 🌐 Markdown | 📅 2026-09-29 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,786 | 🐛 266 | 🌐 Markdown | 📅 2026-09-29 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 14 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -104,7 +104,7 @@
 
 ## Libraries
 
-* [Alfred Workflow](https://github.com/deanishe/alfred-workflow) ⭐ 2,963 | 🐛 21 | 🌐 Python | 📅 2023-01-10 - Write workflows in Python.
+* [Alfred Workflow](https://github.com/deanishe/alfred-workflow) ⭐ 2,962 | 🐛 21 | 🌐 Python | 📅 2023-01-10 - Write workflows in Python.
 * [Alfy](https://github.com/sindresorhus/alfy) ⭐ 2,655 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Write workflows in Node.js.
 * [AwGo](https://github.com/deanishe/awgo) ⭐ 877 | 🐛 17 | 🌐 Go | 📅 2024-04-03 - Write workflows in Go.
 * [Alfred Rust](https://github.com/lilyball/alfred-rs) ⭐ 48 | 🐛 2 | 🌐 Rust | 📅 2019-08-27
@@ -130,7 +130,7 @@
 * [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) ⭐ 422 | 🐛 17 | 🌐 Go | 📅 2025-12-24 - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 * [Toggl](https://github.com/jason0x43/alfred-toggl) ⭐ 376 | 🐛 8 | 🌐 Go | 📅 2024-06-02 - Operate [Toggl](https://toggl.com).
 * [Pocket](https://github.com/fniephaus/alfred-pocket) ⚠️ Archived - Manage your Pocket list.
-* [Firefox Assistant](https://github.com/deanishe/alfred-firefox) ⭐ 360 | 🐛 28 | 🌐 Go | 📅 2023-02-23 - Search and control Firefox from Alfred.
+* [Firefox Assistant](https://github.com/deanishe/alfred-firefox) ⭐ 359 | 🐛 28 | 🌐 Go | 📅 2023-02-23 - Search and control Firefox from Alfred.
 * [Things](https://github.com/xilopaint/alfred-things) ⭐ 359 | 🐛 1 | 🌐 JavaScript | 📅 2024-02-02 - Interact with Things 3 using Alfred.
 * [Todoist](https://github.com/moranje/alfred-workflow-todoist) ⚠️ Archived - Manage Todoist tasks with Alfred.
 * [Searchio](https://github.com/deanishe/alfred-searchio) ⭐ 309 | 🐛 11 | 🌐 HTML | 📅 2022-01-05 - Auto-suggest search results from multiple search engines and languages.
@@ -148,7 +148,7 @@
 * [Apple Notes](https://github.com/surrealroad/alfred-notes) ⭐ 56 | 🐛 4 | 🌐 AppleScript | 📅 2018-06-11 - Make new notes or search notes from macOS Notes app.
 * [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow) ⭐ 54 | 🐛 8 | 🌐 AppleScript | 📅 2023-01-05 - Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
 * [Join Zoom Meeting](https://github.com/aurooba/alfred-workflow-zoom-meetings) ⭐ 45 | 🐛 9 | 📅 2020-06-26 - Join Zoom meetings easily without a new tab opening in your browser.
-* [Mailsy](https://github.com/BalliAsghar/mailsy-alfred) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-31 - Quickly generate a disposable email.
+* [Mailsy](https://github.com/BalliAsghar/mailsy-alfred) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-31 - Quickly generate a disposable email.
 * [TinyPNG](https://github.com/shmulvad/alfred-tinypng) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2021-05-01 - Compress PNG and JPG images using TinyPNG in Alfred.
 * [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow) ⭐ 12 | 🐛 1 | 🌐 Swift | 📅 2025-05-15 - Search through currently active app's menu bar actions quickly.
 * [Timezone](https://github.com/lox/alfred-timezone) ⚠️ Archived - Quickly search through cities and timezones to find out what time it is in different places.
@@ -277,7 +277,7 @@
 
 ## Related
 
-* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows) ⭐ 12,245 | 🐛 14 | 📅 2021-02-27
+* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows) ⭐ 12,244 | 🐛 14 | 📅 2021-02-27
 * [Awesome Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) ⚠️ Archived
 * [Awesome Alfred Workflows 2](https://github.com/alfred-workflows/awesome-alfred-workflows) ⚠️ Archived
 * [Pacmax](https://pacmax.org/) - Explore & Share Great Alfred Packages.
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
