@@ -1510,7 +1510,7 @@
             "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2962,
+            "stars": 2963,
             "topics": [
               "alfred",
               "alfred-3",
@@ -2085,7 +2085,7 @@
             "open_issues": 9,
             "owner": "nikivdev",
             "repo": "alfred-web-searches",
-            "stars": 282,
+            "stars": 281,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4237,7 +4237,7 @@
             "open_issues": 7,
             "owner": "robwalton",
             "repo": "alfred-ulysses-workflow",
-            "stars": 79,
+            "stars": 78,
             "topics": [
               "alfred",
               "alfred-3",
@@ -4371,7 +4371,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3177,
+            "stars": 3176,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4398,7 +4398,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3177,
+            "stars": 3176,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:47:31.580Z",
+    "last_updated": "2026-10-02T01:03:26.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2776,
+      "stars": 2775,
       "topics": [
         "alfred",
         "alfred-workflow",
