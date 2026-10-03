@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,061 | 🐛 427 | 📅 2026-10-02.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,063 | 🐛 427 | 📅 2026-10-02.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 365 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 359 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,809 | 🐛 258 | 🌐 Markdown | 📅 2026-10-02 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,810 | 🐛 259 | 🌐 Markdown | 📅 2026-10-03 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 14 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -287,12 +287,12 @@
 
 If you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
 
-[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows) ⭐ 2,775 | 🐛 4 | 📅 2026-05-01
+[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows) ⭐ 2,776 | 🐛 4 | 📅 2026-05-01
 
 `[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows)`
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists) ⭐ 944 | 🐛 2 | 📅 2023-11-13
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists) ⭐ 945 | 🐛 2 | 📅 2023-11-13
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat\&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 

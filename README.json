@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Vitor's Workflows",
-          "description": null,
+          "description": "vitorgalvao/alfred-workflows",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Collection of Alfred workflows",
-          "description": null,
+          "description": "msoedov/Alfred-collection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "Small Workflows by Nikita",
-          "description": null,
+          "description": "nikivdev/alfred-past",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -78,7 +78,7 @@
         {
           "node_type": "item",
           "title": "Robb Knight's workflows",
-          "description": null,
+          "description": "rknightuk/alfred-workflows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -104,7 +104,7 @@
         {
           "node_type": "item",
           "title": "Alfred Workflows (Rust)",
-          "description": null,
+          "description": "rust-playground/alfred-workflows-rs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1602,7 +1602,7 @@
         {
           "node_type": "item",
           "title": "Alfred Rust",
-          "description": null,
+          "description": "lilyball/alfred-rs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1623,7 +1623,7 @@
         {
           "node_type": "item",
           "title": "Alfred Rust 2",
-          "description": null,
+          "description": "spamwax/alfred-workflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2578,7 +2578,7 @@
         {
           "node_type": "item",
           "title": "Unlock Your Mac",
-          "description": null,
+          "description": "gabamnml/unlock-your-mac",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2599,7 +2599,7 @@
         {
           "node_type": "item",
           "title": "Keynote Remote",
-          "description": null,
+          "description": "gabamnml/Keynote-remote",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4337,7 +4337,7 @@
         {
           "node_type": "item",
           "title": "Alfred Workflows",
-          "description": null,
+          "description": "zenorocha/alfred-workflows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4358,7 +4358,7 @@
         {
           "node_type": "item",
           "title": "Awesome Alfred Workflows",
-          "description": null,
+          "description": "alfred-workflows/awesome-alfred-workflows",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4371,7 +4371,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3176,
+            "stars": 3177,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4385,7 +4385,7 @@
         {
           "node_type": "item",
           "title": "Awesome Alfred Workflows 2",
-          "description": null,
+          "description": "alfred-workflows/awesome-alfred-workflows",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4398,7 +4398,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3176,
+            "stars": 3177,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:41:53.197Z",
+    "last_updated": "2026-10-03T04:35:34.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2775,
+      "stars": 2776,
       "topics": [
         "alfred",
         "alfred-workflow",
