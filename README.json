@@ -195,7 +195,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-05-10T20:19:11Z",
-            "open_issues": 11,
+            "open_issues": 15,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
             "stars": 2915,
@@ -2029,7 +2029,7 @@
             "open_issues": 55,
             "owner": "moranje",
             "repo": "alfred-workflow-todoist",
-            "stars": 324,
+            "stars": 323,
             "topics": [
               "alfred-app",
               "todoist"
@@ -2830,7 +2830,7 @@
             "open_issues": 8,
             "owner": "wrjlewis",
             "repo": "notion-search-alfred-workflow",
-            "stars": 845,
+            "stars": 844,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:03:26.937Z",
+    "last_updated": "2026-10-03T00:41:53.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
