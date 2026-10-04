@@ -194,8 +194,8 @@
             "id": 7644118,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-05-10T20:19:11Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-03T18:19:47Z",
+            "open_issues": 8,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
             "stars": 2915,
@@ -299,7 +299,7 @@
             "open_issues": 3,
             "owner": "SamVerschueren",
             "repo": "alfred-fkill",
-            "stars": 474,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -1510,7 +1510,7 @@
             "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2963,
+            "stars": 2962,
             "topics": [
               "alfred",
               "alfred-3",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:34.707Z",
+    "last_updated": "2026-10-04T00:00:11.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
