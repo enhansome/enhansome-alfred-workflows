@@ -796,7 +796,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2017-11-22T14:26:37Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "fniephaus",
             "repo": "alfred-vmcontrol",
             "stars": 45,
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T23:57:02Z",
+            "last_commit": "2026-10-04T14:12:02Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -2945,7 +2945,7 @@
             "open_issues": 13,
             "owner": "sballin",
             "repo": "alfred-search-notes-app",
-            "stars": 589,
+            "stars": 590,
             "topics": [
               "alfred",
               "apple-notes",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:00:11.598Z",
+    "last_updated": "2026-10-05T00:07:05.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2776,
+      "stars": 2777,
       "topics": [
         "alfred",
         "alfred-workflow",
