@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "msoedov",
             "repo": "Alfred-collection",
-            "stars": 944,
+            "stars": 945,
             "topics": [
               "alfred",
               "alfred-extension",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:19:55.095Z",
+    "last_updated": "2026-10-07T00:59:18.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2776,
+      "stars": 2777,
       "topics": [
         "alfred",
         "alfred-workflow",
