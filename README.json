@@ -320,7 +320,7 @@
             "open_issues": 2,
             "owner": "deanishe",
             "repo": "alfred-stackexchange",
-            "stars": 428,
+            "stars": 427,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -455,7 +455,7 @@
             "open_issues": 8,
             "owner": "cs1707",
             "repo": "tldr-alfred",
-            "stars": 341,
+            "stars": 340,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -1957,6 +1957,35 @@
         },
         {
           "node_type": "item",
+          "title": "Things",
+          "description": "Interact with Things 3 using Alfred.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Interact with Things using Alfred.",
+            "homepage": null,
+            "id": 105078765,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2024-02-02T18:08:35Z",
+            "open_issues": 1,
+            "owner": "xilopaint",
+            "repo": "alfred-things",
+            "stars": 360,
+            "topics": [
+              "alfred",
+              "alfred-3",
+              "alfred-workflow",
+              "alfred-workflows",
+              "things",
+              "things-3",
+              "things3"
+            ]
+          },
+          "first_seen": "2026-08-28T05:35:47.165Z"
+        },
+        {
+          "node_type": "item",
           "title": "Firefox Assistant",
           "description": "Search and control Firefox from Alfred.",
           "children": [],
@@ -1980,35 +2009,6 @@
               "firefox",
               "firefox-addon",
               "firefox-extension"
-            ]
-          },
-          "first_seen": "2026-08-28T05:35:47.165Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Things",
-          "description": "Interact with Things 3 using Alfred.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Interact with Things using Alfred.",
-            "homepage": null,
-            "id": 105078765,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2024-02-02T18:08:35Z",
-            "open_issues": 1,
-            "owner": "xilopaint",
-            "repo": "alfred-things",
-            "stars": 359,
-            "topics": [
-              "alfred",
-              "alfred-3",
-              "alfred-workflow",
-              "alfred-workflows",
-              "things",
-              "things-3",
-              "things3"
             ]
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -3069,7 +3069,7 @@
             "open_issues": 10,
             "owner": "jin5354",
             "repo": "alfred3-workflow-CurrencyConvert",
-            "stars": 286,
+            "stars": 285,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12239,
+            "stars": 12236,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:59:18.092Z",
+    "last_updated": "2026-10-08T01:14:47.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2777,
+      "stars": 2776,
       "topics": [
         "alfred",
         "alfred-workflow",
