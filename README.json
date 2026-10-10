@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "msoedov",
             "repo": "Alfred-collection",
-            "stars": 945,
+            "stars": 944,
             "topics": [
               "alfred",
               "alfred-extension",
@@ -1545,7 +1545,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2654,
+            "stars": 2655,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1770,7 +1770,7 @@
             "open_issues": 1,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
-            "stars": 1110,
+            "stars": 1108,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T01:22:45.885Z",
+    "last_updated": "2026-10-10T01:10:57.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2777,
+      "stars": 2778,
       "topics": [
         "alfred",
         "alfred-workflow",
