@@ -1545,7 +1545,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2655,
+            "stars": 2654,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:10:57.539Z",
+    "last_updated": "2026-10-11T00:24:37.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",

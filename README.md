@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,094 | 🐛 428 | 📅 2026-10-09.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,098 | 🐛 429 | 📅 2026-10-09.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 365 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 359 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,862 | 🐛 266 | 🌐 Markdown | 📅 2026-10-09 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,897 | 🐛 269 | 🌐 Markdown | 📅 2026-10-10 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 14 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -105,7 +105,7 @@
 ## Libraries
 
 * [Alfred Workflow](https://github.com/deanishe/alfred-workflow) ⭐ 2,961 | 🐛 21 | 🌐 Python | 📅 2023-01-10 - Write workflows in Python.
-* [Alfy](https://github.com/sindresorhus/alfy) ⭐ 2,655 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Write workflows in Node.js.
+* [Alfy](https://github.com/sindresorhus/alfy) ⭐ 2,654 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Write workflows in Node.js.
 * [AwGo](https://github.com/deanishe/awgo) ⭐ 877 | 🐛 17 | 🌐 Go | 📅 2024-04-03 - Write workflows in Go.
 * [Alfred Rust](https://github.com/lilyball/alfred-rs) ⭐ 48 | 🐛 2 | 🌐 Rust | 📅 2019-08-27
 * [Alfred Rust 2](https://github.com/spamwax/alfred-workflow) ⭐ 28 | 🐛 0 | 🌐 Rust | 📅 2023-09-22
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
