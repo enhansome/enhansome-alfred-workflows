@@ -299,7 +299,7 @@
             "open_issues": 3,
             "owner": "SamVerschueren",
             "repo": "alfred-fkill",
-            "stars": 473,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -370,7 +370,7 @@
             "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "alfred-npms",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1545,7 +1545,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2656,
+            "stars": 2657,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T01:36:03Z",
+            "last_commit": "2026-10-13T14:10:17Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:41:52.588Z",
+    "last_updated": "2026-10-14T00:33:47.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
