@@ -722,7 +722,7 @@
             "language": "Go",
             "license": null,
             "last_commit": "2025-04-16T21:52:26Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "jarlefosen",
             "repo": "alfred-gcloud-shortcuts",
             "stars": 55,
@@ -1879,7 +1879,7 @@
             "open_issues": 5,
             "owner": "nikivdev",
             "repo": "mbt",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "moonbit"
             ]
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T11:08:32Z",
+            "last_commit": "2026-10-16T15:06:07Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:47:50.497Z",
+    "last_updated": "2026-10-16T23:49:43.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
