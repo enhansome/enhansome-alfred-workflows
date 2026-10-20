@@ -32,12 +32,12 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,129 | 🐛 429 | 📅 2026-10-09.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,130 | 🐛 429 | 📅 2026-10-09.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
 
-* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,916 | 🐛 8 | 🌐 PHP | 📅 2026-10-03 - Fully featured workflow to inteact with GitHub.
+* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,917 | 🐛 8 | 🌐 PHP | 📅 2026-10-03 - Fully featured workflow to inteact with GitHub.
 * [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) ⭐ 699 | 🐛 0 | 🌐 PHP | 📅 2025-12-09 - Quick package/plugin/component (repo) lookup for your favourite package managers.
 * [Devdocs](https://github.com/yannickglt/alfred-devdocs) ⭐ 653 | 🐛 8 | 🌐 PHP | 📅 2021-12-06 - Search through [devdocs.io](http://devdocs.io/)
 * [Open in Jetbrains](https://github.com/bchatard/alfred-jetbrains) ⭐ 619 | 🐛 8 | 📅 2025-12-16 - Open project with one of JetBrains' product.
@@ -47,9 +47,9 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 366 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 359 | 🐛 13 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,982 | 🐛 289 | 🌐 Markdown | 📅 2026-10-18 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 63,994 | 🐛 289 | 🌐 Markdown | 📅 2026-10-19 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 14 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
-* [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 10 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
+* [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 9 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
 * [GitHub Gists](https://github.com/danielecook/gist-alfred) ⭐ 122 | 🐛 3 | 🌐 Python | 📅 2022-05-25 - Search through GitHub gists
 * [iTerm TTY switch](https://github.com/isometry/alfred-tty) ⭐ 106 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-26 - Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
@@ -99,7 +99,7 @@
 ## Fun
 
 * [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday) ⭐ 307 | 🐛 11 | 🌐 Go | 📅 2024-01-21 - Showcase how much time passed since your birthday.
-* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,033 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16
+* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,034 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16
 * [Dongers](https://github.com/frdmn/alfred-dongers) ⭐ 15 | 🐛 2 | 🌐 PHP | 📅 2016-03-22 - List unicode emoticons easily.
 
 ## Libraries
@@ -119,14 +119,14 @@
 
 ## Music
 
-* [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) ⭐ 1,108 | 🐛 1 | 🌐 PHP | 📅 2026-09-15 - Fully control Spotify.
+* [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) ⭐ 1,109 | 🐛 1 | 🌐 PHP | 📅 2026-09-15 - Fully control Spotify.
 * [Play Song](https://github.com/caleb531/play-song) ⭐ 115 | 🐛 1 | 🌐 AppleScript | 📅 2025-09-20 - Quickly and easily play music in iTunes.
 * [Discogs Explorer](https://github.com/dotson/Discogs-Explorer) ⭐ 16 | 🐛 5 | 🌐 Objective-C | 📅 2022-08-31 - Explore the [Discogs.com](https://www.discogs.com) database.
 * [MPD](https://github.com/deanishe/alfred-mpd) ⭐ 9 | 🐛 4 | 🌐 Python | 📅 2020-06-05 - Control MPD music player.
 
 ## Productivity
 
-* [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) ⭐ 489 | 🐛 5 | 🌐 MoonBit | 📅 2026-06-17 - Search through bookmarks, notes and various websites quickly.
+* [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) ⭐ 488 | 🐛 5 | 🌐 MoonBit | 📅 2026-06-17 - Search through bookmarks, notes and various websites quickly.
 * [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) ⭐ 422 | 🐛 17 | 🌐 Go | 📅 2025-12-24 - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 * [Toggl](https://github.com/jason0x43/alfred-toggl) ⭐ 376 | 🐛 8 | 🌐 Go | 📅 2024-06-02 - Operate [Toggl](https://toggl.com).
 * [Pocket](https://github.com/fniephaus/alfred-pocket) ⚠️ Archived - Manage your Pocket list.
@@ -191,7 +191,7 @@
 * [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) ⭐ 805 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-16 - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
 * [Emoji Search](https://github.com/jsumners/alfred-emoji) ⭐ 783 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-27 - Search and copy emojis.
 * [Convert](https://github.com/deanishe/alfred-convert) ⭐ 711 | 🐛 18 | 🌐 Python | 📅 2022-07-08 - Convert between different units.
-* [Search Notes App](https://github.com/sballin/alfred-search-notes-app) ⭐ 590 | 🐛 13 | 🌐 Go | 📅 2025-01-15 - Use Alfred to quickly open notes in iCloud/Apple Notes.
+* [Search Notes App](https://github.com/sballin/alfred-search-notes-app) ⭐ 591 | 🐛 13 | 🌐 Go | 📅 2025-01-15 - Use Alfred to quickly open notes in iCloud/Apple Notes.
 * [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) ⭐ 526 | 🐛 10 | 🌐 PHP | 📅 2022-10-17 - Encoding and decoding a sting into multiple variations.
 * [Top Process](https://github.com/zhaocai/alfred2-top-workflow) ⭐ 510 | 🐛 11 | 🌐 Ruby | 📅 2016-07-03 - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
 * [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) ⭐ 334 | 🐛 21 | 🌐 Swift | 📅 2022-07-21 - Enumerate and switch between windows on macOS.
@@ -292,10 +292,10 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 `[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows)`
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists) ⭐ 945 | 🐛 2 | 📅 2023-11-13
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists) ⭐ 946 | 🐛 2 | 📅 2023-11-13
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat\&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._

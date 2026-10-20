@@ -198,7 +198,7 @@
             "open_issues": 8,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
-            "stars": 2916,
+            "stars": 2917,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -501,7 +501,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2023-12-08T16:20:53Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "deanishe",
             "repo": "alfred-repos",
             "stars": 313,
@@ -1770,7 +1770,7 @@
             "open_issues": 1,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
-            "stars": 1108,
+            "stars": 1109,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1879,7 +1879,7 @@
             "open_issues": 5,
             "owner": "nikivdev",
             "repo": "mbt",
-            "stars": 489,
+            "stars": 488,
             "topics": [
               "moonbit"
             ]
@@ -2945,7 +2945,7 @@
             "open_issues": 13,
             "owner": "sballin",
             "repo": "alfred-search-notes-app",
-            "stars": 590,
+            "stars": 591,
             "topics": [
               "alfred",
               "apple-notes",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T23:35:25.418Z",
+    "last_updated": "2026-10-20T00:35:17.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
