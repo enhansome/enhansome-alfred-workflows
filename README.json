@@ -1879,7 +1879,7 @@
             "open_issues": 5,
             "owner": "nikivdev",
             "repo": "mbt",
-            "stars": 488,
+            "stars": 487,
             "topics": [
               "moonbit"
             ]
@@ -2830,7 +2830,7 @@
             "open_issues": 8,
             "owner": "wrjlewis",
             "repo": "notion-search-alfred-workflow",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4371,7 +4371,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3173,
+            "stars": 3174,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4398,7 +4398,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3173,
+            "stars": 3174,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:04:59.426Z",
+    "last_updated": "2026-10-22T00:08:58.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2778,
+      "stars": 2779,
       "topics": [
         "alfred",
         "alfred-workflow",
