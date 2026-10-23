@@ -1510,7 +1510,7 @@
             "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2962,
+            "stars": 2961,
             "topics": [
               "alfred",
               "alfred-3",
@@ -1545,7 +1545,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2657,
+            "stars": 2656,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1793,7 +1793,7 @@
             "id": 13575245,
             "language": "AppleScript",
             "license": "MIT",
-            "last_commit": "2025-09-20T22:39:39Z",
+            "last_commit": "2026-10-22T23:53:39Z",
             "open_issues": 1,
             "owner": "caleb531",
             "repo": "play-song",
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T12:13:24Z",
+            "last_commit": "2026-10-22T09:12:52Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -3251,7 +3251,7 @@
             "open_issues": 7,
             "owner": "deanishe",
             "repo": "alfred-vpn-manager",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "alfred",
               "alfred-3",
@@ -3331,7 +3331,7 @@
             "open_issues": 7,
             "owner": "jeppestaerk",
             "repo": "alfred-show-network-info",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4132,7 +4132,7 @@
             "open_issues": 3,
             "owner": "deanishe",
             "repo": "alfred-reddit",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12232,
+            "stars": 12231,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:08:58.325Z",
+    "last_updated": "2026-10-23T00:07:25.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
