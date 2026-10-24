@@ -299,7 +299,7 @@
             "open_issues": 3,
             "owner": "SamVerschueren",
             "repo": "alfred-fkill",
-            "stars": 474,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -402,7 +402,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2021-07-13T04:27:04Z",
-            "open_issues": 13,
+            "open_issues": 15,
             "owner": "deanishe",
             "repo": "alfred-ssh",
             "stars": 358,
@@ -1944,7 +1944,7 @@
             "open_issues": 5,
             "owner": "fniephaus",
             "repo": "alfred-pocket",
-            "stars": 366,
+            "stars": 367,
             "topics": [
               "alfred",
               "mozilla",
@@ -2830,7 +2830,7 @@
             "open_issues": 8,
             "owner": "wrjlewis",
             "repo": "notion-search-alfred-workflow",
-            "stars": 841,
+            "stars": 842,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -3069,7 +3069,7 @@
             "open_issues": 10,
             "owner": "jin5354",
             "repo": "alfred3-workflow-CurrencyConvert",
-            "stars": 285,
+            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12230,
+            "stars": 12231,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:57:26.460Z",
+    "last_updated": "2026-10-24T23:37:23.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2779,
+      "stars": 2780,
       "topics": [
         "alfred",
         "alfred-workflow",
