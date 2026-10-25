@@ -113,7 +113,7 @@
             "id": 163641205,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2025-04-07T03:38:57Z",
+            "last_commit": "2026-10-25T05:01:10Z",
             "open_issues": 0,
             "owner": "rust-playground",
             "repo": "alfred-workflows-rs",
@@ -320,7 +320,7 @@
             "open_issues": 2,
             "owner": "deanishe",
             "repo": "alfred-stackexchange",
-            "stars": 427,
+            "stars": 426,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -749,7 +749,7 @@
             "open_issues": 0,
             "owner": "anmolnagpal",
             "repo": "alfred-docker-workflows",
-            "stars": 54,
+            "stars": 53,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1545,7 +1545,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2656,
+            "stars": 2655,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1971,7 +1971,7 @@
             "open_issues": 1,
             "owner": "xilopaint",
             "repo": "alfred-things",
-            "stars": 360,
+            "stars": 359,
             "topics": [
               "alfred",
               "alfred-3",
@@ -2000,7 +2000,7 @@
             "open_issues": 28,
             "owner": "deanishe",
             "repo": "alfred-firefox",
-            "stars": 359,
+            "stars": 358,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2890,7 +2890,7 @@
             "open_issues": 19,
             "owner": "jsumners",
             "repo": "alfred-emoji",
-            "stars": 783,
+            "stars": 782,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -3069,7 +3069,7 @@
             "open_issues": 10,
             "owner": "jin5354",
             "repo": "alfred3-workflow-CurrencyConvert",
-            "stars": 286,
+            "stars": 285,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4207,7 +4207,7 @@
             "open_issues": 14,
             "owner": "drgrib",
             "repo": "alfred-bear",
-            "stars": 443,
+            "stars": 442,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:37:23.342Z",
+    "last_updated": "2026-10-25T23:30:04.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2780,
+      "stars": 2779,
       "topics": [
         "alfred",
         "alfred-workflow",
