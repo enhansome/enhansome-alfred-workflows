@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2394,
+            "stars": 2395,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -402,7 +402,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2021-07-13T04:27:04Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "deanishe",
             "repo": "alfred-ssh",
             "stars": 358,
@@ -1545,7 +1545,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2655,
+            "stars": 2654,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1793,7 +1793,7 @@
             "id": 13575245,
             "language": "AppleScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T23:53:39Z",
+            "last_commit": "2026-10-27T00:13:46Z",
             "open_issues": 1,
             "owner": "caleb531",
             "repo": "play-song",
@@ -2746,7 +2746,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2394,
+            "stars": 2395,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -2767,7 +2767,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2394,
+            "stars": 2395,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -2788,7 +2788,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2394,
+            "stars": 2395,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -2809,7 +2809,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2394,
+            "stars": 2395,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -2830,7 +2830,7 @@
             "open_issues": 8,
             "owner": "wrjlewis",
             "repo": "notion-search-alfred-workflow",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T09:12:52Z",
+            "last_commit": "2026-10-26T23:34:27Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4111,7 +4111,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2394,
+            "stars": 2395,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4186,7 +4186,7 @@
             "open_issues": 0,
             "owner": "vitorgalvao",
             "repo": "alfred-workflows",
-            "stars": 2394,
+            "stars": 2395,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12231,
+            "stars": 12230,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3173,
+            "stars": 3175,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4398,7 +4398,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3173,
+            "stars": 3175,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T23:30:04.769Z",
+    "last_updated": "2026-10-27T00:44:38.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2779,
+      "stars": 2780,
       "topics": [
         "alfred",
         "alfred-workflow",
