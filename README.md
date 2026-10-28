@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,168 | 🐛 430 | 📅 2026-10-23.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,174 | 🐛 429 | 📅 2026-10-23.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 366 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 14 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 64,047 | 🐛 303 | 🌐 Markdown | 📅 2026-10-26 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 64,053 | 🐛 300 | 🌐 Markdown | 📅 2026-10-27 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 14 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 9 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -137,7 +137,7 @@
 * [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) ⭐ 281 | 🐛 9 | 🌐 Go | 📅 2024-01-21 - Search through any website on the web.
 * [Drive](https://github.com/azai91/alfred-drive-workflow) ⭐ 220 | 🐛 18 | 🌐 Ruby | 📅 2020-07-24- Search Google Drive.
 * [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) ⚠️ Archived - Search through your Safari history, bookmarks, reading list.
-* [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) ⭐ 174 | 🐛 5 | 🌐 Go | 📅 2024-01-21 - Browse all awesome lists in seconds inside Alfred.
+* [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) ⭐ 175 | 🐛 5 | 🌐 Go | 📅 2024-01-21 - Browse all awesome lists in seconds inside Alfred.
 * [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) ⭐ 157 | 🐛 5 | 🌐 Go | 📅 2024-01-22 - Search [Learn Anything](https://learn-anything.xyz/) Website.
 * [Weather](https://github.com/jason0x43/alfred-weather) ⭐ 156 | 🐛 6 | 🌐 Go | 📅 2024-05-04 - Get latest weather for the day, week.
 * [Chromium Assistant](https://github.com/jopemachine/alfred-chromium-workflow) ⭐ 150 | 🐛 13 | 🌐 Go | 📅 2024-02-06 - Search and control Chromium based browsers from Alfred.
@@ -189,7 +189,7 @@
 * [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) ⚠️ Archived - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
 * [Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow) ⭐ 843 | 🐛 8 | 🌐 Python | 📅 2026-04-08 - Alfred workflow to search Notion with instant results.
 * [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) ⭐ 805 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-26 - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
-* [Emoji Search](https://github.com/jsumners/alfred-emoji) ⭐ 782 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-27 - Search and copy emojis.
+* [Emoji Search](https://github.com/jsumners/alfred-emoji) ⭐ 783 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-27 - Search and copy emojis.
 * [Convert](https://github.com/deanishe/alfred-convert) ⭐ 711 | 🐛 18 | 🌐 Python | 📅 2022-07-08 - Convert between different units.
 * [Search Notes App](https://github.com/sballin/alfred-search-notes-app) ⭐ 591 | 🐛 13 | 🌐 Go | 📅 2025-01-15 - Use Alfred to quickly open notes in iCloud/Apple Notes.
 * [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) ⭐ 526 | 🐛 10 | 🌐 PHP | 📅 2022-10-17 - Encoding and decoding a sting into multiple variations.
@@ -273,7 +273,7 @@
 ## Meta
 
 * [Alfred Keywords](https://github.com/pochemuto/alfred-help-workflow) ⭐ 73 | 🐛 4 | 🌐 Python | 📅 2019-12-16 - Search through Alfred workflow keywords.
-* [Search Alfred Workflows](https://github.com/Acidham/search-alfred-workflows) ⭐ 68 | 🐛 0 | 🌐 Python | 📅 2024-06-20 - Alfred Workflows help to search in Title, Keyword, Description of a workflow and open it in various actions.
+* [Search Alfred Workflows](https://github.com/Acidham/search-alfred-workflows) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2024-06-20 - Alfred Workflows help to search in Title, Keyword, Description of a workflow and open it in various actions.
 
 ## Related
 
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
