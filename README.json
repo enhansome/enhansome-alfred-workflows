@@ -198,7 +198,7 @@
             "open_issues": 8,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
-            "stars": 2917,
+            "stars": 2916,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1793,7 +1793,7 @@
             "id": 13575245,
             "language": "AppleScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T00:13:46Z",
+            "last_commit": "2026-10-28T20:13:07Z",
             "open_issues": 1,
             "owner": "caleb531",
             "repo": "play-song",
@@ -1997,7 +1997,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2023-02-23T06:42:29Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "deanishe",
             "repo": "alfred-firefox",
             "stars": 358,
@@ -2856,7 +2856,7 @@
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
-            "stars": 805,
+            "stars": 804,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:41:46.931Z",
+    "last_updated": "2026-10-29T01:11:19.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
