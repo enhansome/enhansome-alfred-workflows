@@ -299,7 +299,7 @@
             "open_issues": 3,
             "owner": "SamVerschueren",
             "repo": "alfred-fkill",
-            "stars": 473,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -613,27 +613,6 @@
         },
         {
           "node_type": "item",
-          "title": "DNS Lookups",
-          "description": "Perform DNS lookups using dig and optionally copy a specific result to the clipboard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A workflow for Alfred to perform DNS lookups using dig and optionally copy a specific result to the clipboard.",
-            "homepage": null,
-            "id": 8826267,
-            "language": "Shell",
-            "license": null,
-            "last_commit": "2018-05-10T17:20:25Z",
-            "open_issues": 0,
-            "owner": "phallstrom",
-            "repo": "AlfredDig",
-            "stars": 73,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:35:47.165Z"
-        },
-        {
-          "node_type": "item",
           "title": "Google Cloud Platform",
           "description": "Search Google Cloud Platform services and resources.",
           "children": [],
@@ -661,6 +640,27 @@
               "google",
               "google-cloud-platform"
             ]
+          },
+          "first_seen": "2026-08-28T05:35:47.165Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DNS Lookups",
+          "description": "Perform DNS lookups using dig and optionally copy a specific result to the clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A workflow for Alfred to perform DNS lookups using dig and optionally copy a specific result to the clipboard.",
+            "homepage": null,
+            "id": 8826267,
+            "language": "Shell",
+            "license": null,
+            "last_commit": "2018-05-10T17:20:25Z",
+            "open_issues": 0,
+            "owner": "phallstrom",
+            "repo": "AlfredDig",
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
         },
@@ -1576,7 +1576,7 @@
             "open_issues": 17,
             "owner": "deanishe",
             "repo": "awgo",
-            "stars": 876,
+            "stars": 877,
             "topics": [
               "alfred",
               "alfred-3",
@@ -1770,7 +1770,7 @@
             "open_issues": 1,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
-            "stars": 1109,
+            "stars": 1108,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2830,7 +2830,7 @@
             "open_issues": 8,
             "owner": "wrjlewis",
             "repo": "notion-search-alfred-workflow",
-            "stars": 843,
+            "stars": 842,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4203,7 +4203,7 @@
             "id": 130618635,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2025-02-26T13:03:29Z",
+            "last_commit": "2026-10-29T18:49:48Z",
             "open_issues": 14,
             "owner": "drgrib",
             "repo": "alfred-bear",
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12230,
+            "stars": 12228,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:11:19.448Z",
+    "last_updated": "2026-10-30T01:18:21.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
