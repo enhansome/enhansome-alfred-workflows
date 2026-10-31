@@ -25,20 +25,20 @@
 ## Collections
 
 * [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows) ⚠️ Archived
-* [Collection of Alfred workflows](https://github.com/msoedov/Alfred-collection) ⭐ 944 | 🐛 3 | 🌐 Go | 📅 2020-05-06
+* [Collection of Alfred workflows](https://github.com/msoedov/Alfred-collection) ⭐ 945 | 🐛 3 | 🌐 Go | 📅 2020-05-06
 * [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows) ⭐ 307 | 🐛 11 | 🌐 Go | 📅 2024-01-21
 * [Robb Knight's workflows](https://github.com/rknightuk/alfred-workflows) ⭐ 224 | 🐛 6 | 🌐 JavaScript | 📅 2024-02-29
 * [Alfred Workflows (Rust)](https://github.com/rust-playground/alfred-workflows-rs) ⭐ 25 | 🐛 0 | 🌐 Rust | 📅 2026-10-25
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,183 | 🐛 429 | 📅 2026-10-23.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,190 | 🐛 428 | 📅 2026-10-23.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
 
-* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,916 | 🐛 8 | 🌐 PHP | 📅 2026-10-03 - Fully featured workflow to inteact with GitHub.
-* [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) ⭐ 699 | 🐛 0 | 🌐 PHP | 📅 2025-12-09 - Quick package/plugin/component (repo) lookup for your favourite package managers.
+* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,915 | 🐛 8 | 🌐 PHP | 📅 2026-10-03 - Fully featured workflow to inteact with GitHub.
+* [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) ⭐ 698 | 🐛 0 | 🌐 PHP | 📅 2025-12-09 - Quick package/plugin/component (repo) lookup for your favourite package managers.
 * [Devdocs](https://github.com/yannickglt/alfred-devdocs) ⭐ 653 | 🐛 8 | 🌐 PHP | 📅 2021-12-06 - Search through [devdocs.io](http://devdocs.io/)
 * [Open in Jetbrains](https://github.com/bchatard/alfred-jetbrains) ⭐ 619 | 🐛 8 | 📅 2025-12-16 - Open project with one of JetBrains' product.
 * [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) ⭐ 474 | 🐛 3 | 🌐 JavaScript | 📅 2021-02-17 - Fabulously search and kill processes.
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 366 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 14 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 64,073 | 🐛 297 | 🌐 Markdown | 📅 2026-10-29 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 64,091 | 🐛 294 | 🌐 Markdown | 📅 2026-10-30 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 327 | 🐛 14 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 9 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -99,7 +99,7 @@
 ## Fun
 
 * [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday) ⭐ 307 | 🐛 11 | 🌐 Go | 📅 2024-01-21 - Showcase how much time passed since your birthday.
-* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,037 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-22
+* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,038 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-30
 * [Dongers](https://github.com/frdmn/alfred-dongers) ⭐ 15 | 🐛 2 | 🌐 PHP | 📅 2016-03-22 - List unicode emoticons easily.
 
 ## Libraries
@@ -287,15 +287,15 @@
 
 If you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
 
-[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows) ⭐ 2,780 | 🐛 4 | 📅 2026-05-01
+[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows) ⭐ 2,781 | 🐛 4 | 📅 2026-05-01
 
 `[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows)`
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists) ⭐ 948 | 🐛 2 | 📅 2023-11-13
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists) ⭐ 949 | 🐛 2 | 📅 2023-11-13
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat\&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
