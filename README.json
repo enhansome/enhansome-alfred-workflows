@@ -198,7 +198,7 @@
             "open_issues": 8,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
-            "stars": 2915,
+            "stars": 2916,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4203,8 +4203,8 @@
             "id": 130618635,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-29T18:49:48Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-02T02:46:39Z",
+            "open_issues": 13,
             "owner": "drgrib",
             "repo": "alfred-bear",
             "stars": 442,
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12228,
+            "stars": 12227,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3174,
+            "stars": 3175,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4398,7 +4398,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3174,
+            "stars": 3175,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T00:59:28.154Z",
+    "last_updated": "2026-11-03T03:01:47.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4423,10 +4423,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-05-01T19:22:22Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
-      "stars": 2781,
+      "stars": 2783,
       "topics": [
         "alfred",
         "alfred-workflow",
