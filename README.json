@@ -370,7 +370,7 @@
             "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "alfred-npms",
-            "stars": 366,
+            "stars": 367,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1510,7 +1510,7 @@
             "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2960,
+            "stars": 2959,
             "topics": [
               "alfred",
               "alfred-3",
@@ -2666,7 +2666,7 @@
             "open_issues": 8,
             "owner": "dennis-tra",
             "repo": "alfred-dict.cc-workflow",
-            "stars": 139,
+            "stars": 138,
             "topics": [
               "alfred",
               "dict",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:01:47.136Z",
+    "last_updated": "2026-11-04T01:36:38.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4423,7 +4423,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-05-01T19:22:22Z",
-      "open_issues": 5,
+      "open_issues": 4,
       "owner": "linsa-io",
       "repo": "alfred-workflows",
       "stars": 2783,
