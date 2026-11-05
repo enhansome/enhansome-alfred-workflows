@@ -1510,7 +1510,7 @@
             "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2959,
+            "stars": 2958,
             "topics": [
               "alfred",
               "alfred-3",
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12227,
+            "stars": 12226,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T01:36:38.124Z",
+    "last_updated": "2026-11-05T01:44:08.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
