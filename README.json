@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T23:34:27Z",
+            "last_commit": "2026-11-05T18:27:47Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:44:08.648Z",
+    "last_updated": "2026-11-06T01:46:07.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
