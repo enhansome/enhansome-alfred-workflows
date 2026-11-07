@@ -91,7 +91,7 @@
             "open_issues": 6,
             "owner": "rknightuk",
             "repo": "alfred-workflows",
-            "stars": 224,
+            "stars": 226,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1510,7 +1510,7 @@
             "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2958,
+            "stars": 2957,
             "topics": [
               "alfred",
               "alfred-3",
@@ -1576,7 +1576,7 @@
             "open_issues": 17,
             "owner": "deanishe",
             "repo": "awgo",
-            "stars": 877,
+            "stars": 876,
             "topics": [
               "alfred",
               "alfred-3",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:46:07.906Z",
+    "last_updated": "2026-11-07T01:07:29.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
