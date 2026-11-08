@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12226,
+            "stars": 12225,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T01:07:29.098Z",
+    "last_updated": "2026-11-08T00:52:41.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4424,7 +4424,7 @@
       "license": null,
       "last_commit": "2026-05-01T19:22:22Z",
       "open_issues": 4,
-      "owner": "linsa-io",
+      "owner": "gendotnew",
       "repo": "alfred-workflows",
       "stars": 2783,
       "topics": [
