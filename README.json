@@ -1923,7 +1923,7 @@
             "open_issues": 8,
             "owner": "jason0x43",
             "repo": "alfred-toggl",
-            "stars": 376,
+            "stars": 377,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:52:41.638Z",
+    "last_updated": "2026-11-09T01:10:09.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
