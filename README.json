@@ -1510,7 +1510,7 @@
             "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2957,
+            "stars": 2956,
             "topics": [
               "alfred",
               "alfred-3",
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T18:27:47Z",
+            "last_commit": "2026-11-09T22:06:05Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:10:09.232Z",
+    "last_updated": "2026-11-10T03:45:58.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
