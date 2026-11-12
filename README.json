@@ -1794,7 +1794,7 @@
             "language": "AppleScript",
             "license": "MIT",
             "last_commit": "2026-10-28T20:13:07Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "caleb531",
             "repo": "play-song",
             "stars": 116,
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T22:06:05Z",
+            "last_commit": "2026-11-11T18:55:06Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -3310,7 +3310,7 @@
             "open_issues": 10,
             "owner": "mutdmour",
             "repo": "alfred-workflow-cheatsheet",
-            "stars": 109,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3175,
+            "stars": 3176,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4398,7 +4398,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3175,
+            "stars": 3176,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:26:43.448Z",
+    "last_updated": "2026-11-12T02:27:41.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "gendotnew",
       "repo": "alfred-workflows",
-      "stars": 2783,
+      "stars": 2782,
       "topics": [
         "alfred",
         "alfred-workflow",
