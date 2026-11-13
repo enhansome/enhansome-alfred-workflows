@@ -198,7 +198,7 @@
             "open_issues": 8,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
-            "stars": 2917,
+            "stars": 2916,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -274,7 +274,7 @@
             "open_issues": 8,
             "owner": "bchatard",
             "repo": "alfred-jetbrains",
-            "stars": 619,
+            "stars": 618,
             "topics": [
               "alfred",
               "alfred5-workflow",
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12227,
+            "stars": 12225,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T02:27:41.597Z",
+    "last_updated": "2026-11-13T02:04:39.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
