@@ -1770,7 +1770,7 @@
             "open_issues": 1,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
-            "stars": 1108,
+            "stars": 1109,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2029,7 +2029,7 @@
             "open_issues": 55,
             "owner": "moranje",
             "repo": "alfred-workflow-todoist",
-            "stars": 322,
+            "stars": 321,
             "topics": [
               "alfred-app",
               "todoist"
@@ -2830,7 +2830,7 @@
             "open_issues": 8,
             "owner": "wrjlewis",
             "repo": "notion-search-alfred-workflow",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:04:39.683Z",
+    "last_updated": "2026-11-14T01:41:41.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",

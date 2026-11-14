@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,295 | 🐛 431 | 📅 2026-10-23.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,296 | 🐛 430 | 📅 2026-10-23.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 368 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 14 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 64,201 | 🐛 297 | 🌐 Markdown | 📅 2026-11-13 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 64,204 | 🐛 295 | 🌐 Markdown | 📅 2026-11-14 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 328 | 🐛 14 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 9 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -99,7 +99,7 @@
 ## Fun
 
 * [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday) ⭐ 307 | 🐛 11 | 🌐 Go | 📅 2024-01-21 - Showcase how much time passed since your birthday.
-* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,043 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-30
+* [Figlet](https://github.com/importre/alfred-figlet) ⭐ 17 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-22 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js) ⭐ 3,044 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-30
 * [Dongers](https://github.com/frdmn/alfred-dongers) ⭐ 15 | 🐛 2 | 🌐 PHP | 📅 2016-03-22 - List unicode emoticons easily.
 
 ## Libraries
@@ -119,7 +119,7 @@
 
 ## Music
 
-* [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) ⭐ 1,108 | 🐛 1 | 🌐 PHP | 📅 2026-09-15 - Fully control Spotify.
+* [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) ⭐ 1,109 | 🐛 1 | 🌐 PHP | 📅 2026-09-15 - Fully control Spotify.
 * [Play Song](https://github.com/caleb531/play-song) ⭐ 116 | 🐛 2 | 🌐 AppleScript | 📅 2026-10-28 - Quickly and easily play music in iTunes.
 * [Discogs Explorer](https://github.com/dotson/Discogs-Explorer) ⭐ 16 | 🐛 5 | 🌐 Objective-C | 📅 2022-08-31 - Explore the [Discogs.com](https://www.discogs.com) database.
 * [MPD](https://github.com/deanishe/alfred-mpd) ⭐ 9 | 🐛 4 | 🌐 Python | 📅 2020-06-05 - Control MPD music player.
@@ -187,7 +187,7 @@
 * [RunCommand](https://github.com/vitorgalvao/alfred-workflows/tree/master/RunCommand) ⚠️ Archived - Run shell commands on selected files/directories.
 * [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) ⚠️ Archived - Play and manage local audiovisual content and streams.
 * [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) ⚠️ Archived - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
-* [Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow) ⭐ 842 | 🐛 8 | 🌐 Python | 📅 2026-04-08 - Alfred workflow to search Notion with instant results.
+* [Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow) ⭐ 841 | 🐛 8 | 🌐 Python | 📅 2026-04-08 - Alfred workflow to search Notion with instant results.
 * [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) ⭐ 804 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-11 - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
 * [Emoji Search](https://github.com/jsumners/alfred-emoji) ⭐ 782 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-27 - Search and copy emojis.
 * [Convert](https://github.com/deanishe/alfred-convert) ⭐ 712 | 🐛 18 | 🌐 Python | 📅 2022-07-08 - Convert between different units.
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
