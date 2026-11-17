@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T18:55:06Z",
+            "last_commit": "2026-11-16T23:41:55Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -3069,7 +3069,7 @@
             "open_issues": 10,
             "owner": "jin5354",
             "repo": "alfred3-workflow-CurrencyConvert",
-            "stars": 285,
+            "stars": 284,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:20:48.628Z",
+    "last_updated": "2026-11-17T04:08:18.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
