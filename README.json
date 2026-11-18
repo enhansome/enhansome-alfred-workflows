@@ -1510,7 +1510,7 @@
             "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2956,
+            "stars": 2955,
             "topics": [
               "alfred",
               "alfred-3",
@@ -1711,7 +1711,7 @@
             "open_issues": 1,
             "owner": "BaksiLi",
             "repo": "AlfredWorkflows",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2314,6 +2314,33 @@
         },
         {
           "node_type": "item",
+          "title": "Say-workflow",
+          "description": "Read out something swiftly, a good reference for pronunciation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "My workflow creations for Alfred on macOS.",
+            "homepage": null,
+            "id": 153845147,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2020-11-13T16:50:51Z",
+            "open_issues": 1,
+            "owner": "BaksiLi",
+            "repo": "AlfredWorkflows",
+            "stars": 65,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "macos",
+              "productivity",
+              "workflow"
+            ]
+          },
+          "first_seen": "2026-08-28T05:35:47.165Z"
+        },
+        {
+          "node_type": "item",
           "title": "MailTo",
           "description": "Search through your contact list to send emails to one or multiple people.",
           "children": [],
@@ -2335,33 +2362,6 @@
               "alfred3",
               "email",
               "mailto",
-              "workflow"
-            ]
-          },
-          "first_seen": "2026-08-28T05:35:47.165Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Say-workflow",
-          "description": "Read out something swiftly, a good reference for pronunciation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "My workflow creations for Alfred on macOS.",
-            "homepage": null,
-            "id": 153845147,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2020-11-13T16:50:51Z",
-            "open_issues": 1,
-            "owner": "BaksiLi",
-            "repo": "AlfredWorkflows",
-            "stars": 64,
-            "topics": [
-              "alfred",
-              "alfred-workflow",
-              "macos",
-              "productivity",
               "workflow"
             ]
           },
@@ -2942,7 +2942,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2025-01-15T10:55:42Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "sballin",
             "repo": "alfred-search-notes-app",
             "stars": 591,
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:08:18.464Z",
+    "last_updated": "2026-11-18T03:05:51.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",

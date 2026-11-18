@@ -32,7 +32,7 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,310 | 🐛 430 | 📅 2026-10-23.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,323 | 🐛 430 | 📅 2026-10-23.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 368 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 14 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 64,227 | 🐛 285 | 🌐 Markdown | 📅 2026-11-17 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 64,239 | 🐛 278 | 🌐 Markdown | 📅 2026-11-17 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 328 | 🐛 14 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 9 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -104,7 +104,7 @@
 
 ## Libraries
 
-* [Alfred Workflow](https://github.com/deanishe/alfred-workflow) ⭐ 2,956 | 🐛 21 | 🌐 Python | 📅 2023-01-10 - Write workflows in Python.
+* [Alfred Workflow](https://github.com/deanishe/alfred-workflow) ⭐ 2,955 | 🐛 21 | 🌐 Python | 📅 2023-01-10 - Write workflows in Python.
 * [Alfy](https://github.com/sindresorhus/alfy) ⭐ 2,654 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Write workflows in Node.js.
 * [AwGo](https://github.com/deanishe/awgo) ⭐ 877 | 🐛 17 | 🌐 Go | 📅 2024-04-03 - Write workflows in Go.
 * [Alfred Rust](https://github.com/lilyball/alfred-rs) ⭐ 48 | 🐛 2 | 🌐 Rust | 📅 2019-08-27
@@ -114,7 +114,7 @@
 ## macOS
 
 * [NightShift](https://github.com/shmulvad/alfred-nightshift) ⭐ 82 | 🐛 1 | 📅 2022-02-13 - Quickly turn on/off Night Shift or set the warm strength to a custom value.
-* [DarkOrLight](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/DarkOrLight) ⭐ 64 | 🐛 1 | 🌐 Python | 📅 2020-11-13 - Change macOS theme to Dark/Light with one click.
+* [DarkOrLight](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/DarkOrLight) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2020-11-13 - Change macOS theme to Dark/Light with one click.
 * [macOS App Search](https://github.com/nkcmr/alfred-apple-app-search) ⭐ 17 | 🐛 2 | 🌐 Go | 📅 2019-10-04 - Search macOS app store.
 
 ## Music
@@ -143,8 +143,8 @@
 * [Chromium Assistant](https://github.com/jopemachine/alfred-chromium-workflow) ⭐ 150 | 🐛 13 | 🌐 Go | 📅 2024-02-06 - Search and control Chromium based browsers from Alfred.
 * [iMessage 2FA](https://github.com/squatto/alfred-imessage-2fa) ⭐ 118 | 🐛 7 | 🌐 PHP | 📅 2025-01-06 - Find two-factor authentication codes in your recent iMessage messages.
 * [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2) ⭐ 113 | 🐛 9 | 🌐 Ruby | 📅 2017-03-22 - Browse through your Downloads directory or any other directory you specify.
+* [Say-workflow](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/say-workflow) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2020-11-13 - Read out something swiftly, a good reference for pronunciation.
 * [MailTo](https://github.com/deanishe/alfred-mailto) ⭐ 64 | 🐛 5 | 🌐 Python | 📅 2019-01-24 - Search through your contact list to send emails to one or multiple people.
-* [Say-workflow](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/say-workflow) ⭐ 64 | 🐛 1 | 🌐 Python | 📅 2020-11-13 - Read out something swiftly, a good reference for pronunciation.
 * [Apple Notes](https://github.com/surrealroad/alfred-notes) ⭐ 56 | 🐛 4 | 🌐 AppleScript | 📅 2018-06-11 - Make new notes or search notes from macOS Notes app.
 * [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow) ⭐ 54 | 🐛 8 | 🌐 AppleScript | 📅 2023-01-05 - Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
 * [Join Zoom Meeting](https://github.com/aurooba/alfred-workflow-zoom-meetings) ⭐ 45 | 🐛 9 | 📅 2020-06-26 - Join Zoom meetings easily without a new tab opening in your browser.
@@ -191,7 +191,7 @@
 * [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) ⭐ 804 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-16 - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
 * [Emoji Search](https://github.com/jsumners/alfred-emoji) ⭐ 782 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-27 - Search and copy emojis.
 * [Convert](https://github.com/deanishe/alfred-convert) ⭐ 712 | 🐛 18 | 🌐 Python | 📅 2022-07-08 - Convert between different units.
-* [Search Notes App](https://github.com/sballin/alfred-search-notes-app) ⭐ 591 | 🐛 13 | 🌐 Go | 📅 2025-01-15 - Use Alfred to quickly open notes in iCloud/Apple Notes.
+* [Search Notes App](https://github.com/sballin/alfred-search-notes-app) ⭐ 591 | 🐛 14 | 🌐 Go | 📅 2025-01-15 - Use Alfred to quickly open notes in iCloud/Apple Notes.
 * [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) ⭐ 526 | 🐛 10 | 🌐 PHP | 📅 2022-10-17 - Encoding and decoding a sting into multiple variations.
 * [Top Process](https://github.com/zhaocai/alfred2-top-workflow) ⭐ 510 | 🐛 11 | 🌐 Ruby | 📅 2016-07-03 - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
 * [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) ⭐ 334 | 🐛 21 | 🌐 Swift | 📅 2022-07-21 - Enumerate and switch between windows on macOS.
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
