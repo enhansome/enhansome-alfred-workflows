@@ -32,12 +32,12 @@
 
 ## Design
 
-* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,323 | 🐛 430 | 📅 2026-10-23.
+* [Material Design Icons](https://github.com/importre/alfred-mdi) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-05 - Find [Material Design Icons](https://github.com/google/material-design-icons) ⭐ 54,331 | 🐛 430 | 📅 2026-10-23.
 * [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2020-07-09 - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ## Developer
 
-* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,916 | 🐛 8 | 🌐 PHP | 📅 2026-10-03 - Fully featured workflow to inteact with GitHub.
+* [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,916 | 🐛 9 | 🌐 PHP | 📅 2026-11-18 - Fully featured workflow to inteact with GitHub.
 * [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) ⭐ 698 | 🐛 0 | 🌐 PHP | 📅 2025-12-09 - Quick package/plugin/component (repo) lookup for your favourite package managers.
 * [Devdocs](https://github.com/yannickglt/alfred-devdocs) ⭐ 653 | 🐛 8 | 🌐 PHP | 📅 2021-12-06 - Search through [devdocs.io](http://devdocs.io/)
 * [Open in Jetbrains](https://github.com/bchatard/alfred-jetbrains) ⭐ 618 | 🐛 8 | 📅 2025-12-16 - Open project with one of JetBrains' product.
@@ -47,7 +47,7 @@
 * [Npms](https://github.com/sindresorhus/alfred-npms) ⭐ 368 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-09 - Search for npm packages with [npms.io](https://npms.io).
 * [Secure SHell](https://github.com/deanishe/alfred-ssh) ⭐ 358 | 🐛 14 | 🌐 Go | 📅 2021-07-13 - Open SSH/SFTP/mosh connections.
 * [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) ⭐ 349 | 🐛 8 | 📅 2017-07-01 - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
-* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 64,239 | 🐛 278 | 🌐 Markdown | 📅 2026-11-17 pages
+* [TLDR](https://github.com/cs1707/tldr-alfred) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2021-12-29 - Search [TLDR](https://github.com/tldr-pages/tldr) ⭐ 64,247 | 🐛 297 | 🌐 Markdown | 📅 2026-11-19 pages
 * [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) ⭐ 328 | 🐛 14 | 🌐 Go | 📅 2026-07-09 - Search AWS console Services.
 * [Repos](https://github.com/deanishe/alfred-repos) ⭐ 313 | 🐛 9 | 🌐 Python | 📅 2023-12-08 - Browse, search and open Git repositories.
 * [GitHub Jump](https://github.com/lox/alfred-github-jump) ⭐ 130 | 🐛 7 | 🌐 Go | 📅 2023-02-23 - Search your and your GitHub starred repositories.
@@ -140,7 +140,7 @@
 * [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) ⭐ 175 | 🐛 5 | 🌐 Go | 📅 2024-01-21 - Browse all awesome lists in seconds inside Alfred.
 * [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) ⭐ 157 | 🐛 5 | 🌐 Go | 📅 2024-01-22 - Search [Learn Anything](https://learn-anything.xyz/) Website.
 * [Weather](https://github.com/jason0x43/alfred-weather) ⭐ 156 | 🐛 6 | 🌐 Go | 📅 2024-05-04 - Get latest weather for the day, week.
-* [Chromium Assistant](https://github.com/jopemachine/alfred-chromium-workflow) ⭐ 150 | 🐛 13 | 🌐 Go | 📅 2024-02-06 - Search and control Chromium based browsers from Alfred.
+* [Chromium Assistant](https://github.com/jopemachine/alfred-chromium-workflow) ⭐ 149 | 🐛 13 | 🌐 Go | 📅 2024-02-06 - Search and control Chromium based browsers from Alfred.
 * [iMessage 2FA](https://github.com/squatto/alfred-imessage-2fa) ⭐ 118 | 🐛 7 | 🌐 PHP | 📅 2025-01-06 - Find two-factor authentication codes in your recent iMessage messages.
 * [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2) ⭐ 113 | 🐛 9 | 🌐 Ruby | 📅 2017-03-22 - Browse through your Downloads directory or any other directory you specify.
 * [Say-workflow](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/say-workflow) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2020-11-13 - Read out something swiftly, a good reference for pronunciation.
@@ -266,7 +266,7 @@
 ## Writing
 
 * [SynArt](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) ⚠️ Archived - Search for synonyms and antonms.
-* [Bear](https://github.com/drgrib/alfred-bear) ⭐ 443 | 🐛 13 | 🌐 Go | 📅 2026-11-02 - Streamlined note searching and creation for Bear using Alfred.
+* [Bear](https://github.com/drgrib/alfred-bear) ⭐ 442 | 🐛 13 | 🌐 Go | 📅 2026-11-02 - Streamlined note searching and creation for Bear using Alfred.
 * [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) ⭐ 78 | 🐛 7 | 🌐 Python | 📅 2019-10-14 - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
 * [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow) ⭐ 47 | 🐛 0 | 🌐 Ruby | 📅 2022-05-02 - Find LaTeX commands for symbols.
 
@@ -277,7 +277,7 @@
 
 ## Related
 
-* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows) ⭐ 12,227 | 🐛 14 | 📅 2021-02-27
+* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows) ⭐ 12,228 | 🐛 14 | 📅 2021-02-27
 * [Awesome Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) ⚠️ Archived
 * [Awesome Alfred Workflows 2](https://github.com/alfred-workflows/awesome-alfred-workflows) ⚠️ Archived
 * [Pacmax](https://pacmax.org/) - Explore & Share Great Alfred Packages.
@@ -298,4 +298,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

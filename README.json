@@ -194,8 +194,8 @@
             "id": 7644118,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-03T18:19:47Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-18T08:16:04Z",
+            "open_issues": 9,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
             "stars": 2916,
@@ -2242,7 +2242,7 @@
             "open_issues": 13,
             "owner": "jopemachine",
             "repo": "alfred-chromium-workflow",
-            "stars": 150,
+            "stars": 149,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4207,7 +4207,7 @@
             "open_issues": 13,
             "owner": "drgrib",
             "repo": "alfred-bear",
-            "stars": 443,
+            "stars": 442,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12227,
+            "stars": 12228,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:05:51.786Z",
+    "last_updated": "2026-11-19T02:45:31.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
