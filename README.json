@@ -198,7 +198,7 @@
             "open_issues": 9,
             "owner": "gharlan",
             "repo": "alfred-github-workflow",
-            "stars": 2916,
+            "stars": 2915,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -370,7 +370,7 @@
             "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "alfred-npms",
-            "stars": 368,
+            "stars": 367,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -476,7 +476,7 @@
             "open_issues": 14,
             "owner": "rkoval",
             "repo": "alfred-aws-console-services-workflow",
-            "stars": 328,
+            "stars": 327,
             "topics": [
               "alfred",
               "alfred-workflows",
@@ -627,7 +627,7 @@
             "open_issues": 2,
             "owner": "dineshgowda24",
             "repo": "alfred-gcp-workflow",
-            "stars": 73,
+            "stars": 74,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1510,7 +1510,7 @@
             "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2955,
+            "stars": 2954,
             "topics": [
               "alfred",
               "alfred-3",
@@ -1545,7 +1545,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2654,
+            "stars": 2653,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1576,7 +1576,7 @@
             "open_issues": 17,
             "owner": "deanishe",
             "repo": "awgo",
-            "stars": 877,
+            "stars": 876,
             "topics": [
               "alfred",
               "alfred-3",
@@ -1766,8 +1766,8 @@
             "id": 9597401,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T12:30:34Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T12:39:21Z",
+            "open_issues": 2,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
             "stars": 1109,
@@ -1944,7 +1944,7 @@
             "open_issues": 5,
             "owner": "fniephaus",
             "repo": "alfred-pocket",
-            "stars": 368,
+            "stars": 367,
             "topics": [
               "alfred",
               "mozilla",
@@ -2053,7 +2053,7 @@
             "open_issues": 11,
             "owner": "deanishe",
             "repo": "alfred-searchio",
-            "stars": 310,
+            "stars": 309,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2911,7 +2911,7 @@
             "open_issues": 18,
             "owner": "deanishe",
             "repo": "alfred-convert",
-            "stars": 712,
+            "stars": 711,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4207,7 +4207,7 @@
             "open_issues": 13,
             "owner": "drgrib",
             "repo": "alfred-bear",
-            "stars": 442,
+            "stars": 440,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12228,
+            "stars": 12227,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:45:31.776Z",
+    "last_updated": "2026-11-20T02:31:49.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
@@ -4426,7 +4426,7 @@
       "open_issues": 4,
       "owner": "gendotnew",
       "repo": "alfred-workflows",
-      "stars": 2782,
+      "stars": 2781,
       "topics": [
         "alfred",
         "alfred-workflow",
