@@ -1315,7 +1315,7 @@
             "open_issues": 6,
             "owner": "zqzten",
             "repo": "alfred-web-search-suggest",
-            "stars": 360,
+            "stars": 359,
             "topics": [
               "alfred-workflow",
               "amazon",
@@ -1766,8 +1766,8 @@
             "id": 9597401,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T12:39:21Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-20T12:29:55Z",
+            "open_issues": 0,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
             "stars": 1109,
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T23:41:55Z",
+            "last_commit": "2026-11-20T17:58:21Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12227,
+            "stars": 12226,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T02:31:49.543Z",
+    "last_updated": "2026-11-21T02:45:23.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
