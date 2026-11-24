@@ -1510,7 +1510,7 @@
             "open_issues": 21,
             "owner": "deanishe",
             "repo": "alfred-workflow",
-            "stars": 2954,
+            "stars": 2952,
             "topics": [
               "alfred",
               "alfred-3",
@@ -1545,7 +1545,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "alfy",
-            "stars": 2652,
+            "stars": 2653,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -1902,7 +1902,7 @@
             "open_issues": 17,
             "owner": "iansinnott",
             "repo": "alfred-maestro",
-            "stars": 422,
+            "stars": 421,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -1997,7 +1997,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2023-02-23T06:42:29Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "deanishe",
             "repo": "alfred-firefox",
             "stars": 358,
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T17:58:21Z",
+            "last_commit": "2026-11-23T21:02:36Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:56:02.333Z",
+    "last_updated": "2026-11-24T05:28:40.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
