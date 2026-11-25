@@ -1770,7 +1770,7 @@
             "open_issues": 0,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
-            "stars": 1109,
+            "stars": 1110,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4350,7 +4350,7 @@
             "open_issues": 14,
             "owner": "zenorocha",
             "repo": "alfred-workflows",
-            "stars": 12224,
+            "stars": 12223,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:47.165Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3176,
+            "stars": 3175,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4398,7 +4398,7 @@
             "open_issues": 0,
             "owner": "alfred-workflows",
             "repo": "awesome-alfred-workflows",
-            "stars": 3176,
+            "stars": 3175,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:28:40.815Z",
+    "last_updated": "2026-11-25T04:31:49.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
