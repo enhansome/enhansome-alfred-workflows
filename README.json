@@ -1770,7 +1770,7 @@
             "open_issues": 0,
             "owner": "vdesabou",
             "repo": "alfred-spotify-mini-player",
-            "stars": 1110,
+            "stars": 1111,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -2852,7 +2852,7 @@
             "id": 11881031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T21:02:36Z",
+            "last_commit": "2026-11-25T22:29:49Z",
             "open_issues": 35,
             "owner": "ruedap",
             "repo": "alfred-font-awesome-workflow",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:31:49.828Z",
+    "last_updated": "2026-11-26T03:43:59.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Amazing Alfred Workflows",
